@@ -1,4 +1,8 @@
-﻿blablabla{blablabla}
+﻿next{
+
+Avançar
+
+}
 
 intro_button_next{
 
