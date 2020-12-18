@@ -1,4 +1,6 @@
-﻿intro_button_next{
+﻿blablabla{blablabla}
+
+intro_button_next{
 
 Avançar
 
