@@ -1,0 +1,636 @@
+intro_button_next{
+
+blank text
+
+}
+
+first{
+
+blank text
+
+}
+
+second{
+
+blank text
+
+}
+
+fourth{
+
+blank text
+
+}
+
+third{
+
+blank text
+
+}
+
+kodaly_station_name{
+
+blank text
+
+}
+
+kis_irodalmi{
+
+blank text
+
+}
+
+Pesti_hirlap{
+
+blank text
+
+}
+
+critique2{
+
+blank text
+
+}
+
+ending_1{
+
+blank text
+
+}
+
+ending_2{
+
+blank text
+
+}
+
+ending_3{
+
+blank text
+
+}
+
+poem_done_1{
+
+blank text
+
+}
+
+poem_done_2{
+
+blank text
+
+}
+
+szechenyi_station_name{
+
+blank text
+
+}
+
+opera_info{
+
+blank text
+
+}
+
+Body{
+
+blank text
+
+}
+
+kitchenware{
+
+blank text
+
+}
+
+cheese{
+
+blank text
+
+}
+
+woman_in_the_water_0{
+
+blank text
+
+}
+
+baggage_opening_0{
+
+blank text
+
+}
+
+baggage_opening_1{
+
+blank text
+
+}
+
+baggage_opening_3{
+
+blank text
+
+}
+
+Counter{
+
+blank text
+
+}
+
+nyugat_prints_0{
+
+blank text
+
+}
+
+nyugat_prints_1{
+
+blank text
+
+}
+
+Deak_station_name{
+
+blank text
+
+}
+
+opera_station_name{
+
+blank text
+
+}
+
+oktogon_station_name{
+
+blank text
+
+}
+
+main_headline{
+
+blank text
+
+}
+
+szechenyi_info{
+
+blank text
+
+}
+
+present_message{
+
+blank text
+
+}
+
+critique1{
+
+blank text
+
+}
+
+oktogon_info{
+
+blank text
+
+}
+
+bajza_station_name{
+
+blank text
+
+}
+
+kodaly_info{
+
+blank text
+
+}
+
+voromartyutca_station_name{
+
+blank text
+
+}
+
+lights_off_vomit_glows{
+
+blank text
+
+}
+
+lets_walk{
+
+blank text
+
+}
+
+bajcsy_info{
+
+blank text
+
+}
+
+heirloom{
+
+blank text
+
+}
+
+before_entering_crime_scene{
+
+blank text
+
+}
+
+windows_of_lipot{
+
+blank text
+
+}
+
+waiters_task{
+
+blank text
+
+}
+
+bajza_info{
+
+blank text
+
+}
+
+missed_stop_0{
+
+blank text
+
+}
+
+missed_stop_1{
+
+blank text
+
+}
+
+bajcsy_station_name{
+
+blank text
+
+}
+
+vorosmarty_ter_info{
+
+blank text
+
+}
+
+salami{
+
+blank text
+
+}
+
+osvat_refusal_1{
+
+blank text
+
+}
+
+osvat_refusal_2{
+
+blank text
+
+}
+
+hosok_info{
+
+blank text
+
+}
+
+hosok_station_name{
+
+blank text
+
+}
+
+discovering_note{
+
+blank text
+
+}
+
+main_article{
+
+blank text
+
+}
+
+vorosmartyter_station_name{
+
+blank text
+
+}
+
+Oven{
+
+blank text
+
+}
+
+boarding_the_sub_1{
+
+blank text
+
+}
+
+boarding_the_sub_2{
+
+blank text
+
+}
+
+vorosmarty_utca_info{
+
+blank text
+
+}
+
+writing_on_back{
+
+blank text
+
+}
+
+ham{
+
+blank text
+
+}
+
+mystery_woman{
+
+blank text
+
+}
+
+deak_info{
+
+blank text
+
+}
+
+line5{
+
+blank text
+
+}
+
+line6{
+
+blank text
+
+}
+
+line2{
+
+blank text
+
+}
+
+line4{
+
+blank text
+
+}
+
+line3{
+
+blank text
+
+}
+
+line1{
+
+blank text
+
+}
+
+sign_it{
+
+blank text
+
+}
+
+krudy_refuses{
+
+blank text
+
+}
+
+krudy_arrives{
+
+blank text
+
+}
+
+krudy_accepts{
+
+blank text
+
+}
+
+krudy_fav{
+
+blank text
+
+}
+
+karinthy_refuses{
+
+blank text
+
+}
+
+karinthy_arrives{
+
+blank text
+
+}
+
+karinthy_accepts{
+
+blank text
+
+}
+
+karinthy_fav{
+
+blank text
+
+}
+
+szini_refuses{
+
+blank text
+
+}
+
+szini_arrives{
+
+blank text
+
+}
+
+szini_accepts{
+
+blank text
+
+}
+
+szini_fav{
+
+blank text
+
+}
+
+osvat_refuses{
+
+blank text
+
+}
+
+osvat_arrives{
+
+blank text
+
+}
+
+osvat_accepts{
+
+blank text
+
+}
+
+osvat_fav{
+
+blank text
+
+}
+
+next{
+
+blank text
+
+}
+
+szep_refuses{
+
+blank text
+
+}
+
+szep_arrives{
+
+blank text
+
+}
+
+szep_accepts{
+
+blank text
+
+}
+
+szep_fav{
+
+blank text
+
+}
+
+brody_refuses{
+
+blank text
+
+}
+
+brody_arrives{
+
+blank text
+
+}
+
+brody_accepts{
+
+blank text
+
+}
+
+brody_fav{
+
+blank text
+
+}
+
+deadly_message{
+
+blank text
+
+}
+
+secondary_article{
+
+blank text
+
+}
+
+secondary_headline{
+
+blank text
+
+}
+
+bad_writer{
+
+blank text
+
+}
+
+love_him{
+
+blank text
+
+}
+
+good_writer{
+
+blank text
+
+}
+
+osvat_is_wrong{
+
+blank text
+
+}
+
+osvat_must_die{
+
+blank text
+
+}
+
+credits{
+
+blank text
+
+}
+
