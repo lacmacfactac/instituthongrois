@@ -1,12 +1,12 @@
-﻿next{
+﻿intro_button_next{
 
-Continuar
+Avançar
 
 }
 
-intro_button_next{
+next{
 
-Continuar
+Avançar
 
 }
 
@@ -136,7 +136,7 @@ Banho Termal Széchenyi
 
 szechenyi_info{
 
-Budapeste é uma capital especial que conta com 118 fontes de água termal. Os primeiros banhos termais foram construídos à época de Septimus Severus, no ano de 201. Átila, o Rei dos Hunos, e Árpád, chefe dos pioneiros húngaros, também acamparam junto às fontes termais próximas ao Danúbio. Dos tempos turcos ainda podemos usar 4 banhos termais. A construção do <b>Banho Termal Széchenyi</b> começou em 1909 num estilo que alude a uma catedral renascentista. 
+Budapeste é uma capital especial que tem 118 fontes de água termal. Os primeiros banhos foram construídos à época de Septimus Severus, em 201. Átila, o Rei dos Hunos, e Árpád, chefe dos pioneiros húngaros, também acamparam junto às fontes próximas ao Danúbio. Da época turca ainda restam 4 banhos. A construção do <b>Banho Széchenyi</b> começou em 1909 num estilo que alude a uma catedral renascentista. 
 
 }
 
@@ -172,7 +172,7 @@ Praça Kodály
 
 kodaly_info{
 
-O compositor e músico <b>Zoltán Kodály</b> foi um dos pioneiros da pesquisa e coleção de canções populares húngaras junto a Béla Bartók. Kodály reformou todo o sistema de ensino da música na Hungria com o seu novo método de pedagogia musical. «Que a música seja de todos!» - dizia. O ensino musical tem que começar nas creches, sendo o instrumento principal do método a própria voz, e seu material de ensino a linguagem materna musical de todos nós: a música folclórica. 
+O compositor e músico <b>Zoltán Kodály</b> foi um dos pioneiros da pesquisa e coleção de canções populares húngaras junto a Béla Bartók. Kodály reformou todo o sistema de ensino da música na Hungria com o seu novo método de pedagogia. «Que a música seja de todos!» - dizia. O ensino musical tem que começar nas creches, sendo o instrumento principal a própria voz, e o material de ensino a linguagem materna musical de todos nós: a música folclórica. 
 
 }
 
@@ -184,7 +184,7 @@ Rua Vörösmarty
 
 vorosmarty_utca_info{
 
-A Academia Real de Música da Hungria mudou-se para o prédio na equina da <b>Rua Vörösmarty</b> e a Avenida Andrássy em 1879. Ferenc Liszt (1811-1886) ensinava seus alunos de graça e de acordo com o método dos cursos avançados de hoje em dia. A última casa dele em Budapeste hoje funciona como Memorial Ferenc Liszt, onde hoje guardam os instrumentos, livros e partituras doados por ele para a Academia de Música. 
+A Academia Real de Música da Hungria mudou-se para o prédio na esquina da <b>Rua Vörösmarty</b> e a Avenida Andrássy em 1879. Ferenc Liszt (1811-1886) ensinava seus alunos de graça e de acordo com o método dos cursos avançados de hoje em dia. A última casa dele em Budapeste agora funciona como Memorial Ferenc Liszt, onde hoje guardam os instrumentos, livros e partituras doados por ele para a Academia de Música. 
 
 }
 
@@ -196,7 +196,7 @@ Oktogon
 
 oktogon_info{
 
-As duas maiores obras urbanas do século XIX na cidade, a Avenida Andrássy e a Grande Circular, com mais de 4000 metros de comprimento, se cruzam numa praça com oito lados, a <b>Oktogon</b>. A Grande Circular tem o papel de conectar as avenidas radiais principais da nova cidade em constante crescimento e criada através da união de Buda, Peste e Óbuda (1873). É nesta avenida que começa a funcionar a primeira linha de bonde em 1887. 
+As duas maiores obras do século XIX na cidade, a Avenida Andrássy e a Grande Circular, com mais de 4000 metros de comprimento, se cruzam numa praça com oito lados, a <b>Oktogon</b>. A Grande Circular conecta as avenidas radiais principais da nova cidade em constante crescimento e criada através da união de Buda, Peste e Óbuda (1873). É nesta avenida que começa a funcionar a primeira linha de bonde em 1887. 
 
 }
 
@@ -220,7 +220,7 @@ Avenida Bajcsy-Zsilinszky
 
 bajcsy_info{
 
-A Avenida Andrássy, “a Champs-Élysées de Budapeste” é uma continuação da <b>Avenida Bajcsy-Zsilinszky</b> e conecta o centro da cidade ao Bosque Municipal. A avenida é inaugurada em 1876 em grande cerimônia. Primeiro recebe o nome de Avenida Radial, e depois, em 1885, o nome do Conde Gyula Andrássy. Nos dois lados da avenida foram erguidos prédios em estilo eclético-neorenascentista, e o seu pavimento coberto com cubos de madeira. 
+A Avenida Andrássy, “a Champs-Élysées de Budapeste” é uma continuação da <b>Avenida Bajcsy-Zsilinszky</b> e conecta o centro da cidade ao Bosque Municipal. É inaugurada em 1876 em grande cerimônia. Primeiro recebe o nome de Avenida Radial, e depois, em 1885, o do Conde Gyula Andrássy. Nos dois lados foram erguidos prédios em estilo eclético-neorenascentista, e o seu pavimento coberto com cubos de madeira. 
 
 }
 
@@ -268,31 +268,31 @@ Da cama do pequeno amor do poeta faminto
 
 line2{
 
-viaja de metrô com estômago vazio
+Viaja de metrô com estômago vazio
 
 }
 
 line3{
 
-sonha com o café dos poetas até receber um tapa
+Sonha com o café dos poetas até receber um tapa
 
 }
 
 line4{
 
-os escritores famosos e famintos que não pagam a conta
+Os escritores famosos e famintos que não pagam a conta
 
 }
 
 line5{
 
-pensamentos sinistros pairam sobre ele
+Pensamentos sinistros pairam sobre ele
 
 }
 
 line6{
 
-seu café de manhã ele sempre esquece.
+Seu café de manhã ele sempre esquece
 
 }
 
@@ -382,7 +382,7 @@ Vejamos Gyula Krúdy, mestre da prosa húngara. Friorento, não gosta de bebidas
 
 krudy_accepts{
 
-Cerveja morna! Minha favorita! – excalam Krúdy. 
+Cerveja morna! Minha favorita! – exclama Krúdy. 
 
 }
 
@@ -713,4 +713,5 @@ Balázs József
 Revisão: 
 Gustavo Voeroes-Dénes
 
-}
+Portuguese_text dec 8.txt
+Affichage de Portuguese_text dec 8.txt en cours...
