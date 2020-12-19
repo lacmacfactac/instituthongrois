@@ -675,24 +675,36 @@ Le jeu a été conçu par
 László András Halák 
 Dorottya Kovács
 
+
 Avec la collaboration de 
 
 l’Institut culturel hongrois de Paris 
-Zita Bodnár, Emma Bornai, Orsolya Karinthi-Rébay, Gábor Orbán 
+
+Zita Bodnár
+Emma Bornai
+Orsolya Karinthi-Rébay
+Gábor Orbán 
+
 
 En partenariat avec l’Université d’art appliqué Moholy-Nagy (Budapest)
 
-Extrait littéraire : « Dernier jour à Budapest » de Sándor Márai, Albin Michel, 2017
+
+Extrait littéraire :
+
+« Dernier jour à Budapest » de Sándor Márai, Albin Michel, 2017
 Traduit par Catherine Fay
+
 
 Musique :
 
 Esther Abrami — No.2 Remembering Her
 Emmit Fenn — Allégro
 
+
 Effets sonores : 
 
 freesound.org
+
 
 Images : 
 
@@ -705,8 +717,14 @@ György Klösz
 Anantara New York Palace Budapest Hotel
 
 
-Traduction : Gábor Orbán 
-Relecture : Anne Veevaert
+Traduction :
+
+Gábor Orbán
+
+
+Relecture :
+
+Anne Veevaert
 
 
 }

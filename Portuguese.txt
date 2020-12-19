@@ -693,10 +693,12 @@ Citação literária:
 
 Sándor Márai: “Szindbád volta para casa” (Editora Akadémiai, Editora Helikon, 1992)
 
+
 Música:
 
 Esther Abrami - No.2 Remembering Her
 Emmit Fenn - Allégro
+
 
 Efeitos de som: 
 
@@ -713,11 +715,16 @@ Gyula Somlai
 György Klösz 
 Anantara New York Palace Budapest Hotel
 
+
 Tradução para português: 
+
 Balázs József 
 
+
 Revisão: 
+
 Gustavo Voeroes-Dénes
+}
 
 Portuguese_text dec 8.txt
 Affichage de Portuguese_text dec 8.txt en cours...
