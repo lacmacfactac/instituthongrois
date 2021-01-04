@@ -1,4 +1,9 @@
-﻿intro_button_next{
+﻿next{
+
+Tovább
+
+}
+intro_button_next{
 
 Tovább
 
