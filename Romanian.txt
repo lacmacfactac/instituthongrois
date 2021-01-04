@@ -1,4 +1,14 @@
-﻿intro_button_next{
+﻿
+next{
+
+
+
+Mai departe
+
+
+
+}
+intro_button_next{
 
 
 

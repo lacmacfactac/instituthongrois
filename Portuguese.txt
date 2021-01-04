@@ -237,7 +237,7 @@ Praça de Ferenc Deák
 
 deak_info{
 
-O maior poeta húngaro do século XIX, Sándor Petőfi frequentava a escola luterana da <b>Praça Ferenc Deák </b>. No dia 15 de março de 1848 recitou o seu poema intitulado Canção Nacional no local predileto dos jovens reformistas, o Café Pilvax. Ele foi um dos protagonistas da Revolução e Insurreição Húngara de 1848-1849. Veio a falecer no campo de batalha lutando contra as tropas russas que vieram ao auxílio do imperador austríaco. 
+O maior poeta húngaro do século XIX, Sándor Petőfi frequentava a escola luterana da <b>Praça Ferenc Deák</b>. No dia 15 de março de 1848 recitou o seu poema intitulado Canção Nacional no local predileto dos jovens reformistas, o Café Pilvax. Ele foi um dos protagonistas da Revolução e Insurreição Húngara de 1848-1849. Veio a falecer no campo de batalha lutando contra as tropas russas que vieram ao auxílio do imperador austríaco. 
 
 }
 
