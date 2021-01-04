@@ -3,7 +3,6 @@
 Avançar
 
 }
-
 intro_button_next{
 
 Avançar
@@ -202,7 +201,7 @@ Oktogon
 
 oktogon_info{
 
-As duas maiores obras do século XIX na cidade, a Avenida Andrássy e a Grande Circular, com mais de 4000 metros de comprimento, se cruzam numa praça com oito lados, a <b>Oktogon</b>. A Grande Circular conecta as avenidas radiais principais da nova cidade em constante crescimento e criada através da união de Buda, Peste e Óbuda (1873). É nesta avenida que começa a funcionar a primeira linha de bonde em 1887. 
+As duas maiores obras do séc. XIX na cidade, a Avenida Andrássy e a Grande Circular, com mais de 4000 metros, se cruzam numa praça com oito lados, a <b>Oktogon</b>. A Grande Circular conecta as avenidas radiais principais da nova cidade em constante crescimento e criada através da união de Buda, Peste e Óbuda (1873). É nesta avenida que começa a funcionar a primeira linha de bonde em 1887.
 
 }
 
@@ -719,5 +718,3 @@ Balázs József
 Revisão: 
 Gustavo Voeroes-Dénes
 
-Portuguese_text dec 8.txt
-Affichage de Portuguese_text dec 8.txt en cours...

@@ -1,4 +1,4 @@
-intro_button_next{
+﻿intro_button_next{
 
 
 
@@ -38,7 +38,7 @@ second{
 
 
 
-În cadrul festivităţilor de aniversare a unui mileniu de existenţă a Ungariei (1896) a fost inaugurată prima linie de metrou din Budapesta, fiind prima linie ferată subterană din Europa continentală. „Febra construcţiilor” din acea perioadă a rezultat şi Palatul New York (1894) proiectat de Alajos Hauszmann, arhitectul care a condus lucrările de reconstrucţie a Palatului din Buda. Beneficiarul, o companie americană de asigurări, a dat mână liberă arhitectului în ce priveşte costurile execuţiei. Cel mai luxos spaţiu din palatul construit în stil eclectic este cafeneaua care s-a executat aproape exclusiv din materiale durabile, marmură şi bronz, tavanul fiind ornamentat cu fresce.
+La aniversarea milenară a Ungariei (1896) s-a inaugurat prima linie de metrou din Budapesta, fiind prima linie ferată subterană din Europa continentală. Tot atunci s-a construit Palatul New York (1894) proiectat de Alajos Hauszmann. Cafeneaua, cel mai luxos spaţiu din palatul construit în stil eclectic, s-a executat aproape exclusiv din marmură şi bronz, cu tavanul ornamentat cu fresce.
 
 
 
@@ -50,7 +50,7 @@ third{
 
 
 
-Începând cu anii nouăzeci cafeneaua capătă caracter literar, fapt ce se datorează în mare măsură ospătarilor şefi iubitori de literatură, de la care scriitorii săraci primeau ustensile de scris şi credite. Paginile revistei Nyugat fondată în anul 1908, care a definit literatura secolului al XX-lea, s-au născut practic la mesele de marmură ale cafenelei New York. Localul vizitat adesea şi de alţi artişti, de actori, compozitori şi pictori, poate fi considerat şi leagăn al cinematografiei maghiare. Aici s-au născut primele reviste de cinema, aici şi-a semnat primul său contract de film steaua peliculelor mute, Bánky Vilma, aici anunţă Kertész Mihály (Michael Curtiz, regizorul Casablancăi) că pleacă în străinătate…
+În anii 90 cafeneaua capătă caracter literar datorită ospătarilor care îi sprijină pe scriitori. Revista Nyugat (1908), care a definit literatura sec. XX, s-a născut la mesele de marmură ale cafenelei. Localul vizitat şi de alţi artişti este leagănul cinematografiei maghiare. Aici s-au născut primele reviste de cinema, aici anunţă regizorul Kertész Mihály (Michael Curtiz) că pleacă în străinătate…
 
 
 
@@ -260,7 +260,7 @@ Baia Széchenyi
 szechenyi_info{
 
 
-Budapesta este singura capitală în care se găsesc 118 izvoare şi puţuri de apă termală. Primele băi termale au fost construite în anul 201 de către romanul Septimus Severus. Attila, regele hunilor, şi principele Árpád, întemeietorul de ţară şi-au aşezat taberele lângă izvoarele de apă termală de pe lângă Dunăre. Din perioada dominaţiei turceşti s-au păstrat până astăzi 4 băi. Construirea <b>Băii Széchenyi</b> a început în anul 1909, stilul ei aducând a catedrală renascentistă. 
+Budapesta este singura capitală cu 118 izvoare şi puţuri de apă termală, primele băi romane datând din anul 201. Hunul Attila şi regele întemeietor de țară Árpád şi-au aşezat taberele lângă izvoarele de apă termală de pe lângă Dunăre. Din perioada dominaţiei turceşti se păstrează astăzi 4 băi. Construirea <b>Băii Széchenyi</b> a început în anul 1909, stilul ei aducând a catedrală renascentistă. 
 
 
 
@@ -283,7 +283,7 @@ hosok_info{
 
 
 
-<b>Piaţa Eroilor</b> a fost construită în 1896, cu ocazia festivităţilor milenare, şi aduce un omagiu istoriei de o mie de ani a maghiarilor. Aici se găsesc statuile a unsprezece personalităţi istorice emblematice, iar în mijlocul pieţei se află un obelisc, în vârful căruia stă Arhanghelul Gabriel ţinând coroana şi crucea. Legenda spune că Gabriel a apărut în visul primului rege maghiar, Sfântul Ştefan, oferindu-i Sfânta Coroană.
+<b>Piaţa Eroilor</b> a fost construită în 1896, cu ocazia festivităţilor milenare, şi aduce un omagiu istoriei de o mie de ani a maghiarilor. Aici se află statuile a unsprezece personalităţi istorice emblematice, în mijlocul pieței un obelisc în vârful căruia stă Arhanghelul Gabriel ţinând coroana şi crucea, pe care – potrivit legendei - i le oferise primului rege maghiar, Sfântul Ştefan.
 
 
 
@@ -331,7 +331,7 @@ kodaly_info{
 
 
 
-Compozitorul şi muzicologul <b>Zoltán Kodály</b> a fost – alături de Bartók Béla - pionierul cercetării şi culegerii folclorului muzical. Prin munca sa de pedagog Kodály a revoluţionat întreaga educaţie muzicală maghiară. «Să fie muzica a tuturor» - proclamă el. Educaţia muzicală trebuie începută în grădiniţă, cel mai important instrument al educaţiei fiind vocea umană, iar materia este limba maternă muzicală a fiecăruia: muzica tradiţională.
+Compozitorul şi muzicologul <b>Zoltán Kodály</b> a fost, alături de Bartók Béla, pionierul cercetării şi culegerii folclorului muzical.  Kodály a revoluţionat educaţia muzicală maghiară. «Să fie muzica a tuturor», proclamă el. Educaţia muzicală trebuie începută în grădiniţă, cel mai important instrument muzical fiind vocea umană, iar materia este propria limbă maternă muzicală: muzica tradiţională.
 
 
 }
@@ -376,7 +376,7 @@ oktogon_info{
 
 
 
-În <b>Piața Octogon</b>, cu forma unui poligon cu opt laturi, se intersectează Calea Andrássy cu Marele Bulevard cu o lungime de peste 4000 metri, cele mai importante creații urbanistice ale secolului al XIX-lea.  Marele Bulevard leagă celelalte bulevarde ale capitalei care a cunoscut o dezvoltare accelerată după unificarea Pestei cu Buda și Óbuda (1873). Pe Marele Bulevard s-a construit şi prima linie de tramvai în anul 1887.
+În <b>Piața Octogon</b>, cu forma unui poligon cu opt laturi, se intersectează Calea Andrássy cu Marele Bulevard lung de peste 4000 m, cele mai importante creații urbanistice ale sec. XIX.  Marele Bulevard leagă celelalte bulevarde ale capitalei ce a cunoscut o dezvoltare rapidă după unificarea Pestei cu Buda și Óbuda (1873). Pe Marele Bulevard s-a construit şi prima linie de tramvai în anul 1887.
 
 
 
@@ -423,7 +423,7 @@ Calea Bajcsy-Zsilinszky
 bajcsy_info{
 
 
-Din <b>Calea Bajcsy-Zsilinszky</b> pornește Calea Andrássy, „Champs-Élysées-ul Budapestei”, care leagă Parcul Central de centrul orașului. Artera a fost inaugurată în anul 1876 în cadru festiv. La început se numea Bulevard, apoi, în 1885 este denumit după contele Andrássy Gyula. Pe marginea lui se înșiră case și curii construite în stil eclectic neorenascentist. Inițial era podită cu cuburi din lemn. 
+Din <b>Calea Bajcsy-Zsilinszky</b> pornește Calea Andrássy, „Champs-Élysées-ul Budapestei”, legând Parcul Central de centrul orașului. Artera a fost inaugurată în anul 1876 în cadru festiv. La început se numea Bulevard, apoi, în 1885 este denumit după contele Andrássy Gyula. Pe marginea lui se înșiră case și curii construite în stil eclectic neorenascentist. Inițial era podită cu cuburi din lemn. 
 
 
 
@@ -448,7 +448,7 @@ deak_info{
 
 
 
-În <b>Piața Ferenc Deák</b> se află școala evanghelică unde a învățat Petőfi Sándor, unul dintre cei mai mari poeți ai secolului al XIX-lea. El a recitat la 15 martie 1848, la Cafeneaua Pilvax, locul de întâlnire a tinerilor reformiști, poezia intitulată „Cântec Național”. A fost unul din personajele importante ale revoluției și luptei de eliberare din 1848-49. Moare pe câmpul de bătălie luptând împotriva trupelor rusești venite în ajutorul împăratului austriac.
+În <b>Piața Ferenc Deák</b> se află școala evanghelică unde a învățat Petőfi Sándor, unul dintre cei mai mari poeți ai secolului XIX. El a recitat la 15 martie 1848, la Cafeneaua Pilvax, unde se întâlneau tinerii reformiști, poezia „Cântec Național”. Personaj important al revoluției din 1848-49, moare pe câmpul de bătălie luptând împotriva trupelor rusești venite în ajutorul împăratului austriac.
 
 
 
@@ -1102,7 +1102,7 @@ secondary_article{
 
 
 
-Ieri, în orele serii, trecătorii au observat pe malul Dunării o femeie năucă. Ea a privit îndelung în fața ei, apoi a intrat în Dunăre și s-a scufundat. Norocul ei a fost că un polițist care patrula în apropiere a alergat după ea și a tras-o la mal. După cum s-a aflat ulterior, femeia este Malvina Fabula, guvernantă la o renumită familie de producători de chibrituri, și a fost transportată imediat la ospiciul Lipótmező, unde este supusă terapiei de șoc.
+Ieri seara, trecătorii au observat pe malul Dunării o femeie năucă. Ea a privit îndelung în fața ei, apoi a intrat în Dunăre și s-a scufundat. Noroc că un polițist care patrula în apropiere a alergat după ea și a tras-o la mal. Malvina Fabula, guvernantă la o renumită familie de producători de chibrituri, a fost dusă imediat la ospiciul Lipótmező, unde este supusă terapiei de șoc.
 
 
 
@@ -1243,7 +1243,7 @@ epilogue_1{
 
 
 
-Deși povestea noastră este o ficțiune, cu exagerări specifice unei povești polițiste, prin oglindirea ei distorsionată oferă totuși un adevăr important despre Budapesta începutului de secolul XIX: în acea perioadă literatura era a chestiune mortal de serioasă... Revista Nyugat şi-a păstrat statutul de atelier și forum al literaturii maghiare moderne în formare timp de treizeci și trei de ani, datorită strictelor criterii calitative ale unor redactori precum Osvát, dar și mediului spiritual prolific oferit de Cafeneaua New York și de alte cafenele literare. După cum spune ospătarul șef Ede în romanul lui Márai Sándor intitulat „Szindbád pleacă acasă”: „cafeneaua este mediul specific singular, complet nesănătos din punct de vedere medical sau al profesorului de sport, dar util din punct de vedere literar, căci aici scriitorii sunt nițel protejați de ispitele lumii, de atitudinea sfidătoare a funcționarilor și de rugozitatea financiarului; li se tocesc plămânii și inima din cauza nicotinei și a cafelei, dar le înflorește spiritul, ceea ce este mai important”.
+Deși povestea noastră este o ficțiune, cu exagerări specifice unei povești polițiste, prin oglindirea ei distorsionată oferă totuși un adevăr important despre Budapesta începutului de secol XIX: în acea perioadă literatura era a chestiune mortal de serioasă... Revista Nyugat şi-a păstrat statutul de atelier și forum al literaturii maghiare moderne în formare timp de treizeci și trei de ani, datorită strictelor criterii calitative ale unor redactori precum Osvát, dar și mediului spiritual prolific oferit de Cafeneaua New York și de alte cafenele literare. După cum spune ospătarul șef Ede în romanul lui Márai Sándor intitulat „Szindbád pleacă acasă”: „cafeneaua este mediul specific singular, complet nesănătos din punct de vedere medical sau al profesorului de sport, dar util din punct de vedere literar, căci aici scriitorii sunt nițel protejați de ispitele lumii, de atitudinea sfidătoare a funcționarilor și de rugozitatea financiarului; li se tocesc plămânii și inima din cauza nicotinei și a cafelei, dar le înflorește spiritul, ceea ce este mai important”.
 
 
 
@@ -1378,5 +1378,9 @@ Anantara New York Palace Budapest Hotel
 
 
 }
+
+
+
+
 
 

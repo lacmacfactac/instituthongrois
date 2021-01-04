@@ -1,4 +1,4 @@
-intro_button_next{
+﻿intro_button_next{
 
 Tovább
 
@@ -662,7 +662,7 @@ credits{
 
 Orbán Gábor ötlete alapján,
 
-A Párizsi Magyar Kulturális Intézet megbízásából készítette:
+A párizsi Magyar Kulturális Intézet megbízásából készítette:
 
 Bakk Ágnes
 Halák László András
