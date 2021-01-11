@@ -177,8 +177,7 @@ Kodály körönd
 
 kodaly_info{
 
-Skladatelj in muzikolog <b>Zoltán Kodály</b> je poleg Béle Bartóka utiral pot raziskovanju in zbiranju ljudske glasbene zapuščine. Kodály je s svojim delom na področju glasbene pedagogike prenovil celotno glasbeno vzgojo na Madžarskem. Njegov moto je bil: »Naj glasba pripada vsakomur!«. Glasbeno vzgojo je treba začeti v predšolski dobi, pri čemer je najpomembnejše petje, gradivo pa naj bo materni jezik vsakogar: ljudska glasba.
-
+Skladatelj in muzikolog <b>Zoltán Kodály</b> je utiral pot raziskovanju in zbiranju ljudske glasbene zapuščine. Kodály je s svojim delom na področju glasbene pedagogike prenovil glasbeno vzgojo na Madžarskem. Njegov moto je bil: »Naj glasba pripada vsakomur!«. Glasbeno vzgojo je treba začeti zgodaj, pri čemer je najpomembnejše petje, gradivo pa naj bo materni jezik vsakogar: ljudska glasba.
 }
 
 voromartyutca_station_name{
@@ -189,8 +188,7 @@ Vörösmartyjeva ulica (Vörösmarty utca)
 
 vorosmarty_utca_info{
 
-Na vogalu <b>Vörösmartyjeve ulice</b> in Andrássyjeve avenije stoji zgradba, v katero se je leta 1879 preselila Madžarska kraljeva glasbena akademija. Franc Liszt (1811–1886) je tam pro bono poučeval učence po učnem načrtu, ki ustreza ravni današnjih mojstrskih tečajev. Zadnje prebivališče tega skladatelja v Budimpešti so preoblikovali v današnji Spominski muzej Franca Liszta, kjer so na ogled glasbeni inštrumenti, knjige in notno gradivo, ki jih je skladatelj zapustil glasbeni akademiji.
-
+Na vogalu <b>Vörösmartyjeve ulice</b> in Andrássyjeve avenije stoji zgradba, v katero se je leta 1879 preselila Madžarska kraljeva glasbena akademija. Franc Liszt (1811–1886) je tam pro bono poučeval učence po učnem načrtu, ki ustreza ravni današnjih mojstrskih tečajev. Zadnje prebivališče Liszta v prestolnici so preoblikovali v muzej, kjer so na ogled glasbila, ki jih je skladatelj zapustil akademiji.
 }
 
 oktogon_station_name{
