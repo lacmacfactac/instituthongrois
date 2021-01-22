@@ -1,29 +1,29 @@
-﻿next{
-
-Edasi
-
+﻿next{
+
+Edasi
+
 }
 
-intro_button_next{
-
-Edasi
-
-}
-
-next{
-
-Edasi
+intro_button_next{
+
+Edasi
+
+}
+
+next{
+
+Edasi
 
 }
 
 first{
 
-Budapest omandas tänapäevase ilme 19. sajandi viimasel veerandil. Aastatel 1869–1894 pealinna hoonete arv praktiliselt kahekordistus. Valmisid parlamendihoone, suur ringtee, Andrássy tee, Erzsébeti ja Margiti sild, lääne raudteejaam (Gustave Eiffeli büroo kavandi järgi) ja ooperimaja ...
+Budapest omandas tänapäevase ilme 19. sajandi viimasel veerandil. Aastatel 1869–1894 pealinna hoonete arv praktiliselt kahekordistus. Valmisid  parlamendihoone, suur ringtee, Andrássy tee, Erzsébeti ja Margiti sild, lääne raudteejaam (Gustave Eiffeli büroo kavandi järgi) ja ooperimaja ...
 }
 
 second{
 
-Ungari maahõivamise tuhandendaks aastapäevaks (1896) valmis Budapesti metroo esimene liin, mis oli Mandri-Euroopas esimene omasuguste seas. Sama "ehituspalaviku" käigus sündis New Yorgi palee (1894), mille projekteeris Alajos Hauszmann. Tema kavandatud on ka Buda kindluslossi ümberehitus. Ameerika kindlustusettevõte, kes New Yorgi palee ehitustööd tellis, andis arhitektile projekti maksumuse osas täiesti vabad käed. Eklektilises stiilis palee kõige suursugusemaseks osaks peetava kohviku ehitamisel kasutati ainult ajahambale vastupidavaid materjale – marmorit ja pronksi; lagi kaunistati freskodega.
+Ungari maahõivamise tuhandendaks aastapäevaks (1896) valmis Budapesti metroo esimene liin, mis oli Mandri-Euroopas esimene omasuguste seas. Sama "ehituspalaviku" käigus sündis New Yorgi palee (1894), mille projekteeris Alajos Hauszmann. Tema kavandatud on ka Buda kindluslossi ümberehitus. Ameerika  kindlustusettevõte, kes New Yorgi palee ehitustööd tellis, andis arhitektile projekti maksumuse osas täiesti vabad käed. Eklektilises stiilis palee kõige suursugusemaseks osaks peetava kohviku ehitamisel kasutati ainult ajahambale vastupidavaid materjale – marmorit ja pronksi; lagi kaunistati freskodega.
 
 }
 
@@ -36,7 +36,7 @@ Kohvikust sai 19. sajandi lõpukümnendil kirjanike meelispaik. Selle eest tuleb
 
 fourth{
 
-Ööpäevaringselt avatud olnud asutuses, mille võti olevat rahva juttude kohaselt Doonausse heidetud, võis rahulikult loometööga tegeleda, aga vajadusel ka natuke laua taga magada. Kohvik sulges oma uksed esimest korda 1916. aastal, et edaspidi muutunud juhtkonna ja nime all ikka ja jälle uksed avada.
+Ööpäevaringselt avatud olnud asutuses, mille võti olevat rahva juttude kohaselt Doonausse heidetud, võis rahulikult  loometööga tegeleda, aga vajadusel ka natuke laua taga magada. Kohvik sulges oma uksed esimest korda 1916. aastal, et edaspidi muutunud juhtkonna ja nime all ikka ja jälle uksed avada.
 
 }
 
@@ -651,14 +651,14 @@ Tollal kasutati mürgitamiseks sageli valget fosforit. Üks tõend selle kohta o
 
 }
 
-epilogue_1{
+epiloog_1{
 
 
 Ehkki meie lugu on väljamõeldis, mida iseloomustavad kriminaalkirjandusele iseloomulikud liialdused, räägib see kõverpeeglist vaadatuna siiski nii mõndagi elust eelmise sajandi alguse Budapestis: kirjandust võeti siis surmtõsiselt ... Ajakiri Nyugat suutis kolmkümmend kolm aastat olla algusjärgus oleva uuendusliku Ungari kirjanduse töötuba ja vestlusruum, kõik tänu Osváti-suguste toimetajate seatud kõrgetele kvaliteedinõuetele ja vaimselt viljakale õhkkonnale, mis iseloomustas New Yorki ja teisi kirjanduslikke kohvikuid. Nagu ütles ka peakelner Ede Sándor Márai romaanis "Szindbád läheb koju": "Kohvik on see eripärane, arstide ja kehalise kasvatuse õpetajate meelest üldse mitte tervislik sõna, ent kirjanduslikus mõistes ainuke kasulik paik, mis kaitseb kirjanikke veidike maailma kiusatuste, ametnike jultunud käitumise ja rahaga seotud jämeduste eest; nende kopse räsivad küll nikotiin ja nõgi, ent hing puhkeb õitsele ja see on kõige olulisem."
 
 }
 
-epilogue_2{
+epiloog_2{
 
 New Yorgi kohvik sai II maailmasõja ajal kannatada ja suleti 1947. aastal. Mõnda aega töötas ruumides sporditarvete pood ja reisibüroo. Tuli oodata lausa 1954. aastani, et kohvik taas oma uksed avaks, seekord Hungária nime all. 2006. aastal naases kohvik oma ajaloolise nime juurde ning ootab külastajaid oma endises hiilguses.
 Kui väisate Budapesti, astuge igal juhul ka sealt läbi. Karta pole midagi, "Väikest kirjandust" menüüst enam ei leia.
@@ -716,3 +716,709 @@ Tõlkija: Siiri Erm-Nairismägi
 Eestikeelse teksti toimetaja: Katrin Naber
 
 }
+
+=======
+}
+
+first{
+
+Budapest omandas tänapäevase ilme 19. sajandi viimasel veerandil. Aastatel 1869–1894 pealinna hoonete arv praktiliselt kahekordistus. Valmisid parlamendihoone, suur ringtee, Andrássy tee, Erzsébeti ja Margiti sild, lääne raudteejaam (Gustave Eiffeli büroo kavandi järgi) ja ooperimaja ...
+}
+
+second{
+
+Ungari maahõivamise tuhandendaks aastapäevaks (1896) valmis Budapesti metroo esimene liin, mis oli Mandri-Euroopas esimene omasuguste seas. Sama "ehituspalaviku" käigus sündis New Yorgi palee (1894), mille projekteeris Alajos Hauszmann. Tema kavandatud on ka Buda kindluslossi ümberehitus. Ameerika kindlustusettevõte, kes New Yorgi palee ehitustööd tellis, andis arhitektile projekti maksumuse osas täiesti vabad käed. Eklektilises stiilis palee kõige suursugusemaseks osaks peetava kohviku ehitamisel kasutati ainult ajahambale vastupidavaid materjale – marmorit ja pronksi; lagi kaunistati freskodega.
+
+}
+
+third{
+
+Kohvikust sai 19. sajandi lõpukümnendil kirjanike meelispaik. Selle eest tuleb tänulik olla kirjanduslembestele peakelneritele, kellelt vaesed kirjanikud said nii kirjatarbeid kui ka vajadusel laenu. 1908. aastast ilmuma hakanud 20. sajandi juhtiva kirjandusajakirja Nyugat (Lääs) numbrid valmisid põhimõtteliselt New Yorgi marmorlaudade ümber. Kohvikut külastasid ka teiste kunstiliikide viljelejad - näitlejad, muusikud, maalikunstnikud. Samuti võib seda paika pidada Ungari filmikunsti hälliks - siin sündisid esimesed filmiajakirjad, siin sai oma esimese filmilepingu tummfilmistaar Vilma Bánky, siin teatas Mihály Kertész (hilisem Michael Curtiz, "Casablanca" režissöör) oma välismaale minekust ...
+
+
+}
+
+fourth{
+
+Ööpäevaringselt avatud olnud asutuses, mille võti olevat rahva juttude kohaselt Doonausse heidetud, võis rahulikult loometööga tegeleda, aga vajadusel ka natuke laua taga magada. Kohvik sulges oma uksed esimest korda 1916. aastal, et edaspidi muutunud juhtkonna ja nime all ikka ja jälle uksed avada.
+
+}
+
+baggage_opening_0{
+
+See kohver kuulus kolmekümnendatel aastatel Pariisi emigreerunud Ungari eradetektiivile.
+
+}
+
+baggage_opening_1{
+
+Ungari kultuuri instituudi töötajad Tallinnast paluvad külastajate abi kohvri sisu väljaselgitamisel. 
+
+}
+
+baggage_opening_3{
+
+
+Alustame ajaleheartikliga aastast 1908. Ehk annab see meile mingisuguse suuna kätte.
+
+
+}
+
+Pesti_hirlap{
+
+PESTI UUDISED
+
+}
+
+main_headline{
+
+Tragöödia NEW YORGI kohvikus
+
+}
+
+main_article{
+
+Eile hommikul leiti surnuna New Yorgi kohviku kelner János Fabula.
+Noormees, keda paljud pidasid peakelner Jeani paremaks käeks, ei kannatanud ühegi kroonilise haiguse käes. Politsei <b>kahtlustab mürgitamist</b>, surma ainsaks tunnistajaks on <b>pooleldi söödud hommikusöök</b>.
+Teda jääb leinama vanem õde Malvin ning peakelnerite ja tasustatud kelnerite riiklik ühing.
+
+}
+
+before_entering_crime_scene{
+
+Erakordne surmajuhtum. Vaatame sündmuspaigal ringi, äkki leiame midagi.
+
+}
+
+Body{
+
+Õnnetult surnud kelner János Fabula. Välised vigastused puuduvad, ohver on enne surma oma hommikusöögi välja oksendanud. Sellest ka hüpotees mürgituse kohta.
+
+}
+
+Oven{
+
+Gaasipliit. Kindlasti ei põhjustanud see gaasimürgitust. Aga sellega on võimalik keeta imehead kohvi.
+
+}
+
+kitchenware{
+
+Nõud. Nende olemasolu köögis ei üllata kedagi. Ükski neist ei sobi ideaalselt tapariistaks.
+
+}
+
+Counter{
+
+Köögi tasapind, selle peal pole midagi, mis sinna ei peaks kuuluma.
+
+}
+
+lights_off_vomit_glows{
+
+Helendavad maomahlad? See on juba midagi ebatavalist! Huvitav, mis selle põhjustab?
+
+}
+
+lets_walk{
+
+Lavastame uuesti kelneri hommikused tegemised, võib olla jääb midagi silma.
+
+}
+
+boarding_the_sub_1{
+
+Kelner elas linnapargi kõrval ja käis tööl linna esimese metrooga, mis kolistab linna vaatamisväärsuste all. Kahju, et ta neid maa alt ei näinud.
+
+}
+
+boarding_the_sub_2{
+
+Sõiduigavust peletas ta tabavate värsside väljamõtlemisega, samal ajal kui pea kohal möödusid huvitavad vaatamisväärsused.
+
+}
+
+szechenyi_station_name{
+
+Széchenyi termaalspaa
+
+}
+
+szechenyi_info{
+
+Budapest on ainuke pealinn maailmas, kus on 118 termaalallikat ja kaevu. Esimesed termaalveega spaad ehitas 201. aastal roomlane Septimus Severus. Ka hunnide kuningas Attila ja maahõivaja vürst Árpád peatusid Doonau ääres termaalallikate läheduses. Türgi ajast on tänaseni säilinud neli töötavat spaad. <b>Széchenyi spaad</b> hakati ehitama 1909. aastal renesansskatedraali meenutavas stiilis.
+
+}
+
+hosok_station_name{
+
+Kangelaste väljak
+
+}
+
+hosok_info{
+
+<b>Kangelaste väljak</b> ehitati 1896. aastal millenniumi pidustusteks, et tähistada ungarlaste maahõivamise tuhandendat aastapäeva. Mälestusmärk koosneb neljateistkümnest olulise tähendusega ajaloolise isiku kujust. Nende keskel seisab obelisk peaingel Gabrieli kujuga, kes hoiab käes krooni ja risti. Legendi kohaselt ilmutas Gabriel end esimesele Ungari kuningale, püha Istvánile unes ning pakkus talle püha krooni.
+
+}
+
+bajza_station_name{
+
+Bajza tänav
+
+}
+
+bajza_info{
+
+<b>Bajza tänavaga</b> piirnevas mooruspuuaias (Epreskert) avati 1882. aastal kunstimeistrite kool. Selle ülesehitamisele andis suure panuse skulptor Alajos Stróbl, kes ratsutas hommikuti Epreskertist välja vabrikuvile peale. Ta korraldas maskiballe ja tegi oma kasvandikega lavastusi ajaloolistest sündmustest. Aias jalutasid aga samal ajal ahvid, paabulinnud, metskitsed ja toonekured. 
+
+}
+
+kodaly_station_name{
+
+Kodály ringtee
+
+}
+
+kodaly_info{
+
+<b>Zoltán Kodály</b> oli helilooja ja muusikateadlase Béla Bartóki kõrval suurim teerajaja rahvalaulude uurimise ja kogumise vallas. Kodály andis oma uuenduslike muusikapedagoogiliste võtetega uue tähenduse kogu Ungari muusikaõpetusele. Tema loosung oli "Muusika kuulugu kõigile!". Kodály põhimõtete kohaselt tuleb muusikaharidust hakata andma juba lasteaias, selle alustalaks on inimese hääl, materjaliks aga meie kõigi emakeel - rahvalaul.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+}
+
+voromartyutca_station_name{
+
+Vörösmarty tänav
+
+}
+
+vorosmarty_utca_info{
+
+<b>Vörösmarty tänava</b> ja Andrássy tee nurgas asuvasse hoonesse kolis 1879. aastal Ungari kuninglik muusikaakadeemia. Ferenc Liszt (1811–1886) korraldas oma õpilastele tasuta kursuseid, mis sarnanevad tänapäevastele meistriklassidele. Tema viimases Budapesti kodus asub nüüd Ferenc Liszti majamuuseum. Seal hoitakse helilooja muusikariistu ning raamatu- ja noodikogu, mille ta pärandas muusikaakadeemiale.
+}
+
+oktogon_station_name{
+
+Oktogon
+
+}
+
+oktogon_info{
+
+Kaheksanurksel <b>Oktogoni</b> väljakul ristuvad omavahel 19. sajandi Budapesti kaks kõige suuremat linnaehituslikku saavutust: Andrássy tee ja üle 4000 meetri pikkune suur ringtee (Nagykörút). Viimane neist pidi kokku siduma Buda, Pesti ja Óbuda linna ühendamise järel (1873) tormiliselt areneva pealinna avenüüd. Nagykörútil avati 1887. aastal linna esimene trammiliin.
+
+}
+
+opera_station_name{
+
+Opera
+}
+
+opera_info{
+
+Neorenessanss-stiilis Ungari rahvusooperi hoone <b>Opera</b> valmis aastatel 1875–1884 Miklós Ybli projekti järgi. Pidulikul avamisel oli kohal ka keiser Franz Joseph, orkestrit juhatas Ungari hümni viisistaja, helilooja Ferenc Erkel. Ooperimaja esimene kuldaeg on seotud Gustav Mahleriga, kes oli asutuse juht aastatel 1888–1891.
+
+
+}
+
+bajcsy_station_name{
+
+Bajcsy-Zsilinszky tee
+}
+
+bajcsy_info{
+
+<b>Bajcsy-Zsilinszky teelt</b> saab alguse Andrássy tee ehk Budapesti Champs-Élysées, mis ühendab kesklinna (Belváros) linnapargiga (Városliget). Tee avati pidulikult 1876. aastal. Alguses kutsuti teed avenüüks (Sugár-út), 1885. aastast kannab see aga krahv Gyula Andrássy tee nime. Tee külgi palistavad eklektilis-neorenessanslikus stiilis majad ja villad. Algselt oli teel puukuubikutest sillutis.
+
+}
+
+Deak_station_name{
+
+Ferenc Deáki väljak
+
+}
+
+deak_info{
+
+<b>Ferenc Deáki väljakul</b> asuvas luterlikus koolis käis 19. sajandi suurim Ungari luuletaja Sándor Petőfi. 15. märtsil 1848 luges ta uuendusmeelse partei noorte kogunemiskohas, Pilvaxi kohvikus ette oma luuletuse "Rahvuslaul". Petőfist sai oluline isik 1848–49. a revolutsioonis ja vabadussõjas. Ta hukkus lahinguväljal, võideldes Austria keisrile appi rutanud Vene vägede vastu. 
+}
+
+vorosmartyter_station_name{
+
+Vörösmarty väljak
+}
+
+vorosmarty_ter_info{
+
+1884. aastal võtab Emil Gerbeaud József Kuglerilt üle <b>Vörösmarty väljakul</b> asuva kondiitriäri juhtimise. Ta laiendab tootevalikut võikreemide, teekookide ja jäätistega ning kodustab Ungaris ümarate otstega šokolaadi "macskanyelv" (kassikeel) ja konjakikirsid šokolaadis (konyakmeggy). Millenniumipidustuste puhul avab ta linnapargis Gerbeaud' paviljoni, et võtta seal vastu Franz Joseph I ning kuninganna Elisabeth (hüüdnimega Sissi).
+
+}
+
+missed_stop_0{
+
+Meie kelneril oli sageli kombeks niivõrd värsside meelevalda kaduda, et ta sõitis Oktogonist mööda ja märkas seda alles Vörösmarty väljaku kandis. Sellistel kordadel jäi ta tööle hiljaks, mille peale sai peakelner Jean väga pahaseks.
+
+}
+
+missed_stop_1{
+
+Tal ei läinud aga jooksujalu tööle minnes kunagi meelest tähendada üles metroos välja mõeldud luuleread, et anda need kohviku kirjanike kätte arvustamiseks.
+
+}
+
+line1{
+
+Näljane luuletaja otse armastatu sängist
+
+}
+
+line2{
+
+kolistab koriseva kõhuga metroos
+
+}
+
+line3{
+
+Unistab kirjanike hommikusöögist, kuni lüüakse käele
+
+}
+
+line4{
+
+kuulsad, näljased kirjanikud, kes arvet ei tasu
+
+}
+
+line5{
+
+pea kohal halvaendelised mõtted
+
+}
+
+line6{
+
+ega hommikusöök koju võind jääda?
+
+}
+
+sign_it{
+
+Kirjutan alla!
+
+}
+
+poem_done_1{
+
+
+Vaeseke arvas, et ta võib selliste roheliste värsiridadega pääseda noorte andekate kirjanike ajakirja Nyugat. Ajakirja esiknumber saadeti trükki päev enne kelneri surma.
+
+}
+
+waiters_task{
+
+Kelneri jaoks pole suuremat proovilepanekut, kui mõelda välja tellimus enne, kui see on jõudnud kõlada. Peakelner Jean oli meie kelneri korralikult välja õpetanud. Vaatame, mida ta mäletab!
+
+}
+
+szini_fav{
+
+Kaks nelja minuti muna klaasi seest serveerituna
+
+}
+
+szini_refuses{
+
+Kaks nelja minuti muna klaasi seest serveerituna. Seda söön igal hommikul. Kuidas ei peaks see mul meeles püsima? - toriseb Szini.
+
+}
+
+szini_arrives{
+
+Gyula Szini, Osváti avastus. Lihtsalt ilma lisanditeta. Ta soovib pehmet muna, klaasi seest serveerituna. Või on see Ernő Szép?
+
+}
+
+szini_accepts{
+
+Võitjate hommikusöök! - hüüdis Szini.
+
+}
+
+brody_fav{
+
+Tume kohv piimaga, kukkel, Parádi allikavesi
+
+}
+
+brody_refuses{
+
+Kohv, kukkel Parádi allikavesi. Mis selles nii rasket on? - lajatab Bródy käega lauale.
+
+}
+
+brody_arrives{
+
+Sándor Bródy. Olge temaga ettevaatlik. Uhke tüüp, kraanivett ei joo. Temale tuleb toit eraldi ette viia.
+
+}
+
+brody_accepts{
+
+Teid võib alati usaldada, - naeratab Bródy.
+
+}
+
+krudy_fav{
+
+Kann leiget õlut
+
+}
+
+krudy_refuses{
+
+See pole õlu, ja see pole leige. Mis ma sellega peale pean hakkama? - küsib Krúdy.
+
+}
+
+krudy_arrives{
+
+Siin on Gyula Krúdy, Ungari proosakirjanduse meister. Külmetav kuju, kellele ei meeldi külmad joogid, aga õllest ta ära ei ütle.
+
+}
+
+krudy_accepts{
+
+Leige õlu! Mu lemmik! - hüüatas Krúdy.
+
+}
+
+szep_fav{
+
+Leige omlett
+
+}
+
+szep_refuses{
+
+Leiget omletti. OMLETTI. LEIGET. - raevutseb Szép.
+
+}
+
+szep_arrives{
+
+Nägin praegu Ernő Szépi! Ta on kabareekirjanduse teerajaja. Ta soovib leiget omletti. Või oli see Gyula Szini?
+
+}
+
+szep_accepts{
+
+Ma ütlen, teeninduse meistriklass! - hüüdis Szép.
+
+}
+
+karinthy_fav{
+
+Rikkaliku vahuga leige kohv
+
+}
+
+karinthy_refuses{
+
+On küll maitsev, ent üks on kindel – see kohv pole leige, - potsatab Karinthy kurvalt tagasi oma kohale.
+
+}
+
+karinthy_arrives{
+
+Praegu astus sisse Frigyes Karinthy! Temast viljakamaid kirjanikke on vähe. Õrn hing või kuidas seda öeldaksegi: hing elab suitsust ja kohvist!
+
+}
+
+karinthy_accepts{
+
+Sellest paremat pole olemas! - hüüatas Karinthy.
+
+}
+
+osvat_fav{
+
+Väike kirjandus
+
+}
+
+osvat_refuses{
+
+No, aga palun. Ma ei soovinud seda. Kus on mu "Väike kirjandus"? - nuriseb Osvát.
+
+
+
+}
+
+osvat_arrives{
+
+Saabus Ernő Osvát! Tulevane Nyugati toimetaja. Nüüd ei või eksida! Ta soovib "Väikest kirjandust", kindla peale.
+
+
+}
+
+osvat_accepts{
+
+Kui kena teist, et te mäletasite. Aitäh! - rõõmustas Osvát.
+
+}
+
+osvat_refusal_1{
+
+Suur aitäh, aga täna ma seda ei soovi. Olge hea ja viige palun tagasi, - oigab Osvát.
+
+}
+
+osvat_refusal_2{
+
+Eriline olukord. Osvát saatis oma hommikusöögi tagasi. Seda pole varem juhtunud. Vaatame, mis tema hommikusöögist edasi sai.
+
+}
+
+kis_irodalmi{
+
+"Väike kirjandus". Ernő Osvát saatis selle tagasi. See oli paljude kirjanike lemmik, sest seda sai suuremeelsetelt kelneritelt sageli tasuta või väikese luuletuse eest. Koostisosad ...
+}
+
+ham{
+
+Sink.
+
+}
+
+salami{
+
+Salaamivorst.
+
+}
+
+cheese{
+
+Juust.
+
+}
+
+deadly_message{
+
+Ernő Osvátile <color=red>surmava</color> otsekohesuse eest
+
+}
+
+discovering_note{
+
+Kättemaksuhõnguline teade Osvátile! Kas seda võis teha kelner? Kas hommikusöök oli mürgitatud? Peame leidma rohkem jälgi.
+
+}
+
+nyugat_prints_0{
+
+Päev enne kelneri surma ilmus esimese Nyugati numbri korrektuurpoogen ja trükiversioon.
+
+
+}
+
+critique1{
+
+Mis küündimatu, lapselik värss see on???
+
+}
+
+critique2{
+
+Sündsusetu!
+
+}
+
+nyugat_prints_1{
+
+Kelneri kirjutis tehti inetult maha!
+
+}
+
+nyugat_prints_2{
+
+Surmavat sõnumit Osvátile ei saanud siiski jätta kelner, sest miks peaks ta sööma ära iseenda mürgitatud toidu?
+
+}
+
+nyugat_prints_3{
+
+Kas Osvát teritas ka teiste peal keelt? Või võttis keegi teine seda südamesse, et kelneri luuletus jäi ilmumata?
+
+}
+
+heirloom{
+
+See taskukell oli kelneri kõige hinnalisem ese - hea veel, et tal õnnestus see alles hoida.
+
+}
+
+mystery_woman{
+
+Siin on kelner ühe naisterahvaga. Huvitav, mida see võiks tähendada? Vaatame, kas pildi tagaküljele on midagi kirjutatud.
+
+}
+
+present_message{
+
+
+Minu armsale nooremale vennale särava luuletajakarjääri alguseks!
+Malvin
+
+}
+
+writing_on_back{
+
+Kelner sai selle kella kingituseks oma armsalt vanemalt õelt Malvinilt, lootuses hakata luuletajana loorbereid lõikama. Kui ta oleks teadnud ...
+
+
+}
+
+secondary_headline{
+
+Doonaust toodi välja hüsteeriahoos naine
+
+}
+
+secondary_article{
+
+Eile õhtul märkasid jõe kaldal jalutajad segadusse sattunud naist. Naine põrnitses tükk aega enese ette, kuni võttis kätte ja jalutas kalda äärest Doonau vette, kadudes seejärel vee alla. Õnneks jooksis naisele järele üks läheduses patrullinud politseinik, kes tõmbas ta veest välja. Selgus, et tegemist oli kuulsa tikuvabrikandi guvernandi Malvin Fabulaga, kes viidi sündmuskohalt otse Lipótmező hullumajja.
+
+}
+
+woman_in_the_water_0{
+
+Artikkel ühe teise tragöödia kohta. Võib olla oli see naine kelneri vanem õde? Võimalik, et sõnum venna surmast ajas ta hulluks.
+
+}
+
+woman_in_the_water_1{
+
+Aga ta ei saanud seda uudist lehest lugeda, sest sellest kirjutati alles sellessamas numbris! Lähme edasi hullumajja!
+
+}
+
+windows_of_lipot{
+
+See on jõe Buda kaldal, Lipótmezős asuva Ungari kuningriigi riikliku hullumaja kabeli imeline aken, selle valmistas Miksa Róth.
+
+}
+
+bad_writer{
+
+Mu vend on kehv luuletaja
+
+}
+
+love_him{
+
+Armastan teda
+
+}
+
+good_writer{
+
+Mu vend on hea luuletaja
+
+}
+
+osvat_is_wrong{
+
+Osvát eksib
+
+}
+
+osvat_must_die{
+
+Osvát peab andeks paluma
+
+}
+
+ending_1{
+
+Missugune tragöödia! Kui kelneri labiilne vanem õde kuulis venna kohta käivat kriitikat, soovis ta Ernő Osváti tikuväävliga ära mürgitada.
+}
+
+ending_2{
+
+Ainult ta ei arvestanud sellega, et Osvát saadab hommikusöögi tagasi ja selle sööb ära tema vaene näljane vend. Sellega oli ta oma saatuse määranud. Vaene õde kaotab juhtunu peale täielikult mõistuse.
+
+}
+
+ending_3{
+
+Tollel ajal kasutati (enese)tapuvahendina sageli tikkudest eraldatud valget fosforit. Muuhulgas viitas fosforimürgitusele pimedas helendav okse. Hulk inimesi jõudis oma elu jätta, enne kui tiku otsas kasutatav valge fosfor vahetati välja süütu punase fosfori vastu. 
+
+}
+
+epilogue_1{
+
+
+Ehkki meie lugu on väljamõeldis, mida iseloomustavad kriminaalkirjandusele iseloomulikud liialdused, räägib see kõverpeeglist vaadatuna siiski nii mõndagi elust eelmise sajandi alguse Budapestis: kirjandust võeti siis surmtõsiselt ... Ajakiri Nyugat suutis kolmkümmend kolm aastat olla algusjärgus oleva uuendusliku Ungari kirjanduse töötuba ja vestlusruum, kõik tänu Osváti-suguste toimetajate seatud kõrgetele kvaliteedinõuetele ja vaimselt viljakale õhkkonnale, mis iseloomustas New Yorki ja teisi kirjanduslikke kohvikuid. Nagu ütles ka peakelner Ede Sándor Márai romaanis "Szindbád läheb koju": "Kohvik on see eripärane, arstide ja kehalise kasvatuse õpetajate meelest üldse mitte tervislik sõna, ent kirjanduslikus mõistes ainuke kasulik paik, mis kaitseb kirjanikke veidike maailma kiusatuste, ametnike jultunud käitumise ja rahaga seotud jämeduste eest; nende kopse räsivad küll nikotiin ja nõgi, ent hing puhkeb õitsele ja see on kõige olulisem."
+
+}
+
+epilogue_2{
+
+New Yorgi kohvik sai II maailmasõja ajal kannatada ja suleti 1947. aastal. Mõnda aega töötas ruumides sporditarvete pood ja reisibüroo. Tuli oodata lausa 1954. aastani, et kohvik taas oma uksed avaks, seekord Hungária nime all. 2006. aastal naases kohvik oma ajaloolise nime juurde ning ootab külalisi oma endises hiilguses.
+Kui külastate Budapesti, astuge ka sealt igal juhul läbi. Karta pole midagi, "Väikest kirjandust" menüüst enam ei leia.
+}
+
+credits{
+
+Idee autor: Gábor Orbán
+
+Valmistatud Pariisi Ungari kultuuri instituudi tellimusel
+
+Ágnes Bakk
+László András Halák
+Dorottya Kovács
+
+Pariisi Ungari kultuuri instituudi toetusgrupp: 
+
+Zita Bodnár
+Emma Bornai
+Orsolya Karinthi-Rébay
+Gábor Orbán
+
+
+Koostööpartner:
+
+Moholy-Nagy'i kunstiülikool
+
+
+Kirjanduslik tsitaat:
+Sándor Márai "Szindbád hazamegy" (kirjastus Akadémia, kirjastus Helikon, 1992)
+
+
+Muusika:
+
+Esther Abrami - nr 2 "Remembering Her"
+Emmit Fenn - Allegro
+
+
+Heliefektid:
+
+freesound.org
+
+
+Fotod:
+
+fortepan
+arcanum
+Budapesti arhiiv
+Ungari põllumajandusmuuseum
+Gyula Somlai
+György Klősz
+Anantara hotell New York Palace Budapest
+
+Tõlkija: Siiri Erm-Nairismägi
+Eestikeelse teksti toimetaja: Katrin Naber
+
+}
+
+>>>>>>> e00c36868f7f1b1ebad3b7525991ba6091bda5a8

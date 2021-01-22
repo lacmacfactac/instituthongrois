@@ -1,0 +1,708 @@
+﻿next{
+
+Weiter
+
+}
+
+intro_button_next{
+
+Weiter
+
+}
+
+
+first{
+
+Es ist keine Übertreibung zu behaupten, dass das Stadtbild von Budapest seine jetzige Gestalt in dem letzten Viertel des 19. Jahrhunderts gewonnen hat. Zwischen 1869 und 1894 verdoppelte sich eigentlich die Zahl der Hauptstadtgebäude. In dieser Zeit wurde das Parlamentsgebäude, die große Ringstraße, die Andrássy Allee, die Elisabethbrücke und Margaretenbrücke, der Westbahnhof (die Arbeit des Büros von Gustave Eiffel), das Opernhaus gebaut...
+
+}
+
+second{
+
+Im Rahmen der Feste, die aus dem Anlass des Millenniums des Bestehens von Ungarn (1896) gehalten wurden, wurde die erste U-Bahn-Linie übergeben, die die erste Unterbahn des kontinentalen Europas war. Das Ergebnis dieses „Baufiebers” ist unter anderem das New York Palast (1894) auch, das vom Ludwig Hauszmann, dem Leiter des Burgpalastumbaus, entworfen wurde. Der Architekt hatte freie Hand bezüglich des Budgets der Verwirklichung, das von dem Auftraggeber, von einer amerikanischen Versicherungsfirma gesichert wurde. Zu der Erstellung des Kaffeehauses, das als prachtvollster Teil der eklektischen Palast gilt, wurden nur zeitbeständige Stoffe wie Marmor oder Bronze benutzt; die Decke wurde mit Wandmalerei geschmückt.
+
+}
+
+third{
+
+Es ist großenteils den Hauptkellnern, die auch Literaturfreunde waren, zu danken, dass das Kaffeehaus von den 90er Jahren eine literarische Stimmung übernehmen konnte. Die Schriftsteller konnten von den Hauptkellnern Schreibwaren und auch Darlehen bekommen. Die Ausgaben der seit 1908 bestimmenden Zeitschrift des 20. Jahrhunderts mit dem Titel Nyugat wurden bei den Tischen der New York Palast geschrieben. Gleichzeitig wurde das Kaffeehaus auch von den Vertretern anderer Künste wie Schauspieler, Komponisten oder Maler gern besucht. Das Kaffeehaus ist auch als die Wiege der Filmkunst bekannt. Hier entstanden die ersten Fachzeitschriften zum Thema Film, hier bekam Vilma Bánky, der Star der Stummfilme ihren ersten Vertrag, hier kündigte Mihály Kertész (später bekannt als Michael Curtiz, Regisseur von Casablanca) an, dass er ins Ausland geht…
+
+}
+
+fourth{
+
+Das Tag und Nacht geöffnete Institut, dessen Schlüssel in die Donau geworfen wurde und wo die Gäste nicht nur in ganzer Ruhe schöpfen, sondern im Notfall beim Tisch schlafen konnten, wurde erstmals 1916 geschlossen, aber später wurde es immer wieder mit unterschiedlicher Leitung und Namen geöffnet.
+
+}
+
+baggage_opening_0{
+
+Dieser Koffer stammt aus dem Nachlass eines ungarischen Privatdetektivs, der in den 30er Jahren nach Paris emigriert ist.
+
+}
+
+baggage_opening_1{
+
+Die Mitarbeiter des Ungarischen Kulturinstituts in Stuttgart bitten um die Hilfe ihrer Besucher, damit sie den Inhalt des Koffers herausfinden können.
+
+}
+
+baggage_opening_3{
+
+
+Beginnen wir mit einem Zeitungsartikel aus dem Jahre 1908, er kann uns vielleicht helfen.
+
+
+}
+
+Pesti_hirlap{
+
+PESTER Nachrichtenblatt
+
+}
+
+main_headline{
+
+Tragödie im NEW YORK Kaffeehaus
+
+}
+
+main_article{
+
+Gestern wurde die Leiche von János Fabula, dem Kellner des New York Kaffeehauses gefunden.
+Der Mann, der als rechte Hand des Hauptkellners gehalten wurde, litt an keine chronische Krankheit. Die Polizei <b> hat Vergiftung in Verdacht</b>, der einzige Zeuge seines Todes ist <b>sein halb gegessenes Frühstück<b>.
+János Fabula trauert seine Schwester, Malvin. Er wird als eigener Tote der Landesgewerkschaft der Haupt-und Zahlkellner erachtet.
+
+}
+
+before_entering_crime_scene{
+
+Ein seltsamer Todfall. Schauen wir uns auf dem Schauplatz um, vielleicht können wir etwas finden.
+
+}
+
+Body{
+
+János Fabula, der verunglückte Kellner. Es gibt keine sichtbaren Spuren auf dem Körper, aber das Opfer würgte sein Frühstück vor seinem Tod zurück, deshalb hat die Polizei Vergiftung in Verdacht.
+
+}
+
+Oven{
+
+Gasherd. Er konnte zwar keine Gasvergiftung verursachen, aber man kann auf ihm einen wundervollen Kaffee kochen.
+
+}
+
+kitchenware{
+
+Geschirre. Ihr Dasein ist nicht überraschend in einer Küche. Sie sind nicht ideal als mörderisches Mittel.
+
+}
+
+Counter{
+
+Küchenpult, es gibt darauf keine nicht dorthin passenden Sachen.
+
+}
+
+lights_off_vomit_glows{
+
+Leuchtende Magensäfte? Das ist kein alltägliches Phänomen! Wessen Folge kann es sein?
+
+}
+
+lets_walk{
+
+Rekonstruieren wir das morgige Programm des Kellners, vielleicht können wir auf etwas aufmerksam werden.
+
+}
+
+boarding_the_sub_1{
+
+Der Kellner wohnte im Városliget und ging jeden Tag mit der ersten U-Bahn des Kontinents zur Arbeit, die unter den Sehenswürdigkeiten der Stadt fährt. Es ist schade, dass er diese aus der U-Bahn nicht sehen konnte.
+}
+
+boarding_the_sub_2{
+
+Er hat seine Zeit während der langweiligen Fahrt mit dem Ausdenken frappanter Reime verbracht, währenddessen die interessanten Sehenswürdigkeiten auf der Oberfläche einander abwechselten.
+
+}
+
+szechenyi_station_name{
+
+Széchenyi-Thermalbad
+}
+
+szechenyi_info{
+
+Budapest ist die einzige Hauptstadt, wo 118 Thermalquellen und Brunnen zu finden sind. Die ersten Thermalbäder hat 201 n. C. der römische Septimus Severus bauen lassen. Der hunnische König Attila und der Fürst Árpád, mit dessen Namen die Landnahme verbunden ist, lagerten neben den Thermalquellen. Aus der Zeit der türkischen Herrschaft sind 4 funktionierenden Thermalbäder bestehen geblieben. Mit dem Bau des <b>Széchenyi Thermalbades</b> wurde 1909 in dem Stil einer renaissancen Kathedrale begonnen.
+
+}
+
+hosok_station_name{
+
+Heldenplatz
+
+}
+
+hosok_info{
+
+Der <b>Heldenplatz</b> wurde aus dem Anlass des Milleniums 1896 gebaut, wodurch auf die Tausendjährige Geschichte der Ungarn erinnert wird. Hier stehen die Statuen von 14 symbolischen Persönlichkeiten, in der Mitte mit dem Obelisk, oben darauf mit der Statue des Herzengels Gabriel. Nach der Legende erschien Gabriel in dem Traum von König St. Stephan, damit er ihm die Krone empfahl. 
+
+}
+
+bajza_station_name{
+
+Bajza Straße
+
+}
+
+bajza_info{
+
+Im Erdbeergarten, der mit der <b>Bajza Straße</b> begrenzt ist, wurden neue küntlerische Masterschulen mit hilfe der Hauptstadt von 1882 eröffnet. Der Bildhauer Alajos Stróbl spielte eine große Rolle in der Ausgestaltung des Ortes. Er reitet morgens aus dem Erdbeergarten mit Horn begleitet, organisiert Kostümbälle, stellt historische Auftritte mit seinen Schülern dar, in dem Garten sind spazierende Affen, Pfauen, Rehe, Storche zu sehen.  
+
+}
+
+kodaly_station_name{
+
+Kodály körönd
+
+}
+
+kodaly_info{
+
+Der Komponist und Musikwissenschaftler Zoltán Kodály ist  neben Béla Bartók der Bahnbrecher der Volksmusikforschung- und Sammlung . Kodály erneuerte die ganze ungarische Musiklehre mit seinem musikpädagogischen Wirken.
+
+}
+
+voromartyutca_station_name{
+
+Vörösmarty Straße
+
+}
+
+vorosmarty_utca_info{
+
+In das Gebäude auf der Ecke der Vörösmarty Straße und Andrássy Allee zog die Königlich-Ungarische Musikakademie um. Franz List (1811-1886) lehrt seine Schüler kostenlos nach dem heute den Masterkursen entsprechendes System. Sein letztes  Budapester Zuhause  funktioniert heute als Franz-Liszt-Erinnerungsmuseum, wo die Musikinstrumente des Komponisten aufbewahrt werden, die er der Musikakademie gespendet hat.
+
+}
+
+oktogon_station_name{
+
+Oktogon
+
+}
+
+oktogon_info{
+
+Auf dem Platz mit der Gestalt eines Oktogons, auf <b>Oktogon</b> trifft sich die Andrássy Allee mit dem mehr als 4000 Meter langen Großrundweg, die zwei größten Stadtbauschöpfungen des 19. Jahrhunderts. Der Große Ring verband nach der Vereinigung von Ofen, Pest und Altofen (1873) die Radiallinien der sich rasch entwickelnden Stadt miteinander. Hier fährt die erste Straßenbahnlinie 1887 los.
+
+}
+
+opera_station_name{
+
+Oper
+
+}
+
+opera_info{
+
+Die ungarische <b>Staatsoper</b> wurde aufgrund der Entwürfe von Miklós Ybl zwischen 1875 und 1884 im Neorennaissanc-Stil gebaut. Beider feierlichen Eröffnung des Opernhauses war Kaiser Franz Joseph auch dabei und der Dirigent war der Komponist Franz Erkel, der die ungarische Hymne vertont hatte. Die erste Blütezeit der Oper ist mit dem Namen von Gustav Mahler verbunden, der das Institut zwischen 1888 und 1891 leitete.
+
+}
+
+bajcsy_station_name{
+
+Bajcsy-Zsilinszky Weg
+
+}
+
+bajcsy_info{
+
+Die Andrássy Allee zweigt vom <b>Bajcsy-Zsilinszky Weg</b> ab, das „Budapester Champs Élysées”, das die Innenstadt mit dem Városliget verbindet. Die Allee wurde 1876 feierlich übergeben. Anfangs wurde sie als Radial-Linie genannt, später wurde sie nach dem Grafen Gyula Andrássy benannt. Sie wird mit Häusern in eklektisch-neorennaissancen Stil begrenzt und anfangs bekam sie eine Holzvierecküberdecke.
+
+}
+
+Deak_station_name{
+
+Deák Ferenc Platz
+
+}
+
+deak_info{
+
+Die evangelische Schule, die auf dem <b>Deák Ferenc Platz</b> zu finden ist, wurde von Sándor Petőfi, einem der größten Dichter des 19. Jahrhunderts besucht. Er rezitierte sein Gedicht mit dem Titel „Nationallied” am 15.03.1848 im Kaffehaus Pilvax, das als Stammplatz der reformunterstützender Jugend galt. Er spielt später eine bedeutende Rolle in der Revolution und Freiheitskampf 1848-1849. Er kam in dem Kampf gegen die russische Armee ums Leben, die dem österreichischen Kaiser zur Hilfe kommt.
+
+}
+
+vorosmartyter_station_name{
+
+Vörösmarty Platz
+
+}
+
+vorosmarty_ter_info{
+
+Emil Gerbaud übernahm die Leitung der Konditorei auf dem <b>Vörösmarty Platz</b> im Jahr 1884 von József Kugler. Die Auswahl wird mit Butterkreme, Teekuchen und Eiskreme erweitert, außerdem leitete er Kognakbohne und Katzenzungen ein. Aus dem Anlass der Millenniumfeierlichkeiten eröffnet er das Pavilon Gerbeaud in Városliget bei dem Empfang von Franz Joseph I. und Königin Elisabeth (Sissi).
+
+}
+
+missed_stop_0{
+
+Unser Kellner vertiefte sich regelmäßig so in den Rausch der Schöpfung, dass er nicht bemerkt hat, dass er Oktogon schon verließ und nur auf dem Vörösmarty Platz fiel ihm ein, dass er aussteigen soll. In diesem Fall kam er mit Verspätung an seinem Arbeitsplatz an, sehr zum Arger des Hauptkellners.
+
+}
+
+missed_stop_1{
+
+Er hat es nie verpasst, seine in der U-Bahn ausgedachten Gedicht rasch aufzuschreiben und den Schriftstellern des Kaffehauses zu geben.
+
+}
+
+line1{
+
+Hungriger Schriftsteller aus dem Bett seiner kleinen Geliebte gesprungen
+}
+
+line2{
+
+mit knurrendem Magel in der U-Bahn gefahren
+
+}
+
+line3{
+
+er träumt vom Frühstück von Schriftsteller, bis sie auf seine Hand schlagen
+
+}
+
+line4{
+
+die berühmten, hungrigen Schriftsteller, die keine Rechnung zahlen 
+
+}
+
+line5{
+
+er hat ominöse Gedanken
+
+}
+
+line6{
+
+Hat er sein Frühstück nicht Zuhause vergessen?
+
+}
+
+sign_it{
+
+Ich unterschreibe!
+
+}
+
+poem_done_1{
+
+Der arme Mann hat geglaubt, dass er mit diesen anfänglichen Gedichten in die Zeitschrift Nyugat, die die jungen Talente vereinigt, kommen könnte. Die erste Ausgabe der Zeitschrift wurde einen Tag vor dem Tod des Kellners in die Druckerei geschickt.
+
+}
+
+waiters_task{
+
+Es gibt keine größere Herausforderung für einen Kellner, als die Bestellung davor herausfinden, bevor der Gast sie sagen würde. Das hat der Magnat Jean hat unseren Kellner gründlich beigebracht, schauen wir, ob er sich genau erinnern kann!
+
+}
+
+szini_fav{
+
+Zwei Stück vierminütige Eier im Becker
+
+}
+
+szini_refuses{
+
+Zwei Stück vierminütige Eier im Becher. Ich esse dies jeden Tag. Warum kann man es nicht bemerken? – knurrt Szini.
+
+}
+
+szini_arrives{
+
+Gyula Szini, der neuentdeckte Begabte von Osvát. Keine Garnierung. Weiches Ei, in Becher. Oder ist sie die Bestellung von Ernő Szép?
+
+}
+
+szini_accepts{
+
+Frühstück für Champions! – schreit Szini.
+
+}
+
+brody_fav{
+
+Milchkaffee dunkel, Brötchen, Paráder Quellwasser 
+
+}
+
+brody_refuses{
+
+Kaffee, Brötchen, Paráder Quellwasser. Warum ist es so schwierig? -  schlägt Bródy auf den Tisch.
+}
+
+brody_arrives{
+
+Sándor Bródy. Sei vorsichtig mit ihm. Er ist ein aufgeputzter Mann. Er trinkt das einfache Wasser nicht. Wir lassen ihm bringen.
+}
+
+brody_accepts{
+
+Ich kann Ihnen immer vertrauen. – lächelt Bródy.
+
+}
+
+krudy_fav{
+
+ein Krügel lauwarmes Bier
+
+}
+
+krudy_refuses{
+
+Das ist kein Bier, das ist nicht lauwarm. Was soll ich damit anfangen- fragt Krúdy.
+
+}
+
+krudy_arrives{
+
+Hier ist Gyula Krúdy, der als der hervorragende Master des Prosaschreibens gilt. Es ist ihm immer kalt, mag die kalte Getränke nicht, aber er lehnt ein Bier nicht ab. 
+
+}
+
+krudy_accepts{
+
+Lauwarmes Bier! Mein Liebling! – schreit Krúdy
+
+}
+
+szep_fav{
+
+Weiches Rührei
+
+}
+
+szep_refuses{
+
+Weiches Rührei. WEICHES. RÜHREI. – wütet Szép.
+
+}
+
+szep_arrives{
+
+Ich habe jetzt Ernő Szép gesehen! Er ist der Pionier der Kabarettliteratur. Er möchte ein weiches Ei. Oder möchte das Gyula Szini?
+
+}
+
+szep_accepts{
+
+Das ist eine Bedienung vom Weltniveau, das sage ich Ihnen! – schreit Szép.
+
+}
+
+karinthy_fav{
+
+lauwarmer Kaffee mit viel Schaum
+
+}
+
+karinthy_refuses{
+
+Das ist sicher lecker, aber ich bin mir sicher, dass es kein lauwarmer Kaffee ist. – setzt sich Karinthy traurig auf seinen Stuhl zurück. 
+
+}
+
+karinthy_arrives{
+
+Jetzt trat Frigyes Karinthy ein! Es gibt wenige Schriftsteller, die mehr schreiben, als er. Er hat eine sensitive Seele, aber wie gesagt: der Geist lebt aus Kaffee und Rauch!
+
+}
+
+karinthy_accepts{
+
+Es gibt nichts besseres als dies! – schreit Karinthy.
+
+}
+
+osvat_fav{
+
+Kleines Literarisches
+
+}
+
+osvat_refuses{
+
+Aber bitte. Ich bestellte nicht dies. Wo ist mein Kleines Literarisches? – meckert Osvát.
+
+}
+
+osvat_arrives{
+
+Ernő Osvát ist angekommen! Er ist einer der zukünftigen Hauptredakteure der Zeitschrift Nyugat. Jetzt können wir keine Fehler machen. Er bestellt ein Kleines Literarisches, es ist sicher!
+
+}
+
+osvat_accepts{
+
+Es ist sehr nett von Ihnen, dass sie sich daran erinnert haben! – glänzt das Gesicht von Osvát auf.
+
+}
+
+osvat_refusal_1{
+
+Vielen Dank, aber ich begemöchte es jetzt nicht. Ich möchte sie darum bitten, es zurückzubringen. – ächzte Osvát.
+
+}
+
+osvat_refusal_2{
+
+Interessant. Osvát lehnte sein Frühstück ab. Sowas hat es noch nicht gegebene! Schauen wir nach, was das Schicksal des Frühstücks wurde.
+
+}
+
+kis_irodalmi{
+
+Ein Kleines Literarisches. Das wurde von Ernő Osvát abgelehnt. Es war das Lieblingsessen vieler Schriftsteller, weil sie es oft kostenlos oder für ein Gedicht von dem großherzigen Kellner bekommen konnten. Seine Zutaten…
+}
+
+ham{
+
+Schinken
+
+}
+
+salami{
+
+Salami.
+
+}
+
+cheese{
+
+Käse.
+
+}
+
+deadly_message{
+
+An Ernő Osváth für seine <color=red>beleidigende</color> Ehre.
+
+}
+
+discovering_note{
+
+Eine ärgerliche Nachricht an Osvát! Ob der Kellner sie gebracht hat? Kann es sein, dass das Frühstück vergiftet wurde? Wir müssen noch mehrere Spuren finden.
+}
+
+nyugat_prints_0{
+
+Die Umbruchkorrektur und die gedrückte Version der ersten Ausgabe von Nyugat erschien den Tag vor dem Tod des Kellners.
+
+}
+
+critique1{
+
+Was ist dieses unvertretbare, kindische Gedicht???
+
+}
+
+critique2{
+
+Unwürdig!
+}
+
+nyugat_prints_1{
+
+Die Schöpfung des Kellners wurde abgewertet!
+
+}
+
+nyugat_prints_2{
+
+Aber der Kellner konnte die mörderische Nachricht an Osvát nicht lassen. Oder warum würde er das von ihm selbst vergiftete Gericht essen?
+
+}
+
+nyugat_prints_3{
+
+Hat Osvát andere Menschen auch beleidigt? Oder hat jemand schlecht bekommen, dass das Gedicht des Kellners nicht erschien?
+}
+
+heirloom{
+
+Diese Taschenuhr war sein geschätztester Besitz – es ist ein großes Glück, dass sie bewahrt werden konnte.
+
+}
+
+mystery_woman{
+
+Der Kellner in der Kompanie einer Frau. Könnte das eine Bedeutung haben? Schauen wir mal, ob es etwas auf der anderen Seite des Bildes gibt.
+
+}
+
+present_message{
+
+An meinen geliebten Bruder, auf deine glänzende dichterische Laufbahn!
+Malvin
+
+}
+
+writing_on_back{
+
+Der Kellner hat diese Uhr von seiner geliebten Schwester, Malvin als Geschenk bekommen, in der Hoffnung einer erfolgreichen dichterischen Laufbahn. Wenn sie es nur gewußt hätte…
+
+}
+
+secondary_headline{
+
+Eine hysterische Frau wurde aus der Donau ausgezogen
+}
+
+secondary_article{
+
+Gestern wurden die auf dem Korso spazierenden Menschen auf eine verwirrte Frau aufmerksam. Die Frau starrte lange vor sich hin, dann spazierte sie von dem Kai in die Donau und versank. Zum Glück lief ein Polizist nach ihr und zog sie ans Ufer. Es stellt sich heraus, dass die Frau die Erzieherin einer berühmten Sternholzfabriker-Familie ist, namentlich Fabula Malvin, die gleich in das Irrenhaus in Lipótmező gebracht wurde, wo man sie dann mit Schockterapie behandelte. 
+
+}
+
+woman_in_the_water_0{
+
+Ein anderer Artikel über eine andere Tragedie. Ist die Frau die Schwester des Kellners? Es ist möglich, dass sie wegen der Todesnachricht ihres Bruders wahnsinnig wurde.
+
+}
+
+woman_in_the_water_1{
+
+Aber sie konnte keine Nachricht über seinen Tod in dieser Zeitschrift lesen weil darüber in der selben Zeitschrift berichtet wurde! Folgen wir ihr in das Irrenhaus!
+
+}
+
+windows_of_lipot{
+
+Das ist das wunderschöne Fenster der Kapelle des Ofener Königlichen Lanirrenhauses in Lipótmező, das von Miksa Róth hergestellt wurde.
+
+}
+
+bad_writer{
+
+Mein Bruder ist ein schlechter Schriftsteller 
+
+}
+
+love_him{
+
+ich liebe meinen Bruder 
+
+}
+
+good_writer{
+
+mein Bruder ist ein begabter Schriftsteller
+
+}
+
+osvat_is_wrong{
+
+Osvát irrt sich
+
+}
+
+osvat_must_die{
+
+Osvát soll sterben 
+
+}
+
+ending_1{
+
+Was für eine Tragödie! Die feinnervige Schwester des Kellners wollte Ernő Osvát aus Rache mit aus Streichholz geschöpftem Phosphor vergiften.
+
+}
+
+ending_2{
+
+Aber sie hat damit nicht gerechnet, dass Osvát seinen Frühstück zurücksendet, das von seinem hungrigen Bruder gegessen wird, und damit sein Schicksal gestempelt wird. Die arme Schwester wurde zum Schluss wahnsinnig.
+
+}
+
+ending_3{
+
+Ein oft genutztes (selbst)mörderisches Mittel dieser Zeit war das aus Streichholz geschöpfte weiße Phosphor. Unter anderem weiste das in Dunkel lichtende Erbrechen auf die Phosphorvergiftung hin. Viele Menschen sollten sterben, bis das weiße Phosphor mit dem unschädlichen roten Phosphor ausgetauscht wurde. 
+
+}
+
+epilogue_1{
+
+Obwohl unsere Geschichte fiktiv ist und solche Übertreibungen beinhaltet, die typisch für kriminalistische Geschichten sind, stellt sie etwas Wahres, Bedeutsames über die Jahrhundertwende in Budapest vor: dass die Literatur in dieser Zeit tod
+toternst genommen wird… Die Zeitschrift Nyugat konnte durch 33 Jahren das Forum und die Werkstatt der damals geborenen modernen ungarischen Literatur sein, dank des Qualitätsbedarfes der Redakteure wie Osvát und der geistlich produktiven Atmosphäre, die typisch für das New York Kaffehaus und für andere literarischen Kaffehäuser war. Wie Hauptkellner Ede in dem Roman „Szinbad geht nach Hause” von Sándor Márai formuliert: "Das Kaffehaus ist eine eigenartige, in dem ärztlichen und turnlehrerischen Sinne des Wortes nicht gesund, aber in dem literarischen Sinne des Wortes die einzige nützliche Atmosphere, wo die Schriftsteller gegen di Versuchungen der Welt, den frechen Beamten und den Grobheiten des Geldes beschützt sind; obwohl ihre Lunge und ihr Herz durch Nikotin und Kaffee abgenutzt werden, aber ihr Geist blüht und das ist das Wesentlichste".
+
+}
+
+epilogue_2{
+
+Das New York Kaffehaus wird während des 2. Weltkriegs stark beschädigt und 1947 geschlossen. Danach funktioniert es für eine Weile als Sportgerätsgeschäft und als Reisebüro. Man sollte bis 1954 warten, damit es als Cafe Hungaria wieder geöffnet wird. Seit 2006 erwartet es seine Gäste wieder mit dem originellen Namen und in der alten Pracht. Wenn Sie in Budapest sind, schauen Sie auf jeden Fall vorbei. Es gibt nichts zu befürchten. Das Kleine Literarische ist allerdings nicht auf der Speisekarte zu finden.
+
+}
+
+credits{
+
+Aufgrund der Idee von Gábor Orbán,
+
+Im Auftrag des Ungarischen Kulturinstitut Paris anfertigt von: 
+
+Ágnes Bakk 
+László András Halák 
+Dorottya Kovács 
+ 
+
+Seitens des Ungarischen Kulturinstitut Paris arbeitete mit:
+
+Zita Bodnár 
+Emma Bornai 
+Orsolya Karinthi-Rébay
+Gábor Orbán
+
+Seitens des Ungarischen Kulturinstitutes Stuttgart wirkte an der Adaptation mit: Dr. Dezső B. Szabó, Antónia Borbély
+Kooperationspartner:
+
+Moholy-Nagy Künstliche Universität
+
+
+Literarisches Zitat 
+
+Sándor Márai: "Szinbád hazamegy" (Akadémiai kiadó, Helikon kiadó, 1992)
+
+
+Musik
+
+Esther Abrami - No.2 Remembering Her
+Emmit Fenn - Allégro
+
+
+Sound effects:
+
+freesound.org
+
+
+Bilder:
+
+fortepan
+arcanum
+Archiv der Hauptstadt Budapest
+Ungarisches geographisches Museum
+Gyula Somlai 
+György Klösz
+Anantara New York Palace Budapest Hotel
+
+
+
+
+
+
+}
+
