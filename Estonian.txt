@@ -651,14 +651,14 @@ Tollal kasutati mürgitamiseks sageli valget fosforit. Üks tõend selle kohta o
 
 }
 
-epiloog_1{
+epilogue_1{
 
 
 Ehkki meie lugu on väljamõeldis, mida iseloomustavad kriminaalkirjandusele iseloomulikud liialdused, räägib see kõverpeeglist vaadatuna siiski nii mõndagi elust eelmise sajandi alguse Budapestis: kirjandust võeti siis surmtõsiselt ... Ajakiri Nyugat suutis kolmkümmend kolm aastat olla algusjärgus oleva uuendusliku Ungari kirjanduse töötuba ja vestlusruum, kõik tänu Osváti-suguste toimetajate seatud kõrgetele kvaliteedinõuetele ja vaimselt viljakale õhkkonnale, mis iseloomustas New Yorki ja teisi kirjanduslikke kohvikuid. Nagu ütles ka peakelner Ede Sándor Márai romaanis "Szindbád läheb koju": "Kohvik on see eripärane, arstide ja kehalise kasvatuse õpetajate meelest üldse mitte tervislik sõna, ent kirjanduslikus mõistes ainuke kasulik paik, mis kaitseb kirjanikke veidike maailma kiusatuste, ametnike jultunud käitumise ja rahaga seotud jämeduste eest; nende kopse räsivad küll nikotiin ja nõgi, ent hing puhkeb õitsele ja see on kõige olulisem."
 
 }
 
-epiloog_2{
+epilogue_2{
 
 New Yorgi kohvik sai II maailmasõja ajal kannatada ja suleti 1947. aastal. Mõnda aega töötas ruumides sporditarvete pood ja reisibüroo. Tuli oodata lausa 1954. aastani, et kohvik taas oma uksed avaks, seekord Hungária nime all. 2006. aastal naases kohvik oma ajaloolise nime juurde ning ootab külastajaid oma endises hiilguses.
 Kui väisate Budapesti, astuge igal juhul ka sealt läbi. Karta pole midagi, "Väikest kirjandust" menüüst enam ei leia.

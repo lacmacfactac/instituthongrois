@@ -10,6 +10,11 @@ Weiter
 
 }
 
+next{
+
+Weiter
+
+}
 
 first{
 
