@@ -23,7 +23,7 @@ Budapest omandas tänapäevase ilme 19. sajandi viimasel veerandil. Aastatel 186
 
 second{
 
-Ungari maahõivamise tuhandendaks aastapäevaks (1896) valmis Budapesti metroo esimene liin, mis oli Mandri-Euroopas esimene omasuguste seas. Sama "ehituspalaviku" käigus sündis New Yorgi palee (1894), mille projekteeris Alajos Hauszmann. Tema kavandatud on ka Buda kindluslossi ümberehitus. Ameerika kindlustusettevõte, kes New Yorgi palee ehitustööd tellis, andis arhitektile projekti maksumuse osas täiesti vabad käed. Eklektilises stiilis palee kõige suursugusemaseks osaks peetava kohviku ehitamisel kasutati ainult ajahambale vastupidavaid materjale – marmorit ja pronksi; lagi kaunistati freskodega.
+Ungari maahõivamise tuhandendaks aastapäevaks (1896) valmis Budapesti metroo esimene liin, mis oli Mandri-Euroopas esimene omasuguste seas. Sama "ehituspalaviku" käigus sündis New Yorgi palee (1894), mille projekteeris Alajos Hauszmann. Tema kavandatud on ka Buda kindluslossi ümberehitus. Ameerika kindlustusettevõte, kes New Yorgi palee ehitustööd tellis, andis arhitektile projekti maksumuse osas täiesti vabad käed. Eklektilises stiilis palee kõige suursugusemaks osaks peetava kohviku ehitamisel kasutati ainult ajahambale vastupidavaid materjale – marmorit ja pronksi; lagi kaunistati freskodega.
 
 }
 
@@ -154,7 +154,7 @@ Kangelaste väljak
 
 hosok_info{
 
-<b>Kangelaste väljak</b> ehitati 1896. aastal millenniumi pidustusteks, et tähistada ungarlaste maahõivamise tuhandendat aastapäeva. Mälestusmärk koosneb neljateistkümnest olulise tähendusega ajaloolise isiku kujust. Nende keskel seisab obelisk peaingel Gabrieli skulptuuriga, kes hoiab käes krooni ja risti. Legendi kohaselt ilmutas Gabriel end esimesele Ungari kuningale, püha Istvánile unes ning pakkus talle püha krooni.
+<b>Kangelaste väljak</b> ehitati 1896. aastal millenniumipidustusteks, et tähistada ungarlaste maahõivamise tuhandendat aastapäeva. Mälestusmärk koosneb neljateistkümnest olulise tähendusega ajaloolise isiku kujust. Nende keskel seisab obelisk peaingel Gabrieli skulptuuriga, kes hoiab käes krooni ja risti. Legendi kohaselt ilmutas Gabriel end esimesele Ungari kuningale, püha Istvánile unes ning pakkus talle püha krooni.
 
 }
 
@@ -562,7 +562,7 @@ Siin on kelner ühe naisterahvaga. Huvitav, mida see võiks tähendada? Vaatame,
 present_message{
 
 
-Minu armsale nooremale vennale särava luuletajakarjääri alguseks!
+Minu armsale nooremale vennale särava luuletaja-karjääri alguseks!
 Malvin
 
 }
