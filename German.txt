@@ -30,9 +30,7 @@ Im Rahmen der Feste, die aus dem Anlass des Millenniums des Bestehens von Ungarn
 
 third{
 
-Es ist großenteils den Hauptkellnern, die auch Literaturfreunde waren, zu danken, dass das Kaffeehaus von den 90er Jahren eine literarische Stimmung übernehmen konnte. Die Schriftsteller konnten von den Hauptkellnern Schreibwaren und auch Darlehen bekommen. Die Ausgaben der seit 1908 bestimmenden Zeitschrift des 20. Jahrhunderts mit dem Titel Nyugat wurden bei den Tischen der New York Palast geschrieben. Gleichzeitig wurde das Kaffeehaus auch von den Vertretern anderer Künste wie Schauspieler, Komponisten oder Maler gern besucht. Das Kaffeehaus ist auch als die Wiege der Filmkunst bekannt. Hier entstanden die ersten Fachzeitschriften zum Thema Film, hier bekam Vilma Bánky, der Star der Stummfilme ihren ersten Vertrag, hier kündigte Mihály Kertész (später bekannt als Michael Curtiz, Regisseur von Casablanca) an, dass er ins Ausland geht…
-
-}
+Es ist großenteils den literaturmögenden Hauptkellnern zu danken, dass das Kaffeehaus von den 90er Jahren eine literarische Institution wurde. Die Ausgaben der bestimmenden Zeitschrift des 20. Jahrhunderts mit dem Titel Nyugat wurden bei den Tischen der Kaffehäuser geschrieben. Gleichzeitig wurde das Kaffeehaus auch von den Vertretern anderer Künste wie Schauspieler, Komponisten oder Maler gern besucht. Das Kaffeehaus ist auch als die Wiege der Filmkunst bekannt. Hier entstanden die ersten Fachzeitschriften zum Thema Film, hier bekam Vilma Bánky, der Star der Stummfilme ihren ersten Vertrag, hier kündigte Mihály Kertész (später bekannt als Michael Curtiz, Regisseur von Casablanca) an, dass er ins Ausland geht…
 
 fourth{
 
@@ -140,8 +138,7 @@ Széchenyi-Thermalbad
 
 szechenyi_info{
 
-Budapest ist die einzige Hauptstadt, wo 118 Thermalquellen und Brunnen zu finden sind. Die ersten Thermalbäder hat 201 n. C. der römische Septimus Severus bauen lassen. Der hunnische König Attila und der Fürst Árpád, mit dessen Namen die Landnahme verbunden ist, lagerten neben den Thermalquellen. Aus der Zeit der türkischen Herrschaft sind 4 funktionierenden Thermalbäder bestehen geblieben. Mit dem Bau des <b>Széchenyi Thermalbades</b> wurde 1909 in dem Stil einer renaissancen Kathedrale begonnen.
-
+Budapest ist die einzige Hauptstadt, wo 118 Thermalquellen und Brunnen zu finden sind. Die ersten Thermalbäder hat 201 n. C. der römische Septimus Severus bauen lassen. Aus der Zeit der türkischen Herrschaft sind 4 funktionierenden Thermalbäder bestehen geblieben. Mit dem Bau des <b>Széchenyi Thermalbades</b> wurde 1909 in dem Stil einer renaissancen Kathedrale begonnen.
 }
 
 hosok_station_name{
@@ -164,8 +161,7 @@ Bajza Straße
 
 bajza_info{
 
-Im Erdbeergarten, der mit der <b>Bajza Straße</b> begrenzt ist, wurden neue küntlerische Masterschulen mit hilfe der Hauptstadt von 1882 eröffnet. Der Bildhauer Alajos Stróbl spielte eine große Rolle in der Ausgestaltung des Ortes. Er reitet morgens aus dem Erdbeergarten mit Horn begleitet, organisiert Kostümbälle, stellt historische Auftritte mit seinen Schülern dar, in dem Garten sind spazierende Affen, Pfauen, Rehe, Storche zu sehen.  
-
+Im Erdbeergarten, der mit der <b>Bajza Straße</b> begrenzt ist, wurden neue küntlerische Masterschulen 1882 eröffnet. Der Bildhauer Alajos Stróbl spielte eine große Rolle in der Ausgestaltung des Ortes. Er reitet morgens aus dem Erdbeergarten, organisiert Kostümbälle, stellt historische Auftritte mit seinen Schülern dar, in dem Garten sind spazierende Affen, Pfauen, Rehe, Storche zu sehen.  
 }
 
 kodaly_station_name{
@@ -188,7 +184,7 @@ Vörösmarty Straße
 
 vorosmarty_utca_info{
 
-In das Gebäude auf der Ecke der Vörösmarty Straße und Andrássy Allee zog die Königlich-Ungarische Musikakademie um. Franz List (1811-1886) lehrt seine Schüler kostenlos nach dem heute den Masterkursen entsprechendes System. Sein letztes  Budapester Zuhause  funktioniert heute als Franz-Liszt-Erinnerungsmuseum, wo die Musikinstrumente des Komponisten aufbewahrt werden, die er der Musikakademie gespendet hat.
+In das Gebäude an der Ecke der Vörösmarty Straße und Andrássy Allee zog die Königlich-Ungarische Musikakademie um. Franz List (1811-1886) lehrt seine Schüler kostenlos nach dem heute den Masterkursen entsprechendes System. Sein letztes  Budapester Zuhause funktioniert heute als Erinnerungsmuseum, wo jene Musikinstrumente des Komponisten aufbewahrt werden, die er der Musikakademie gespendet hat.
 
 }
 
@@ -212,7 +208,7 @@ Oper
 
 opera_info{
 
-Die ungarische <b>Staatsoper</b> wurde aufgrund der Entwürfe von Miklós Ybl zwischen 1875 und 1884 im Neorennaissanc-Stil gebaut. Beider feierlichen Eröffnung des Opernhauses war Kaiser Franz Joseph auch dabei und der Dirigent war der Komponist Franz Erkel, der die ungarische Hymne vertont hatte. Die erste Blütezeit der Oper ist mit dem Namen von Gustav Mahler verbunden, der das Institut zwischen 1888 und 1891 leitete.
+Die ungarische <b>Staatsoper</b> wurde aufgrund der Entwürfe von Miklós Ybl zwischen 1875 und 1884 im Neorennaissanc-Stil gebaut. Bei der feierlichen Eröffnung war Kaiser Franz Joseph auch dabei, der Dirigent war Franz Erkel, der die ungarische Hymne vertont hatte. Die erste Blütezeit der Oper ist mit dem Namen von Gustav Mahler verbunden, der das Institut zwischen 1888 und 1891 leitete.
 
 }
 
@@ -224,9 +220,7 @@ Bajcsy-Zsilinszky Weg
 
 bajcsy_info{
 
-Die Andrássy Allee zweigt vom <b>Bajcsy-Zsilinszky Weg</b> ab, das „Budapester Champs Élysées”, das die Innenstadt mit dem Városliget verbindet. Die Allee wurde 1876 feierlich übergeben. Anfangs wurde sie als Radial-Linie genannt, später wurde sie nach dem Grafen Gyula Andrássy benannt. Sie wird mit Häusern in eklektisch-neorennaissancen Stil begrenzt und anfangs bekam sie eine Holzvierecküberdecke.
-
-}
+Die Andrássy Allee zweigt vom <b>Bajcsy-Zsilinszky Weg</b> ab, das „Budapester Champs Élysées”, das die Innenstadt mit dem Városliget verbindet. Die Allee wurde 1876 feierlich übergeben. Anfangs wurde sie als Radial-Linie genannt, später wurde sie nach dem Grafen Gyula Andrássy benannt. Sie wird mit Häusern in eklektisch-neorennaissancen Stil begrenzt.
 
 Deak_station_name{
 
@@ -236,9 +230,7 @@ Deák Ferenc Platz
 
 deak_info{
 
-Die evangelische Schule, die auf dem <b>Deák Ferenc Platz</b> zu finden ist, wurde von Sándor Petőfi, einem der größten Dichter des 19. Jahrhunderts besucht. Er rezitierte sein Gedicht mit dem Titel „Nationallied” am 15.03.1848 im Kaffehaus Pilvax, das als Stammplatz der reformunterstützender Jugend galt. Er spielt später eine bedeutende Rolle in der Revolution und Freiheitskampf 1848-1849. Er kam in dem Kampf gegen die russische Armee ums Leben, die dem österreichischen Kaiser zur Hilfe kommt.
-
-}
+Sándor Petőfi, einer der größten Dichter des 19. Jahrhunderts besuchte die evangelische Schule auf dem <b>Deák Ferenc Platz</b>. Er rezitierte sein Gedicht „Nationallied” im Kaffehaus Pilvax, das als Stammplatz der reformunterstützender Jugend galt. Er kam während des Freiheitskampfes 1849 in dem Kampf gegen die russische Armee ums Leben, die dem österreichischen Kaiser zur Hilfe kommt.
 
 vorosmartyter_station_name{
 
@@ -571,8 +563,7 @@ Eine hysterische Frau wurde aus der Donau ausgezogen
 
 secondary_article{
 
-Gestern wurden die auf dem Korso spazierenden Menschen auf eine verwirrte Frau aufmerksam. Die Frau starrte lange vor sich hin, dann spazierte sie von dem Kai in die Donau und versank. Zum Glück lief ein Polizist nach ihr und zog sie ans Ufer. Es stellt sich heraus, dass die Frau die Erzieherin einer berühmten Sternholzfabriker-Familie ist, namentlich Fabula Malvin, die gleich in das Irrenhaus in Lipótmező gebracht wurde, wo man sie dann mit Schockterapie behandelte. 
-
+Gestern wurden die Menschen auf dem Korso auf eine verwirrte Frau aufmerksam. Die Frau starrte lange vor sich hin, spazierte in die Donau und versank. Zum Glück lief ein Polizist nach ihr und zog sie ans Ufer. Sie war die Erzieherin einer berühmten Sternholzfabriker-Familie, namentlich Fabula Malvin, wurde gleich in das Irrenhaus in Lipótmező gebracht, wo man sie mit Schockterapie behandelte.
 }
 
 woman_in_the_water_0{
