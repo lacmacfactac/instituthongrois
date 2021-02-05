@@ -32,6 +32,8 @@ third{
 
 Es ist großenteils den literaturmögenden Hauptkellnern zu danken, dass das Kaffeehaus von den 90er Jahren eine literarische Institution wurde. Die Ausgaben der bestimmenden Zeitschrift des 20. Jahrhunderts mit dem Titel Nyugat wurden bei den Tischen der Kaffehäuser geschrieben. Gleichzeitig wurde das Kaffeehaus auch von den Vertretern anderer Künste wie Schauspieler, Komponisten oder Maler gern besucht. Das Kaffeehaus ist auch als die Wiege der Filmkunst bekannt. Hier entstanden die ersten Fachzeitschriften zum Thema Film, hier bekam Vilma Bánky, der Star der Stummfilme ihren ersten Vertrag, hier kündigte Mihály Kertész (später bekannt als Michael Curtiz, Regisseur von Casablanca) an, dass er ins Ausland geht…
 
+}
+
 fourth{
 
 Das Tag und Nacht geöffnete Institut, dessen Schlüssel in die Donau geworfen wurde und wo die Gäste nicht nur in ganzer Ruhe schöpfen, sondern im Notfall beim Tisch schlafen konnten, wurde erstmals 1916 geschlossen, aber später wurde es immer wieder mit unterschiedlicher Leitung und Namen geöffnet.
@@ -221,6 +223,8 @@ bajcsy_info{
 
 Die Andrássy Allee zweigt vom <b>Bajcsy-Zsilinszky Weg</b> ab, das „Budapester Champs Élysées”, das die Innenstadt mit dem Városliget verbindet. Die Allee wurde 1876 feierlich übergeben. Anfangs wurde sie als Radial-Linie genannt, später wurde sie nach dem Grafen Gyula Andrássy benannt. Sie wird mit Häusern in eklektisch-neorennaissancen Stil begrenzt.
 
+}
+
 Deak_station_name{
 
 Deák Ferenc Platz
@@ -230,6 +234,8 @@ Deák Ferenc Platz
 deak_info{
 
 Sándor Petőfi, einer der größten Dichter des 19. Jahrhunderts besuchte die evangelische Schule auf dem <b>Deák Ferenc Platz</b>. Er rezitierte sein Gedicht „Nationallied” im Kaffehaus Pilvax, das als Stammplatz der reformunterstützender Jugend galt. Er kam während des Freiheitskampfes 1849 in dem Kampf gegen die russische Armee ums Leben, die dem österreichischen Kaiser zur Hilfe kommt.
+
+}
 
 vorosmartyter_station_name{
 
