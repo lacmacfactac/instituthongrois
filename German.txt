@@ -32,8 +32,6 @@ third{
 
 Es ist großenteils den literaturmögenden Hauptkellnern zu danken, dass das Kaffeehaus von den 90er Jahren eine literarische Institution wurde. Die Ausgaben der bestimmenden Zeitschrift des 20. Jahrhunderts mit dem Titel Nyugat wurden bei den Tischen der Kaffehäuser geschrieben. Gleichzeitig wurde das Kaffeehaus auch von den Vertretern anderer Künste wie Schauspieler, Komponisten oder Maler gern besucht. Das Kaffeehaus ist auch als die Wiege der Filmkunst bekannt. Hier entstanden die ersten Fachzeitschriften zum Thema Film, hier bekam Vilma Bánky, der Star der Stummfilme ihren ersten Vertrag, hier kündigte Mihály Kertész (später bekannt als Michael Curtiz, Regisseur von Casablanca) an, dass er ins Ausland geht…
 
-}
-
 fourth{
 
 Das Tag und Nacht geöffnete Institut, dessen Schlüssel in die Donau geworfen wurde und wo die Gäste nicht nur in ganzer Ruhe schöpfen, sondern im Notfall beim Tisch schlafen konnten, wurde erstmals 1916 geschlossen, aber später wurde es immer wieder mit unterschiedlicher Leitung und Namen geöffnet.
@@ -186,8 +184,7 @@ Vörösmarty Straße
 
 vorosmarty_utca_info{
 
-In das Gebäude an der Ecke der Vörösmarty Straße und Andrássy Allee zog die Königlich-Ungarische Musikakademie um. Franz List (1811-1886) lehrt seine Schüler kostenlos nach dem heute den Masterkursen entsprechendes System. Sein letztes  Budapester Zuhause funktioniert heute als Erinnerungsmuseum, wo jene Musikinstrumente des Komponisten aufbewahrt werden, die er der Musikakademie gespendet hat.
-
+In das Gebäude an der Ecke der Vörösmarty Straße und Andrássy Allee zog die Königlich-Ungarische Musikakademie um. Franz List (1811-1886) lehrt seine Schüler kostenlos nach dem heute den Masterkursen entsprechenden System. Sein letztes  Zuhause ist heute ein Museum, wo jene Musikinstrumente des Komponisten aufbewahrt werden, die er der Musikakademie gespendet hat.
 }
 
 oktogon_station_name{
@@ -224,8 +221,6 @@ bajcsy_info{
 
 Die Andrássy Allee zweigt vom <b>Bajcsy-Zsilinszky Weg</b> ab, das „Budapester Champs Élysées”, das die Innenstadt mit dem Városliget verbindet. Die Allee wurde 1876 feierlich übergeben. Anfangs wurde sie als Radial-Linie genannt, später wurde sie nach dem Grafen Gyula Andrássy benannt. Sie wird mit Häusern in eklektisch-neorennaissancen Stil begrenzt.
 
-}
-
 Deak_station_name{
 
 Deák Ferenc Platz
@@ -235,8 +230,6 @@ Deák Ferenc Platz
 deak_info{
 
 Sándor Petőfi, einer der größten Dichter des 19. Jahrhunderts besuchte die evangelische Schule auf dem <b>Deák Ferenc Platz</b>. Er rezitierte sein Gedicht „Nationallied” im Kaffehaus Pilvax, das als Stammplatz der reformunterstützender Jugend galt. Er kam während des Freiheitskampfes 1849 in dem Kampf gegen die russische Armee ums Leben, die dem österreichischen Kaiser zur Hilfe kommt.
-
-}
 
 vorosmartyter_station_name{
 
@@ -375,7 +368,7 @@ Das ist kein Bier, das ist nicht lauwarm. Was soll ich damit anfangen- fragt Kr�
 
 krudy_arrives{
 
-Hier ist Gyula Krúdy, der als der hervorragende Master des Prosaschreibens gilt. Es ist ihm immer kalt, mag die kalte Getränke nicht, aber er lehnt ein Bier nicht ab. 
+Hier ist Gyula Krúdy, der als der hervorragende Master des Prosaschreibens gilt. Es ist ihm immer kalt, mag die kalte Getränke nicht, aber ein Bier lehnt er nicht ab. 
 
 }
 
@@ -459,13 +452,13 @@ Es ist sehr nett von Ihnen, dass sie sich daran erinnert haben! – glänzt das 
 
 osvat_refusal_1{
 
-Vielen Dank, aber ich begemöchte es jetzt nicht. Ich möchte sie darum bitten, es zurückzubringen. – ächzte Osvát.
+Vielen Dank, aber ich möchte es jetzt nicht. Ich möchte sie darum bitten, es zurückzubringen. – ächzte Osvát.
 
 }
 
 osvat_refusal_2{
 
-Interessant. Osvát lehnte sein Frühstück ab. Sowas hat es noch nicht gegebene! Schauen wir nach, was das Schicksal des Frühstücks wurde.
+Interessant. Osvát lehnte sein Frühstück ab. Sowas hat es noch nicht gegeben! Schauen wir nach, was das Schicksal des Frühstücks wurde.
 
 }
 
@@ -476,7 +469,7 @@ Ein Kleines Literarisches. Das wurde von Ernő Osvát abgelehnt. Es war das Lieb
 
 ham{
 
-Schinken.
+Schinken
 
 }
 
@@ -586,7 +579,7 @@ Aber sie konnte keine Nachricht über seinen Tod in dieser Zeitschrift lesen wei
 
 windows_of_lipot{
 
-Das ist das wunderschöne Fenster der Kapelle des Ofener Königlichen Lanirrenhauses in Lipótmező, das von Miksa Róth hergestellt wurde.
+Das ist das wunderschöne Fenster der Kapelle des Ofener Königlichen Irrenhauses in Lipótmező, das von Miksa Róth hergestellt wurde.
 
 }
 
