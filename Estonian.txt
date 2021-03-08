@@ -245,7 +245,7 @@ Vörösmarty väljak
 
 vorosmarty_ter_info{
 
-1884. a võttis Emil Gerbeaud József Kuglerilt üle <b>Vörösmarty väljaku</b> kondiitriäri. Ta laiendas tootevalikut võikreemide, teekookide ja jäätistega, kodustas Ungaris ümarate otstega šokolaadi kassikeel (macskanyelv) ja konjakikirsid šokolaadis (konyakmeggy). Millenniumipidustustel avas ta linnapargis Gerbeaud' paviljoni, et võtta seal vastu Franz Joseph I ja kuninganna Elisabeth (Sissi). 
+1884. a võttis Emil Gerbeaud Henrik Kuglerilt üle <b>Vörösmarty väljaku</b> kondiitriäri. Ta laiendas tootevalikut võikreemide, teekookide ja jäätistega, kodustas Ungaris ümarate otstega šokolaadi kassikeel (macskanyelv) ja konjakikirsid šokolaadis (konyakmeggy). Millenniumipidustustel avas ta linnapargis Gerbeaud' paviljoni, et võtta seal vastu Franz Joseph I ja kuninganna Elisabeth (Sissi). 
 
 }
 

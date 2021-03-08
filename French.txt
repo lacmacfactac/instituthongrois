@@ -1,4 +1,4 @@
-intro_button_next{
+﻿intro_button_next{
 
 Continuer
 
@@ -238,7 +238,7 @@ Sándor Petőfi, l’un des plus grands poètes du 19e siècle, fréquentait l�
 
 vorosmarty_ter_info{
 
-Émile Gerbeaud reprend la pâtisserie de József Kugler située sur la place Vörösmarty en 1884. Il en enrichit l’offre de crèmes au beurre, de gâteaux secs et de glaces et introduit les langues-de-chat et les griottes au kirsch. Pour les festivités du Millénaire (1896), il ouvre dans le Bois de la ville un pavillon qui accueillera François-Joseph et l’impératrice Élisabeth (Sissi).  
+Émile Gerbeaud reprend la pâtisserie de Henrik Kugler située sur la place Vörösmarty en 1884. Il en enrichit l’offre de crèmes au beurre, de gâteaux secs et de glaces et introduit les langues-de-chat et les griottes au kirsch. Pour les festivités du Millénaire (1896), il ouvre dans le Bois de la ville un pavillon qui accueillera François-Joseph et l’impératrice Élisabeth (Sissi).  
 
 }
 

@@ -245,7 +245,7 @@ Vörösmarty Platz
 
 vorosmarty_ter_info{
 
-Emil Gerbaud übernahm die Leitung der Konditorei auf dem <b>Vörösmarty Platz</b> im Jahr 1884 von József Kugler. Die Auswahl wird mit Butterkreme, Teekuchen und Eiskreme erweitert, außerdem leitete er Kognakbohne und Katzenzungen ein. Aus dem Anlass der Millenniumfeierlichkeiten eröffnet er das Pavilon Gerbeaud in Városliget bei dem Empfang von Franz Joseph I. und Königin Elisabeth (Sissi).
+Emil Gerbaud übernahm die Leitung der Konditorei auf dem <b>Vörösmarty Platz</b> im Jahr 1884 von Henrik Kugler. Die Auswahl wird mit Butterkreme, Teekuchen und Eiskreme erweitert, außerdem leitete er Kognakbohne und Katzenzungen ein. Aus dem Anlass der Millenniumfeierlichkeiten eröffnet er das Pavilon Gerbeaud in Városliget bei dem Empfang von Franz Joseph I. und Königin Elisabeth (Sissi).
 
 }
 

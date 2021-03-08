@@ -1,4 +1,4 @@
-intro_button_next{
+﻿intro_button_next{
 
 Tovább
 
@@ -237,7 +237,7 @@ A 4. szám alatt található evangélikus iskolába járt Petőfi Sándor, a 19.
 
 vorosmarty_ter_info{
 
-Gerbeaud Emil 1884-ben veszi át Kugler Józseftől a téren található cukrászda vezetését. A választékot vajas krémekkel, teasüteménnyel, fagylaltokkal bővíti és meghonosítja a macskanyelvet és a konyakmeggyet. A millenniumi ünnepségekre megnyitja a Gerbeaud Pavilont a Városligetben, I. Ferenc József és Erzsébet királyné, Sissi fogadására.
+Gerbeaud Emil 1884-ben veszi át Kugler Henriktől a téren található cukrászda vezetését. A választékot vajas krémekkel, teasüteménnyel, fagylaltokkal bővíti és meghonosítja a macskanyelvet és a konyakmeggyet. A millenniumi ünnepségekre megnyitja a Gerbeaud Pavilont a Városligetben, I. Ferenc József és Erzsébet királyné, Sissi fogadására.
 
 }
 

@@ -247,7 +247,7 @@ Vörösmartyjev trg (Vörösmarty tér)
 
 vorosmarty_ter_info{
 
-Na <b>Vörösmartyjevem trgu</b> najdemo slavno slaščičarno, ki jo je leta 1884 od Józsefa Kuglerja prevzel Emil Gerbeaud. Ponudbo je razširil z masleno kremo, čajnim pecivom, sladoledom ter vpeljal slavne mačje jezike ter konjakove češnje. Ob praznovanju tisočletnice madžarske države se ob prisotnosti cesarja Franca Jožefa I. in kraljice Elizabete (Sissi) v Városligetu odpre Gerbeaudov paviljon.
+Na <b>Vörösmartyjevem trgu</b> najdemo slavno slaščičarno, ki jo je leta 1884 od Henrika Kuglerja prevzel Emil Gerbeaud. Ponudbo je razširil z masleno kremo, čajnim pecivom, sladoledom ter vpeljal slavne mačje jezike ter konjakove češnje. Ob praznovanju tisočletnice madžarske države se ob prisotnosti cesarja Franca Jožefa I. in kraljice Elizabete (Sissi) v Városligetu odpre Gerbeaudov paviljon.
 
 }
 

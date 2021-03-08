@@ -245,7 +245,7 @@ Vörösmartyho námestie
 
 vorosmarty_ter_info{
 
-Vedenie cukrárne na <b>Vörösmartyho námestí</b> prevzal Emil Gerbeaud od Józsefa Kuglera v roku 1884. Ponuku rozšíril o maslové krémy, čajové pečivo, zmrzlinu a začal vyrábať mačacie jazýčky a višne v čokoláde. Pri príležitosti milenárnych osláv a návštevy Františka Jozefa I. a kráľovej Alžbety (Sissi) otvoril v mestskom parku Városliget Pavilón Gerbeaud. 
+Vedenie cukrárne na <b>Vörösmartyho námestí</b> prevzal Emil Gerbeaud od Henrika Kuglera v roku 1884. Ponuku rozšíril o maslové krémy, čajové pečivo, zmrzlinu a začal vyrábať mačacie jazýčky a višne v čokoláde. Pri príležitosti milenárnych osláv a návštevy Františka Jozefa I. a kráľovej Alžbety (Sissi) otvoril v mestskom parku Városliget Pavilón Gerbeaud. 
 
 }
 

@@ -249,7 +249,7 @@ Vörösmarty tér
 
 vorosmarty_ter_info{
 
-A <b>Vörösmarty tér</b>en található cukrászda vezetését Gerbeaud Emil 1884-ben veszi át Kugler Józseftől. A választékot vajas krémekkel, teasüteménnyel, fagylaltokkal bővíti és meghonosítja a macskanyelvet és a konyakmeggyet. A millenniumi ünnepségekre megnyitja a Gerbeaud Pavilont a Városligetben, I. Ferenc József és Erzsébet királyné (Sissi) fogadására.
+A <b>Vörösmarty tér</b>en található cukrászda vezetését Gerbeaud Emil 1884-ben veszi át Kugler Henriktől. A választékot vajas krémekkel, teasüteménnyel, fagylaltokkal bővíti és meghonosítja a macskanyelvet és a konyakmeggyet. A millenniumi ünnepségekre megnyitja a Gerbeaud Pavilont a Városligetben, I. Ferenc József és Erzsébet királyné (Sissi) fogadására.
 
 }
 

@@ -249,7 +249,7 @@ Praça Vörösmarty
 
 vorosmarty_ter_info{
 
-O Sr Emil Gerbeaud assume a gerência da confeitaria da <b>Praça Vörösmarty</b> depois do Sr József Kugler. Apareceram no cardápio os cremes amanteigados, os doces de chá e os sorvetes, e além disso introduz a língua de gato e o bombom de cereja com conhaque. O Pavilhão Gerbeaud é aberto no Bosque Municipal para receber o casal imperial Francisco José e a Rainha Elizabeth (Sissi).
+O Sr Emil Gerbeaud assume a gerência da confeitaria da <b>Praça Vörösmarty</b> depois do Sr Henrik Kugler. Apareceram no cardápio os cremes amanteigados, os doces de chá e os sorvetes, e além disso introduz a língua de gato e o bombom de cereja com conhaque. O Pavilhão Gerbeaud é aberto no Bosque Municipal para receber o casal imperial Francisco José e a Rainha Elizabeth (Sissi).
 
 }
 
