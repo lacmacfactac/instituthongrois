@@ -140,7 +140,7 @@ Széchenyi-Thermalbad
 
 szechenyi_info{
 
-Budapest ist die einzige Hauptstadt, wo 118 Thermalquellen und Brunnen zu finden sind. Die ersten Thermalbäder hat 201 n. C. der römische Septimus Severus bauen lassen. Aus der Zeit der türkischen Herrschaft sind 4 funktionierenden Thermalbäder bestehen geblieben. Mit dem Bau des <b>Széchenyi Thermalbades</b> wurde 1909 in dem Stil einer renaissancen Kathedrale begonnen.
+Budapest ist die einzige Hauptstadt, wo 118 Thermalquellen und Brunnen zu finden sind. Die ersten Thermalbäder hat 201 n. C. der römische Septimius Severus bauen lassen. Aus der Zeit der türkischen Herrschaft sind 4 funktionierenden Thermalbäder bestehen geblieben. Mit dem Bau des <b>Széchenyi Thermalbades</b> wurde 1909 in dem Stil einer renaissancen Kathedrale begonnen.
 }
 
 hosok_station_name{

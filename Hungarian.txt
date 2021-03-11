@@ -141,7 +141,7 @@ Széchenyi fürdő
 
 szechenyi_info{
 
-Budapest az egyedüli főváros, ahol 118 termálforrás és kút van. Az első termálvizes fürdőket a római Septimus Severus építi 201-ben. Attila hun király és a honfoglaló Árpád fejedelem is a Duna menti hőforrások mellett táboroz. A török uralom idejéből 4 működő fürdő maradt ránk. A <b>Széchenyi Fürdőt</b> 1909-ben kezdik építeni reneszánsz katedrálisra emlékeztető stílusban. 
+Budapest az egyedüli főváros, ahol 118 termálforrás és kút van. Az első termálvizes fürdőket a római Septimius Severus építi 201-ben. Attila hun király és a honfoglaló Árpád fejedelem is a Duna menti hőforrások mellett táboroz. A török uralom idejéből 4 működő fürdő maradt ránk. A <b>Széchenyi Fürdőt</b> 1909-ben kezdik építeni reneszánsz katedrálisra emlékeztető stílusban. 
 
 }
 

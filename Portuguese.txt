@@ -141,7 +141,7 @@ Banho Termal Széchenyi
 
 szechenyi_info{
 
-Budapeste é uma capital especial que tem 118 fontes de água termal. Os primeiros banhos foram construídos à época de Septimus Severus, em 201. Átila, o Rei dos Hunos, e Árpád, chefe dos pioneiros húngaros, também acamparam junto às fontes próximas ao Danúbio. Da época turca ainda restam 4 banhos. A construção do <b>Banho Széchenyi</b> começou em 1909 num estilo que alude a uma catedral renascentista. 
+Budapeste é uma capital especial que tem 118 fontes de água termal. Os primeiros banhos foram construídos à época de Septimius Severus, em 201. Átila, o Rei dos Hunos, e Árpád, chefe dos pioneiros húngaros, também acamparam junto às fontes próximas ao Danúbio. Da época turca ainda restam 4 banhos. A construção do <b>Banho Széchenyi</b> começou em 1909 num estilo que alude a uma catedral renascentista. 
 
 }
 

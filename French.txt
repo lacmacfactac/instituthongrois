@@ -1,4 +1,10 @@
-﻿intro_button_next{
+﻿next{
+
+Continuer
+
+}
+
+intro_button_next{
 
 Continuer
 
