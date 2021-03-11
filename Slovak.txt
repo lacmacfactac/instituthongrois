@@ -18,22 +18,22 @@ next{
 
 first{
 
-Nie je prehnané tvrdiť, že Budapešť nadobudla svoju súčasnú podobu v poslednej štvrtine 19. storočia. V rokoch 1869 – 1894 sa počet budov v hlavnom meste prakticky zdvojnásobil. V tomto období bol postavený Parlament, Veľká okružná trieda (Nagykörút), Andrássyho trieda (Andrássy út), Alžbetin a Margitin most, železničná stanica Západ (výsledok práce projekčnej kancelárie Gustava Eiffela), Opera...
+Nie je prehnané tvrdiť, že Budapešť nadobudla svoju súčasnú podobu v poslednej štvrtine 19. storočia. V rokoch 1869 – 1894 sa počet budov v hlavnom meste prakticky zdvojnásobil. V tomto období bol postavený Parlament, Veľká okružná trieda (Nagykörút), Andrássyho trieda (Andrássy út), Alžbetin a Margitin most, železničná stanica Nyugati (výsledok práce projekčnej kancelárie Gustava Eiffela), Opera...
 }
 
 second{
 
-Pri príležitosti milenárnych osláv v Uhorsku (1896) uviedli do prevádzky prvú budapeštiansku linku metra. Išlo zároveň o prvú podzemnú železnicu v kontinentálnej Európe. Výsledkom tejto „staviteľskej horúčky“ je aj Palác New York (1894). Navrhol ho Alajos Hauszmann, ktorý viedol aj prestavbu Budínskeho hradu. Objednávateľ stavby – istá americká poisťovacia spoločnosť – dala architektovi voľnú ruku a počas stavebných prác ho finančne nijako neobmedzovala. Pri realizácii kaviarne, ktorú možno považovať za najpompéznejšiu časť eklektického paláca, boli použité takmer výlučne trváce materiály, mramor a bronz; strop ozdobili freskami. 
+Pri príležitosti milenárnych osláv v  Uhorsku (1896) uviedli do prevádzky prvú budapeštiansku linku metra. Išlo zároveň o  prvú podzemnú železnicu v kontinentálnej Európe. Výsledkom tejto „staviteľskej horúčky“ je aj Palác New York (1894). Navrhol ho Alajos Hauszmann, ktorý viedol aj prestavbu Budínskeho hradu. Objednávateľ stavby – istá americká poisťovacia spoločnosť – dala architektovi voľnú ruku a počas stavebných prác ho finančne nijako neobmedzovala. Pri realizácii kaviarne, ktorú možno považovať za najpompéznejšiu časť eklektického paláca, boli použité takmer výlučne trváce materiály, mramor a  bronz; strop ozdobili freskami. 
 }
 
 third{
 
-Od deväťdesiatych rokov 19. storočia získala kaviareň literárny charakter, na čom mali nemalý podiel aj hlavní čašníci-milovníci literatúry, ktorí poskytovali chudobným spisovateľom písadlá aj úver. Jednotlivé čísla časopisu Nyugat, ktorý začal vychádzať v roku 1908 a patril medzi najvýznamnejšie periodiká 20. storočia, vznikali v podstate pri mramorových stoloch New Yorku. Kaviareň s obľubou navštevovali aj predstavitelia iných umeleckých smerov: herci, hudobní skladatelia, výtvarníci, no možno ju považovať aj za kolísku maďarského filmu. Tu sa zrodili prvé odborné filmové časopisy, tu podpísala svoju prvú zmluvu hviezda nemých filmov Vilma Bánky, tu oznámil Mihály Kertész (neskorší  Michael Curtiz, režisér filmu Casablanca), že sa sťahuje do zahraničia...
+Od 90-tych rokov 19. storočia získala kaviareň literárny charakter, na čom mali nemalý podiel aj hlavní čašníci-milovníci literatúry, ktorí poskytovali chudobným spisovateľom písadlá aj úver. Jednotlivé čísla časopisu Nyugat, ktorý vychádzal od roku 1908 a patril medzi najvýznamnejšie periodiká 20. storočia, vznikali v podstate pri mramorových stoloch New Yorku. Kaviareň navštevovali aj predstavitelia iných umeleckých smerov: herci, hudobní skladatelia, výtvarníci, no možno ju považovať aj za kolísku maďarského filmu. Tu sa zrodili prvé odborné filmové časopisy, tu podpísala svoju prvú zmluvu hviezda nemých filmov Vilma Bánky, tu oznámil Mihály Kertész (neskorší  Michael Curtiz, režisér filmu Casablanca), že sa sťahuje do zahraničia...
 }
 
 fourth{
 
-Táto „inštitúcia“ s nepretržitou prevádzkou (od ktorej kľúče hodili podľa legendy do Dunaja), kde sa dalo nielen pokojne tvoriť, ale v prípade potreby si aj pospať s hlavou položenou na stole, zostala prvýkrát zatvorená v roku 1916, aby ju následne pod meniacim sa vedením a názvom vždy nanovo otvorili.
+Táto „inštitúcia“ s nepretržitou prevádzkou (od ktorej kľúče hodili podľa legendy do Dunaja), kde sa dalo nielen pokojne tvoriť, ale v prípade potreby si aj pospať s  hlavou položenou na stole, zostala prvýkrát zatvorená v roku 1916, aby ju následne pod meniacim sa vedením a názvom vždy nanovo otvorili.
 
 }
 
@@ -45,7 +45,7 @@ Tento kufor pochádza z pozostalosti maďarského súkromného detektíva, ktor�
 
 baggage_opening_1{
 
-Pracovníci Maďarského kultúrneho inštitútu v Bratislave prosia svojich návštevníkov o pomoc pri rozlúštení obsahu kufra. 
+Pracovníci Maďarského kultúrneho inštitútu v Paríži prosia svojich návštevníkov o pomoc pri rozlúštení obsahu kufra. 
 
 }
 
@@ -72,7 +72,7 @@ Tragédia v kaviarni NEW YORK
 main_article{
 
 Včera ráno našli mŕtveho Jánosa Fabulu, čašníka z kaviarne New York. 
-Mladý muž, ktorého mnohí považovali za pravú ruku hlavného čašníka Jeana, netrpel žiadnou chronickou chorobou. Polícia <b>má podozrenie na otravu </b>, jediným svedkom čašníkovej smrti <b>sú jeho nedojedené raňajky</b>. 
+Mladý muž, ktorého mnohí považovali za pravú ruku hlavného čašníka Jeana, netrpel žiadnou chronickou chorobou. Polícia <b>má podozrenie na otravu</b>, jediným svedkom čašníkovej smrti <b>sú jeho nedojedené raňajky</b>. 
 Jánosa Fabulu oplakáva jeho sestra Malvin. Krajinské odborové združenie hlavných a účtujúcich čašníkov smúti spolu s ňou.
 
 }
@@ -137,7 +137,7 @@ Kúpele Széchenyi fürdő
 
 szechenyi_info{
 
-Budapešť je jediné hlavné mesto, kde sa nachádza 118 termálnych prameňov. Prvé termálne kúpele vybudoval rímsky cisár Septimus Severus v roku 201. Aj kráľ Hunov Attila a vojvodca Arpád táborili pri horúcich prameňoch v povodí Dunaja. Z čias tureckej nadvlády sa nám zachovali 4 funkčné kúpele. <b>Széchenyiho kúpele</b> začali stavať v roku 1909  na spôsob renesančnej katedrály.
+Budapešť je jediné hlavné mesto, kde sa nachádza 118 termálnych prameňov. Prvé termálne kúpele vybudoval rímsky cisár Septimus Severius v roku 201. Aj kráľ Hunov Attila a vojvodca Arpád táborili pri horúcich prameňoch v povodí Dunaja. Z čias tureckej nadvlády sa nám zachovali 4 funkčné kúpele. <b>Széchenyiho kúpele</b> začali stavať v roku 1909 na spôsob renesančnej katedrály.
 
 }
 
@@ -149,7 +149,7 @@ Námestie Hősök tere
 
 hosok_info{
 
-<b>Námestie Hősök tere</b> postavili pri príležitosti milenárnych osláv v roku 1896 a pripomína tisícročné dejiny maďarského národa. Nachádzajú sa tu sochy štrnástich popredných historických osobností; uprostred stojí vysoký stĺp, na vrchole ktorého archanjel Gabriel drží korunu a kríž. Podľa legendy sa archanjel Gabriel zjavil v sne prvému uhorskému kráľovi sv. Štefanovi a ponúkol mu svätú korunu.  
+<b>Námestie Hősök tere</b> postavili pri príležitosti milenárnych osláv v roku 1896 a pripomína tisícročné dejiny maďarského národa. Nachádzajú sa tu sochy štrnástich popredných historických osobností; uprostred stojí vysoký stĺp, na vrchole ktorého archanjel Gabriel drží korunu a kríž. Podľa legendy sa archanjel Gabriel zjavil v  sne prvému uhorskému kráľovi sv. Štefanovi a ponúkol mu svätú korunu.  
 
 }
 
@@ -161,7 +161,7 @@ Bajzova ulica
 
 bajza_info{
 
-V parku Epreskert, ktorý z jednej strany lemuje <b>Bajzova ulica</b>, začalo hlavné mesto od roku 1882 otvárať umelecké školy. Pri budovaní tohto priestoru zohral významnú úlohu sochár Alojz Stróbl, ktorý každé ráno, za zvukov lesného rohu, opúšťa na koni Epreskert, organizuje maškarné plesy, so študentmi uvádza historické scénky a po sade sa prechádzajú opice, pávy, srny, bociany.
+V parku Epreskert, ktorý  z jednej strany lemuje <b>Bajzova ulica</b>, začalo hlavné mesto od roku 1882 otvárať umelecké školy. Pri budovaní tohto priestoru zohral významnú úlohu sochár Alojz Stróbl, ktorý každé ráno, za zvukov lesného rohu, opúšťa na koni Epreskert, organizuje maškarné plesy, so študentmi uvádza historické scénky a po sade sa prechádzajú opice, pávy, srny, bociany.
 
 }
 
@@ -173,7 +173,7 @@ Námestie Kodály körönd
 
 kodaly_info{
 
-Hudobný skladateľ a muzikológ <b>Zoltán Kodály</b> patrí popri Bélovi Bartókovi k priekopníkom v oblasti výskumu a zberu ľudovej hudby. Kodály bol reformátorom hudobnej výchovy na maďarských školách. Hlásal: „Hudba patrí všetkým.“ Najdôležitejším nástrojom hudobnej výchovy, s ktorou treba začať už v predškolskom veku, je spev a materiálom naša spoločná hudobná materčina: ľudová hudba. 
+Hudobný skladateľ a muzikológ <b>Zoltán Kodály</b> patrí popri Bartókovi k priekopníkom v oblasti výskumu a zberu ľudovej hudby. Kodály bol reformátorom hudobnej výchovy na maďarských školách. Hlásal: „Hudba patrí všetkým.“ Najdôležitejším nástrojom hudobnej výchovy, s ktorou treba začať už v predškolskom veku, je spev a materiálom naša spoločná hudobná materčina, ľudová hudba. 
 
 }
 
@@ -185,7 +185,7 @@ Vörösmartyho ulica
 
 vorosmarty_utca_info{
 
-Do budovy na rohu <b>Vörösmartyho ulice</b> a Andrássyho triedy sa v roku 1879 presťahovala Maďarská kráľovská hudobná akadémia. Franz Liszt (1811 – 1886) učil svojich študentov bezplatne, v duchu dnešných majstrovských kurzov. Na umelcovej poslednej budapeštianskej adrese v súčasnosti sídli Pamätné múzeum Franza Liszta s hudobnými nástrojmi, knihami a notami, ktoré skladateľ venoval Hudobnej akadémii.
+Do budovy na rohu <b>Vörösmartyho ulice</b> a Andrássyho triedy sa v roku 1879 presťahovala Maďarská kráľovská hudobná akadémia. Franz Liszt (1811–1886) učil svojich študentov bezplatne,  v duchu dnešných majstrovských kurzov. Na umelcovej poslednej budapeštianskej adrese v súčasnosti sídli Pamätné múzeum Franza Liszta s hudobnými nástrojmi, knihami a notami, ktoré skladateľ venoval Hudobnej akadémii.
 
 }
 
@@ -209,7 +209,7 @@ Opera
 
 opera_info{
 
-Maďarská štátna <b>opera</b> bola postavená v rokoch 1875 – 1884 v neorenesančnom slohu, podľa architektonického návrhu Miklósa Ybla. Na jej slávnostnom otvorení sa zúčastnil aj cisár František Jozef I. a orchester dirigoval hudobný skladateľ Ferenc Erkel, autor hudby k maďarskej štátnej hymne. Prvá zlatá éra Opery sa spája s Gustavom Mahlerom, ktorý inštitúciu viedol v rokoch 1888 – 1891. 
+Maďarská štátna <b>opera</b> bola postavená v rokoch 1875–1884 v neorenesančnom slohu, podľa architektonického návrhu Miklósa Ybla. Na jej slávnostnom otvorení sa zúčastnil aj cisár František Jozef I. a orchester dirigoval hudobný skladateľ Ferenc Erkel, autor hudby k maďarskej štátnej hymne. Prvá zlatá éra Opery sa spája s Gustavom Mahlerom, ktorý inštitúciu viedol v rokoch 1888–1891. 
 
 }
 
@@ -221,7 +221,7 @@ Trieda Bajcsy-Zsilinszky
 
 bajcsy_info{
 
-<b>Trieda Bajcsy-Zsilinszky</b> sa vetví na Andrássyho triedu, ktorá je považovaná za budapeštianske „Champs-Élysées“ a spája centrum mesta s parkom Városliget. Slávnostne ju sprístupnili v roku 1876. Najprv niesla názov „Sugár út“; v roku 1885 ju pomenovali po grófovi Gyulovi Andrássym. Lemujú ju domy a kúrie v eklekticko-neorenesančnom štýle a spočiatku ju pokrývali drevené dlažobné kocky.  
+<b>Trieda Bajcsy-Zsilinszky</b> sa vetví na Andrássyho triedu, ktorá je považovaná za budapeštianske „Champs-Élysées“ a spája centrum mesta s parkom Városliget. Slávnostne ju sprístupnili v roku 1876. Najprv niesla názov „Sugár út“; v roku 1885 ju pomenovali po grófovi Gyulovi Andrássym. Lemujú ju domy a kúrie  v eklekticko-neorenesančnom štýle a spočiatku ju pokrývali drevené dlažobné kocky.  
 
 }
 
@@ -245,7 +245,7 @@ Vörösmartyho námestie
 
 vorosmarty_ter_info{
 
-Vedenie cukrárne na <b>Vörösmartyho námestí</b> prevzal Emil Gerbeaud od Henrika Kuglera v roku 1884. Ponuku rozšíril o maslové krémy, čajové pečivo, zmrzlinu a začal vyrábať mačacie jazýčky a višne v čokoláde. Pri príležitosti milenárnych osláv a návštevy Františka Jozefa I. a kráľovej Alžbety (Sissi) otvoril v mestskom parku Városliget Pavilón Gerbeaud. 
+Vedenie cukrárne na <b>Vörösmartyho námestí</b> prevzal Emil Gerbeaud od Henrika Kuglera v roku 1884. Ponuku rozšíril o maslové krémy, čajové pečivo, zmrzlinu a začal vyrábať mačacie jazýčky  a višne v čokoláde. Pri príležitosti milenárnych osláv a návštevy Františka Jozefa I. a kráľovnej Alžbety (Sissi) otvoril  v mestskom parku Városliget Pavilón Gerbeaud. 
 
 }
 
@@ -449,7 +449,7 @@ Ale prosím vás. Ja som si neobjednal toto. Kde sú moje malé literárne? – 
 
 osvat_arrives{
 
-Dorazil Ernő Osvát! Jeden z budúcich redaktorov Nyugat-u. Teraz nesmieme pochybiť! On chce malé literárne, to je isté.
+Dorazil Ernő Osvát! Jeden z budúcich redaktorov Nyugatu. Teraz nesmieme pochybiť! On chce malé literárne, to je isté.
 
 }
 
@@ -510,13 +510,13 @@ Pomstychtivý odkaz Osvátovi! Pridal ho tam čašník? Je možné, že boli ra�
 
 nyugat_prints_0{
 
-V deň pred čašníkovou smrťou vyšiel kefový obťah aj tlačená verzia prvého čísla Nyugat-u.  
+V deň pred čašníkovou smrťou vyšiel kefový obťah aj tlačená verzia prvého čísla Nyugatu.  
 
 }
 
 critique1{
 
-Kde sa tu berie táto neakceptovateľná, detinská rýmovačka???
+Kde sa tu berie táto detinská rýmovačka?
 
 }
 
@@ -572,13 +572,13 @@ writing_on_back{
 
 secondary_headline{
 
-Z Dunaja vytiahli hysterickú ženu.
+Z Dunaja vytiahli hysterickú ženu
 
 }
 
 secondary_article{
 
-Včera vo večerných hodinách si chodci na promenáde všimli zmätenú dámu. Žena meravo hľadela pred seba, potom z nábrežia vošla do Dunaja a zmizla pod hladinou. Našťastie v blízkosti hliadkoval žandár, ktorý sa za ňou rozbehol a vytiahol ju na breh. Ukázalo sa, že tou dámou bola Malvin Fabula, vychovávateľka v rodine slávneho výrobcu zápaliek, ktorú okamžite previezli do ústavu pre choromyseľných v Lipótmező, kde ju podrobia šokovej terapii. 
+Včera vo večerných hodinách si chodci na promenáde všimli zmätenú dámu. Žena meravo hľadela pred seba, potom z nábrežia vošla do Dunaja  a zmizla pod hladinou. Našťastie  v blízkosti hliadkoval žandár, ktorý sa za ňou rozbehol a vytiahol ju na breh. Ukázalo sa, že tou dámou bola Malvin Fabula, vychovávateľka  v rodine slávneho výrobcu zápaliek, ktorú okamžite previezli do ústavu pre choromyseľných v Lipótmező, kde ju podrobia šokovej terapii. 
 
 }
 
@@ -681,7 +681,7 @@ Biely fosfor, získavaný zo zápaliek, bol v tej dobe častým nástrojom (samo
 
 epilogue_1{
 
-A hoci je náš príbeh vymyslený a plný zveličení, ktoré sú pre kriminálne príbehy typické, svojím krivým zrkadlom predsa len odhaľuje niečo pravdivé a dôležité z Budapešti zo začiatku minulého storočia: v tom čase brali literatúru smrteľne vážne... Vďaka prísnym kvalitatívnym požiadavkám Osváta a jemu podobných redaktorov, ako aj plodnému intelektuálnemu ovzdušiu, ktoré bolo príznačné pre New York a iné literárne kaviarne, dokázal byť časopis Nyugat tridsaťtri rokov dielňou i fórom rodiacej sa modernej maďarskej literatúry. Ako konštatuje hlavný čašník Ede v Máraiovom románe Sindibád sa vracia: „kaviareň je miesto, ktoré sa vyznačuje jedinečnou, z medicínskeho a telovýchovného hľadiska vôbec nie zdravou, ale z literárneho hľadiska absolútne blahodarnou klímou, kde sú literáti tak trochu chránení pred pokušeniami sveta, úradnými šimľami a surovosťou peňazí; ich pľúca a srdcia sa síce opotrebujú pod vplyvom nikotínu a čiernej kávy, ale čo je dôležitejšie – ich duch rozkvitá.“ 
+A hoci je náš príbeh vymyslený a plný zveličení, ktoré sú pre kriminálne príbehy typické, svojím krivým zrkadlom predsa len odhaľuje niečo pravdivé  a dôležité z Budapešti zo začiatku minulého storočia:  v tom čase brali literatúru smrteľne vážne... Vďaka prísnym kvalitatívnym požiadavkám Osváta a jemu podobných redaktorov, ako aj plodnému intelektuálnemu ovzdušiu, ktoré bolo príznačné pre New York a iné literárne kaviarne, dokázal byť časopis Nyugat tridsaťtri rokov dielňou i fórom rodiacej sa modernej maďarskej literatúry. Ako konštatuje hlavný čašník Ede v Máraiovom románe Sindibád sa vracia: „kaviareň je miesto, ktoré sa vyznačuje jedinečnou, z medicínskeho a telovýchovného hľadiska vôbec nie zdravou, ale z literárneho hľadiska absolútne blahodarnou klímou, kde sú literáti tak trochu chránení pred pokušeniami sveta, úradnými šimľami a surovosťou peňazí; ich pľúca  a srdcia sa síce opotrebujú pod vplyvom nikotínu  a čiernej kávy, ale čo je dôležitejšie – ich duch rozkvitá.“ 
 
 }
 
