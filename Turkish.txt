@@ -10,11 +10,6 @@ Devam
 
 }
 
-next{
-
-Devam
-
-}
 
 first{
 
@@ -316,7 +311,7 @@ Zavallıcık böylesi salak karalama şiirleri genç yetenekleri bir araya getir
 
 waiters_task{
 
-Bir garsonun en büyük başarısı, sipariş verilmeden önce ne isteneceğini bilmektir. Baş garson Jean zaten iyice eğitmiş arkadaşımızı. Bakalım doğru mu hatırlıyor
+Bir garsonun en büyük başarısı, sipariş verilmeden önce ne isteneceğini bilmektir. Baş garson Jean zaten iyice eğitmiş arkadaşımızı. Bakalım doğru mu hatırlıyor?
 
 }
 
@@ -382,7 +377,7 @@ Ne bira ne de ılık. Ne yapacağım bunu? - diye soruyor Krúdy.
 
 krudy_arrives{
 
-Gyula Krúdy Gyula, Macar düzyazısının büyük ustası geldi. Hep üşüyor, soğuk içecekleri sevmez, ama birayı reddetmez.
+Gyula Krúdy, Macar düzyazısının büyük ustası geldi. Hep üşüyor, soğuk içecekleri sevmez, ama birayı reddetmez.
 
 }
 
