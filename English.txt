@@ -11,7 +11,7 @@ Next
 
 next{
 
-Tovább
+Next	
 
 }
 
@@ -54,10 +54,12 @@ Let us start with a Pesti hírlap (Pest News) article from 1908, which might pro
 
 }
 
+
+Pesti_hirlap{
+
 PESTI HÍRLAP
 
 }
-
 main_headline{
 
 
@@ -71,12 +73,12 @@ main_article{
 János Fabula, a waiter at the New York Café, was found dead yesterday morning.
 The young man, considered by many to have been the right-hand man to Jean, the head waiter, suffered from no chronic illness. Police <b>suspect poisoning</b>. The only witness to the tragic event is his <b>half-eaten breakfast</b>. János Fabula is survived by his older sister, Malvin. 
 The National Union of Waiters announced that it has lost one of their own.
-A Fő- és Fizetőpincérek Országos Szakszervezete saját halottjának tekinti. (Ilyen nem létezik angolul ezért csak hasonlót írtam)
 
 }
 
-Before entering_crime_scene{
+}
 
+before_entering_crime_scene{
 
 An unusual death. Let us check out the scene—perhaps we’ll find something interesting.
 
@@ -471,7 +473,7 @@ Unusual. Osvát has refused his breakfast. First time ever. Let’s look into wh
 
 kis_irodalmi{
 
-Little Literary. This is what Ernő Osváth refused this morning. It was the favourite bite of many writers, as one could get it free, or in exchange for a poem, from the generous waiter. The ingredients: 
+Little Literary. This is what Ernő Osvát refused this morning. It was the favourite bite of many writers, as one could get it free, or in exchange for a poem, from the generous waiter. The ingredients: 
 
 }
 
@@ -665,7 +667,6 @@ credits{
 Story idea by Gábor Orbán
 
 Made, at the request of the Hungarian Cultural Insitute in Paris, by:
-A párizsi Magyar Kulturális Intézet megbízásából készítette:
 
 Ágnes Bakk
 
