@@ -11,6 +11,7 @@ Next
 
 next{
 
+Next
 
 }
 
@@ -20,6 +21,7 @@ It is no exaggeration to say that Budapest’s present-day cityscape took shape 
 
 }
 second{
+
 Continental Europe’s first underground railway line was inaugurated in 1896, within the framework of the millennium celebrations of the Magyars’ settlement of the Carpathian Basin. Likewise a result of this building fever was the New York Palace (1894), designed by architect Alajos Hauszmann, who had directed the expansion of the Buda Castle. He was given free budgetary rein for the palace project by the principal sponsor, an American insurance company. Indeed, the café, the most sumptuous part of this eclectic building, was constructed almost solely of enduring materials, not least marble and bronze, with frescoes ornamenting the ceiling.
 
 }
@@ -44,7 +46,7 @@ This suitcase came from the estate of a Hungarian private detective who emigrate
 
 baggage_opening_1{
 
-The staff at the Hungarian Cultural Institute needs your help to solve the mystery of its contents.  
+The staff at the Liszt Institute needs your help to solve the mystery of its contents.  
 
 }
 
