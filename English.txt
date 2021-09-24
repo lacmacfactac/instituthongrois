@@ -648,7 +648,7 @@ In the nineteenth century, white phosphorus, used in match manufacturing, was a 
 
 epilogue_1{
 
-Even though our story is fiction, punctuated with exaggerations characteristic of crime stories, it expresses, like a distorting mirror, an essential truth about Budapest at the beginning of the twentieth century: at the time, literature was a deadly serious affair. Nyugat managed to become both the workshop and the forum of modern Hungarian literature for thirty-three years, thanks to the high standards of editors such as Osvát and to the intellectually fertile atmosphere of literary cafés, especially the New York Café. As Ede the butler puts it in Hungarian writer Sándor Márai's novel Sinbad Comes Home, “A coffeehouse is that singular environment that is not at all good for health in a medical or athletic sense, but that is uniquely useful in a literary sense, where writers are somewhat protected from the temptations of the world, from the red tape of bureaucracy, and from the brutality of money. Nicotine and coffee wear out their lungs and hearts, but their minds flourish, and that is more important
+Even though our story is fiction, punctuated with exaggerations characteristic of crime stories, it expresses, like a distorting mirror, an essential truth about Budapest at the beginning of the twentieth century: at the time, literature was a deadly serious affair. Nyugat managed to become both the workshop and the forum of modern Hungarian literature for thirty-three years, thanks to the high standards of editors such as Osvát and to the intellectually fertile atmosphere of literary cafés, especially the New York Café. As Ede the butler puts it in Hungarian writer Sándor Márai's novel Sinbad Comes Home, “A coffeehouse is that singular environment that is not at all good for health in a medical or athletic sense, but that is uniquely useful in a literary sense, where writers are somewhat protected from the temptations of the world, from the red tape of bureaucracy, and from the brutality of money. Nicotine and coffee wear out their lungs and hearts, but their minds flourish, and that is more important."
 
 }
 
@@ -662,7 +662,7 @@ credits{
 
 Story idea by Gábor Orbán
 
-Made, at the request of the Hungarian Cultural Insitute in Paris, by:
+Made, at the request of the Liszt Insitute Paris, by:
 
 Ágnes Bakk
 
@@ -670,7 +670,7 @@ László András Halák
 
 Dorottya Kovács
 
-Contributors at the Hungarian Cultural Institute in Paris:
+Contributors at the Liszt Institute Paris:
 
 Zita Bodnár
 
