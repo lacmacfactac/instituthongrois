@@ -1,0 +1,382 @@
+collection:
+- Key: next
+  Value: |
+    Tovább
+- Key: intro_button_next
+  Value: |
+    Tovább
+- Key: first
+  Value: |
+    Nem túlzás azt állítani, hogy Budapest mai városképe a 19. század utolsó negyedében nyerte el mai formáját. 1869 és 1894 között a főváros épületeinek száma gyakorlatilag megkétszereződött. Ebben az időszakban épült az Országház, a Nagykörút, az Andrássy út, az Erzsébet- és a Margit-híd, a Nyugati pályaudvar (Gustave Eiffel irodájának munkája), az Operaház...
+- Key: second
+  Value: |
+    A Magyarország fennállásának ezredik évfordulója alkalmából tartott ünnepségek (1896) keretében adták át az első budapesti metróvonalat, amely a kontinentális Európa első földalatti vasútja volt. Ennek az „építési láznak” a terméke a New York-palota (1894) is, amelyet a Budavári Palota átépítését is vezető Hauszmann Alajos tervezett. A megbízó, egy amerikai biztosítótársaság, a kivitelezés költségeit illetően teljesen szabad kezet adott az építésznek. Az eklektikus stílusú palota legpompásabb részének tekinthető kávéház kivitelezéséhez szinte csak időtálló anyagokat, márványt, bronzot használtak; a mennyezetet freskókkal díszítették.
+- Key: third
+  Value: |
+    A kávéház a kilencvenes évektől irodalmi jellegűvé válik, ami nem kis részben az irodalomkedvelő főpincéreknek köszönhető, akiktől a szegény írók írószert és hitelt kaphattak. A 20. század meghatározó folyóirata, az 1908-ban induló Nyugat számai gyakorlatilag a New York márványasztalainál születnek. Ugyanakkor más művészeti ágak képviselői, színészek, zeneszerzők, festők is szívesen látogatták a kávéházat, amely egyúttal a magyar filmművészet bölcsőjének is tekinthető. Itt születtek az első filmes szaklapok, itt kapta első filmszerződését a némafilmek sztárja Bánky Vilma, itt jelenti be Kertész Mihály (a későbbi Michael Curtiz, a Casablanca rendezője), hogy külföldre távozik...
+- Key: fourth
+  Value: |
+    Az éjjel-nappal nyitva tartó intézmény, amelynek kulcsát a legenda szerint a Dunába hajították, és ahol nem csak alkotni lehetett nyugodtan, de szükség esetén az asztalra borulva aludni is egy kicsit, 1916-ban zár be először. Hogy aztán változó vezetéssel, változó névvel, mindig újra kinyisson.
+- Key: baggage_opening_0
+  Value: |
+    Ez a bőrönd egy, a harmincas években Párizsba emigrált magyar magánnyomozó hagyatékából származik.
+- Key: baggage_opening_1
+  Value: |
+    A párizsi Magyar Kulturális Intézet munkatársai a látogatóik segítségét kérik a bőrönd tartalmának megfejtéséhez.
+- Key: baggage_opening_3
+  Value: |
+    Kezdjük egy 1908-as újságcikkel, talán ad valamilyen útbaigazítást.
+- Key: pesti_hirlap
+  Value: |
+    PESTI HÍRLAP
+- Key: main_headline
+  Value: |
+    Tragédia a NEW YORK kávéházban
+- Key: main_article
+  Value: |
+    Tegnap reggel holtan találták a New York Kávéház pincérét, Fabula Jánost.
+    A fiatalember, akit sokan Jean főpincér jobbkezének tartottak, nem szenvedett semmilyen idült betegségben. A rendőrség <b>mérgezésre gyanakszik</b>, halálának egyetlen tanúja <b>félig elfogyasztott reggelije</b>.
+    Fabula Jánost nővére, Malvin gyászolja. A Fő- és Fizetőpincérek Országos Szakszervezete saját halottjának tekinti.
+- Key: before_entering_crime_scene
+  Value: |
+    Különös haláleset. Nézzünk körül a helyszínen, hátha találunk valamit.
+- Key: body
+  Value: |
+    Fabula János, a szerencsétlenül járt pincér. Nincsenek külsérelmi nyomok, az áldozat azonban halála előtt kiöklendezte a reggelijét. Innen a mérgezés hipotézise.
+- Key: oven
+  Value: |
+    Gáztűzhely. Gázmérgezést biztosan nem okozott. De csuda kávét lehet főzni rajta.
+- Key: kitchenware
+  Value: |
+    Edények. Jelenlétük korántsem meglepő egy konyhában. Gyilkos eszköznek nem éppen ideálisak.
+- Key: counter
+  Value: |
+    Konyhapult, nincs rajta semmi oda nem illő.
+- Key: lights_off_vomit_glows
+  Value: |
+    Világító gyomornedvek? Ez aztán nem mindennapi jelenség! Vajon minek a következménye?
+- Key: lets_walk
+  Value: |
+    Rekonstruáljuk a pincér reggeli programját, talán szemet szúr valami apróság.
+- Key: boarding_the_sub_1
+  Value: |
+    A pincér a Városliget mellett lakott, és a kontinens első metróvonalán járt dolgozni, amely a város nevezetességei alatt zakatol. Kár, hogy a föld alól nem láthatta őket.
+- Key: boarding_the_sub_2
+  Value: |
+    Az utazás unalmát frappáns rímek kiötlésével űzte el, miközben a felszínen egymást váltották az érdekes látnivalók.
+- Key: szechenyi_station_name
+  Value: |
+    Széchenyi fürdő
+- Key: szechenyi_info
+  Value: |
+    Budapest az egyedüli főváros, ahol 118 termálforrás és kút van. Az első termálvizes fürdőket a római Septimius Severus építi 201-ben. Attila hun király és a honfoglaló Árpád fejedelem is a Duna menti hőforrások mellett táboroz. A török uralom idejéből 4 működő fürdő maradt ránk. A <b>Széchenyi Fürdőt</b> 1909-ben kezdik építeni reneszánsz katedrálisra emlékeztető stílusban.
+- Key: hosok_station_name
+  Value: |
+    Hősök tere
+- Key: hosok_info
+  Value: |
+    A <b>Hősök terét</b> az 1896-os millenniumi ünnepségre építik, a magyarok ezeréves történelmének állít emléket. Tizennégy emblematikus történelmi személyiség szobra áll itt, középen obeliszkkel, tetején a koronát és keresztet tartó Gábriel arkangyal szobrával. A legenda szerint Gábriel megjelent az első magyar király, Szent István álmában, felajánlva neki a Szent Koronát.
+- Key: bajza_station_name
+  Value: |
+    Bajza utca
+- Key: bajza_info
+  Value: |
+    A <b>Bajza utca</b> által határolt Epreskertben a főváros 1882-től művészeti mesteriskolákat nyit. Főként Stróbl Alajos szobrásznak volt nagy szerepe a hely kialakításában, ő reggelente kürtszóra lovagol ki az Epreskertből, jelmezbálokat szervez, növendékeivel történelmi jeleneteket ad elő, a kertben majmok, pávák, őzek, gólyák sétálnak.
+- Key: kodaly_station_name
+  Value: |
+    Kodály körönd
+- Key: kodaly_info
+  Value: |
+    <b>Kodály Zoltán</b> zeneszerző és zenetudós Bartók Béla mellett a népdalkutatás és -gyűjtés úttörője. Kodály zenepedagógiai munkásságával az egész magyar zenei oktatást megújítja. «Legyen a zene mindenkié» – hirdeti. A zenei fejlesztést már óvodás korban el kell kezdeni, ennek legfőbb eszköze az énekhang, anyaga pedig mindannyiunk zenei anyanyelve: a népzene.
+- Key: voromartyutca_station_name
+  Value: |
+    Vörösmarty utca
+- Key: vorosmarty_utca_info
+  Value: |
+    A <b>Vörösmarty utca</b> és az Andrássy út sarkán álló épületbe 1879-ben költözik a Magyar Királyi Zeneakadémia. Liszt Ferenc (1811-1886) ingyen tanítja diákjait a mai mesterkurzusoknak megfelelő rendszer szerint. Utolsó budapesti otthona ma Liszt Ferenc Emlékmúzeum, ahol a zeneszerő Zeneakadémiára hagyományozott hangszereit, könyv- és kottatárát őrzik.
+- Key: oktogon_station_name
+  Value: |
+    Oktogon
+- Key: oktogon_info
+  Value: |
+    A nyolcszög alakú téren, az <b>Oktogon</b>on metszi egymást az Andrássy út és a több mint 4000 méter hosszú Nagykörút, a 19. század két legnagyobb városépítési alkotása. Utóbbi a Buda, Pest és Óbuda egyesítése (1873) után rohamosan fejlődő főváros sugárútjait hivatott összekötni. Itt indul el az első villamosjárat 1887-ben.
+- Key: opera_station_name
+  Value: |
+    Opera
+- Key: opera_info
+  Value: |
+    A Magyar Állami <b>Opera</b>ház Ybl Miklós tervei alapján 1875 és 1884 között épül neoreneszánsz stílusban. Ünnepélyes megnyitóján Ferenc József császár is jelen van, és Erkel Ferenc zeneszerző, a magyar Himnusz megzenésítője vezényel. Az Operaház első aranykora Gustav Mahlerhez fűződik, aki 1888 és 1891 között vezeti az intézményt.
+- Key: bajcsy_station_name
+  Value: |
+    Bajcsy-Zsilinszky út
+- Key: bajcsy_info
+  Value: |
+    A <b>Bajcsy-Zsilinszky út</b>ból ágazik az Andrássy út, a "budapesti Champs-Élysées", amely a Belvárost köti össze a Városligettel. Az utat 1876-ban adják át ünnepélyes keretek között. Eleinte Sugár-útnak hívják, majd 1885-ben gróf Andrássy Gyuláról nevezik el. Eklektikus-neoreneszánsz stílusú házak és kúriák szegélyezik, kezdetben fakockaborítást kap.
+- Key: deak_station_name
+  Value: |
+    Deák Ferenc tér
+- Key: deak_info
+  Value: |
+    A <b>Deák Ferenc tér</b>en található evangélikus iskolába járt Petőfi Sándor, a 19. század egyik legnagyobb magyar költője. 1848. március 15-én a reformpárti fiatalok törzshelyén, a Pilvax kávéházban elszavalja "Nemzeti Dal" c. versét. Az 1848-49-es forradalom és szabadságharc fontos szereplője. A csatamezőn esik el az osztrák császár segítségére siető orosz csapatok ellen küzdve.
+- Key: vorosmartyter_station_name
+  Value: |
+    Vörösmarty tér
+- Key: vorosmarty_ter_info
+  Value: |
+    A <b>Vörösmarty tér</b>en található cukrászda vezetését Gerbeaud Emil 1884-ben veszi át Kugler Henriktől. A választékot vajas krémekkel, teasüteménnyel, fagylaltokkal bővíti és meghonosítja a macskanyelvet és a konyakmeggyet. A millenniumi ünnepségekre megnyitja a Gerbeaud Pavilont a Városligetben, I. Ferenc József és Erzsébet királyné (Sissi) fogadására.
+- Key: missed_stop_0
+  Value: |
+    Pincérünk rendszerint annyira belemerült az alkotás mámorába, hogy túlment az Oktogonon, és csak a Vörösmarty térnél eszmélt fel.  Ilyenkor késve érkezett a munkahelyére, kitéve magát Jean főpincér haragjának.
+- Key: missed_stop_1
+  Value: |
+    Sosem mulasztotta el futtában lejegyezni a földalattin fejben kiötlött verset, és odaadni a kávéház íróinak véleményezésre.
+- Key: line1
+  Value: |
+    Éhes költő kis szerelmének ágyából
+- Key: line2
+  Value: |
+    korgó gyomorral metrón zakatol
+- Key: line3
+  Value: |
+    írók reggelijéről álmodik, míg kezére nem ütnek
+- Key: line4
+  Value: |
+    a híres, éhes írók, akik számlát nem fizetnek
+- Key: line5
+  Value: |
+    baljós gondolatok kerengnek fölötte
+- Key: line6
+  Value: |
+    reggelijét hát nem otthon fölödte?
+- Key: sign_it
+  Value: |
+    Aláírom!
+- Key: poem_done_1
+  Value: |
+    Szegény azt hitte, hogy az efféle zsengékkel bekerülhet a fiatal tehetségeket egyesítő Nyugat folyóiratba. Első számát a pincér halála előtti napon küldték nyomdába.
+- Key: waiters_task
+  Value: |
+    Nincs nagyobb kihívás egy pincér számára, mint azelőtt kitalálni a rendelést, hogy elhangozna. Jean főúr alaposan kitanította pincérünket. Lássuk, jól emlékszik-e!
+- Key: szini_fav
+  Value: |
+    Két darab négyperces tojás pohárban
+- Key: szini_refuses
+  Value: |
+    Két darab négyperces tojás pohárban. Minden reggel ezt eszem. Hogy nem lehet megjegyezni? - morog Szini.
+- Key: szini_arrives
+  Value: |
+    Szini Gyula, Osvát felfedezettje. Csak semmi körítés. Lágytojást kér, pohárban. Vagy az Szép Ernő?
+- Key: szini_accepts
+  Value: |
+    Bajnokok reggelije! - kiált fel Szini.
+- Key: brody_fav
+  Value: |
+    Tejeskávé sötéten, zsemle, parádi forrásvíz
+- Key: brody_refuses
+  Value: |
+    Kávé, zsemle, parádi forrásvíz. Mi olyan nehéz ezen? - csap az asztalra Bródy.
+- Key: brody_arrives
+  Value: |
+    Bródy Sándor. Óvatosan vele. Puccos egy alak, az egyszerű csapvizet nem issza. Külön hozatunk neki.
+- Key: brody_accepts
+  Value: |
+    Magában mindig lehet bízni. - mosolyodik el Bródy.
+- Key: krudy_fav
+  Value: |
+    Korsó langyos sör
+- Key: krudy_refuses
+  Value: |
+    Se nem sör, se nem langyos. Ezzel mit kezdjek? - kérdezi Krúdy.
+- Key: krudy_arrives
+  Value: |
+    Itt van Krúdy Gyula, a magyar prózaírás kiváló mestere. Fázós, nem szeretni a hideg italokat, de azért egy sört nem utasít vissza.
+- Key: krudy_accepts
+  Value: |
+    Langyos sör! A kedvencem! - kiált föl Krúdy.
+- Key: szep_fav
+  Value: |
+    Rántotta lágyan
+- Key: szep_refuses
+  Value: |
+    Rántottát lágyan. RÁNTOTTÁT. LÁGYAN. - dühöng Szép.
+- Key: szep_arrives
+  Value: |
+    Most láttam Szép Ernőt! A kabaréirodalom úttörője. Rántottát kér lágyan. Vagy az a Szini Gyula?
+- Key: szep_accepts
+  Value: |
+    Világszínvonalú kiszolgálás, én mondom! - kiált Szép.
+- Key: karinthy_fav
+  Value: |
+    Langyos kávé sok habbal
+- Key: karinthy_refuses
+  Value: |
+    Finomnak finom, de hogy nem langyos kávé, az biztos. - huppan vissza szomorúan helyére Karinthy.
+- Key: karinthy_arrives
+  Value: |
+    Most lépett be Karinthy Frigyes! Kevés nála termékenyebb író van. Érzékeny lélek, de hogy is van a mondás: a szellem füstön és kávén él!
+- Key: karinthy_accepts
+  Value: |
+    Nincs is ennél jobb! - kiált fel Karinthy.
+- Key: osvat_fav
+  Value: |
+    Kis irodalmi
+- Key: osvat_refuses
+  Value: |
+    Na, de kérem. Én nem ezt kértem. Hol a kis irodalmim? - elégedetlenkedik Osvát.
+- Key: osvat_arrives
+  Value: |
+    Megjött Osvát Ernő! A Nyugat egyik leendő szerkesztője. Most nem hibázhatunk! Ő egy kis irodalmit kér, ez biztos.
+- Key: osvat_accepts
+  Value: |
+    Milyen rendes, hogy emlékezett. Köszönöm! - derült fel Osvát.
+- Key: osvat_refusal_1
+  Value: |
+    Köszönöm szépen, de ma nem kívánom. Legyen szíves és vigye vissza. - nyögi Osvát.
+- Key: osvat_refusal_2
+  Value: |
+    Különös. Osvát visszautasította a reggelijét. Ilyenre még nem volt példa. Nézzünk utána, mi lett a reggeli sorsa.
+- Key: kis_irodalmi
+  Value: |
+    Egy kis irodalmi. Ezt utasította vissza Osvát Ernő. Sok író kedvence volt, mert sokszor ingyen, vagy csak egy versért cserébe kaphatták a nagylelkű pincértől. Az összetevői...
+- Key: ham
+  Value: |
+    Sonka.
+- Key: salami
+  Value: |
+    Szalámi.
+- Key: cheese
+  Value: |
+    Sajt.
+- Key: deadly_message
+  Value: |
+    Osvát Ernőnek a <color=red>gyilkos</color> őszinteségéért
+- Key: discovering_note
+  Value: |
+    Egy bosszúfűtötte üzenet Osvátnak! A pincér tehette oda? Lehet hogy a reggeli mérgezett volt? Több nyomot kell találnunk.
+- Key: nyugat_prints_0
+  Value: |
+    A pincér halála előtti napon megjelent első Nyugat szám kefelevonata és nyomtatott változata.
+- Key: critique1
+  Value: |
+    Mi ez a vállalhatatlan, gyermeteg versike???
+- Key: critique2
+  Value: |
+    Méltatlan!
+- Key: nyugat_prints_1
+  Value: |
+    A pincér művét csúnyán lehúzták!
+- Key: nyugat_prints_2
+  Value: |
+    De a pincér nem hagyhatta Osvátnak a gyilkos üzenetet. Hiszen miért enné meg a saját maga által mérgezett ételt?
+- Key: nyugat_prints_3
+  Value: |
+    Osvát máson is köszörülte a nyelvét? Vagy valakit szíven ütött, hogy a pincér verse nem jelent meg?
+- Key: heirloom
+  Value: |
+    Ez a zsebóra volt a pincér legbecsesebb tulajdona - még jó, hogy ezt is sikerült megőrizni.
+- Key: mystery_woman
+  Value: |
+    Ez a pincér egy hölgy társaságában. Vajon mi ennek a jelentősége? Nézzük meg, hátha van valami a kép hátuljára írva.
+- Key: present_message
+  Value: |
+    Szeretett Öcsémnek, fényes költői pályafutásodra!
+    Malvin
+- Key: writing_on_back
+  Value: |
+    A pincér a szeretett nővérétől, Malvintól kapta ajándékba ezt az órát, a költői babérok reményében. Ha tudta volna...
+- Key: secondary_headline
+  Value: |
+    Hisztérikus nőt húztak ki a Dunából
+- Key: secondary_article
+  Value: |
+    Tegnap, az esti órákban egy zavarodott hölgyre lettek figyelmesek a korzózók. A nő hosszan meredt maga elé, majd a rakpartról begyalogolt a Dunába, és elmerült. Szerencséjére egy közelben járőröző rendőr utánafutott és a partra húzta. Mint kiderült, a hölgy egy híres gyufagyáros család nevelőnője, Fabula Malvin, akit rögvest a lipótmezei tébolydába szállítottak, ahol sokkterápiának vetik alá.
+- Key: woman_in_the_water_0
+  Value: |
+    Egy másik tragédiáról szóló cikk. A nő talán a pincér nővére? Lehet, hogy beleőrült az öccse halálhírébe.
+- Key: woman_in_the_water_1
+  Value: |
+    De az újságból nem értesülhetett a haláláról, hiszen arról ugyanebben a számban adtak hírt! Menjünk utána a tébolydába!
+- Key: windows_of_lipot
+  Value: |
+    Ez a Lipótmező, a Budai Magyar Királyi Országos Tébolyda kápolnájának gyönyörűséges ablaka, amelyet Róth Miksa készített.
+- Key: bad_writer
+  Value: |
+    Az öcsém rossz költő
+- Key: love_him
+  Value: |
+    Szeretem az öcsém
+- Key: good_writer
+  Value: |
+    Az öcsém jó költő
+- Key: osvat_is_wrong
+  Value: |
+    Osvát téved
+- Key: osvat_must_die
+  Value: |
+    Osvátnak bűnhődni kell
+- Key: ending_1
+  Value: |
+    Micsoda tragédia! A pincér labilis nővére, látva az öccsét ért kritikát, bosszúból meg akarta mérgezni Osvát Ernőt gyufából nyert foszforral.
+- Key: ending_2
+  Value: |
+    Csak azzal nem számolt, hogy Osvát visszaküldi reggelijét, amelyet éhes öccse fogyaszt el, így megpecsételve sorsát. Szegény nővér ebbe végleg belebolondult.
+- Key: ending_3
+  Value: |
+    A kor gyakori (ön)gyilkos eszköze volt a gyufából nyert fehér foszfor. Többek között a sötétben világító hányás utalt a foszforméregzésre. Sok embernek kellett meghalnia, mire a gyufa fején a fehér foszfort ártalmatlan vörösre cserélték.
+- Key: epilogue_1
+  Value: |
+    Noha történetünk kitalált történet, bűnügyi történetekre jellemző túlzásokkal, a maga ferde tükörszerű módján mégis valami igazat, lényegeset fogalmaz meg a budapesti századelőről: az irodalmat akkoriban halálosan komolyan veszik... A Nyugat folyóirat harminchárom éven át képes a születő modern magyar irodalom műhelye és fóruma lenni, hála az Osváthoz hasonló szerkesztők szigorú minőségigényének és annak a szellemileg termékeny légkörnek, amely a New York és más irodalmi kávéházak sajátja. Ahogy Ede főpincér fogalmaz Márai "Szinbád hazamegy" című regényében: „a kávéház az a sajátos, a szó orvosi és tornatanári értelmében egyáltalán nem egészséges, de a szó irodalmi értelmében egyedül hasznos légkör, ahol az írók kissé védve vannak a világ kísértései ellen, a hivatalnok packázásai és a pénz durvaságai ellen; tüdejük és szívük elkopik ugyan a nikotintól és a feketétől, de szellemük kivirul, s ez a fontosabb”.
+- Key: epilogue_2
+  Value: |
+    A New York kávéház a második világháborúban megsérül, 1947-ben bezárják. Utána egy ideig sportszerüzletként, utazási irodaként működik. Egészen 1954-ig kell várni, hogy Hungária néven újra kinyisson. 2006 óta eredeti nevén, régi pompájával várja vendégeit.
+    Ha Budapesten jár, mindenképpen nézzen be. Nincs mitől tartani. A kis irodalmi egy ideje lekerült az étlapról.
+- Key: credits
+  Value: |
+    Orbán Gábor ötlete alapján,
+
+    A párizsi Magyar Kulturális Intézet megbízásából készítette:
+
+    Bakk Ágnes
+    Halák László András
+    Kovács Dorottya
+
+
+    A párizsi Magyar Kulturális Intézet részéről közreműködött: 
+
+    Bodnár Zita
+    Bornai Emma
+    Karinthi-Rébay Orsolya
+    Orbán Gábor
+
+
+    Együttműködő partnerek:
+
+    Tű Fokán Művészeti Alapítvány
+    Moholy-Nagy Művészeti Egyetem
+
+
+    Irodalmi idézet: 
+
+    Márai Sándor: "Szinbád hazamegy" (Akadémiai kiadó, Helikon kiadó, 1992)
+
+
+    Zene:
+
+    Esther Abrami - No.2 Remembering Her
+    Emmit Fenn - Allégro
+
+
+    Sound effects:
+
+    freesound.org
+
+
+    Képek:
+
+    fortepan
+    arcanum
+    Budapest Főváros Levéltára
+    Magyar Földrajzi Múzeum
+    Somlai Gyula
+    Klösz György
+    Anantara New York Palace Budapest Hotel

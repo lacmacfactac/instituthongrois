@@ -1,0 +1,385 @@
+collection:
+- Key: next
+  Value: |
+    Devam
+- Key: intro_button_next
+  Value: |
+    Devam
+- Key: first
+  Value: |
+    Budapeşte'nin bugünkü manzarası, 19. yüzyılın son çeyreğinde oluştu. 1869 ile 1894 arasında başkentteki bina sayısı iki katına çıktı. Parlamento binası, Büyük Bulvar, Andrássy Bulvarı, Elizabet ve Margaret Köprüleri, Batı Garı (Gustave Eiffel'in şirketinin eseri) ve Opera Binası da bu zaman inşa edildi...
+- Key: second
+  Value: |
+    Macaristan'ın kuruluşunun 1000'inci yıldönümü (1896) törenleri sırasında Budapeşte ve Kıta Avrupası'nın ilk yeraltı tramvayı olan Budapeşte metrosu açıldı. Bu "inşa çoşkusu"nun sonuçlarının biri olan New York Palas (1894), Buda Kalesi Sarayı'nın tadilatını de yöneten Alajos Hauszmann'ın tasarımlarına göre yapıldı. ABD'li bir sigorta şirketi olan müşteri, mimara masraflarla ilgili herhangi bir kısıtlama olmadığını belirtti. Eklektik tarzdaki palasın en görkemli kısmı olan kafede çoğunlukla mermer ve tunç kullanıldı; çatı fresklerle süslenmiştir.
+- Key: third
+  Value: |
+    Kafe, 1890'lardan itibaren edebiyat çevrelerinin yoğun ilgisiyle karşılaştı. Bunda, edebiyatsever fakir yazarlara kalem ve kredi veren baş garsonların büyük rol vardı. 1908'de kurulan, 20. yüzyılın önemli edebiyat dergisi Nyugat (Batı)'ın sayıları da New York'un mermer masalarında dünyaya geldi. Aynı zamanda başka sanat dallarının temsilcileri de boy göstermeye başladı: oyuncular, besteciler, ressamlar da kafenin müşterilerindendi, hatta burası Macar sinemasının beşiği olarak da sayılır. İlk film dergileri burada yazıldı, sessiz sinemanın yıldızı Vilma Bánky ilk kontratını burada imzaladı ve Mihály Kertész (daha sonra Casablanca'nın yönetmeni olan Michael Curtiz) yurtdışına gideceğini burada ilan etti...
+- Key: fourth
+  Value: |
+    Gece gündüz açık, efsaneye göre anahtarı Tuna'ya atılmış, içinde sadece çalışacak rahat yerler değil, masa üzerinde uyuma fırsatı olanağı da tanıyan kafe ilk defa 1916 yılında kapanıyor. Sonrasında ise değişen yönetim ve isimlerle hep tekrar açıldı.
+- Key: baggage_opening_0
+  Value: |
+    Görmüş olduğunuz bavul 1930'larda Paris'e göç etmiş Macar bir özel dedektifin mirasından çıktı.
+- Key: baggage_opening_1
+  Value: |
+    İstanbul Macar Kültür Merkezi, bavulun içeriğindeki sırrı çözmek için ziyaretçilerine sesleniyor.
+- Key: baggage_opening_3
+  Value: |
+    İlk önce 1908'den bir gazete haberine bakalım, belki bir şeyler ortaya çıkar.
+- Key: pesti_hirlap
+  Value: |
+    PEŞTE GAZETESİ
+- Key: main_headline
+  Value: |
+    NEW YORK Kafesi'nde Trajedi!
+- Key: main_article
+  Value: |
+    Dün sabah New York Kafesi baş garsonu János Fabula'nın ölü cesedi bulundu.
+    Çoğu kişiye göre baş garson Jean'ın yardımcısı olan genç adamın herhangi bir kronik hastalığı yoktu. Polis <b>zehirlenme şüphesinde</b>, ölümünün tek şahidi <b>yarı bırakmış kahvaltısı</b>.
+    János Fabula'nin bir ablası var, Malvin. Baş ve Kasacı Garsonlar Ulusal Sendikası kendi ölüsü olarak tanıdı.
+- Key: before_entering_crime_scene
+  Value: |
+    Gizemli bir ölümdür. Etrafa bakalım, bir şeyler buluruz.
+- Key: body
+  Value: |
+    Zavallı garson János Fabula. Dışarıdan bir yara görünmüyor, ama mağdur ölmeden önce yediklerini kustu. Zehirlenme hipotezinin kaynağı da budur.
+- Key: oven
+  Value: |
+    Ocak. Doğalgaz zehirlenmesi değil. Ama ocağın üzerinde güzel kahve yapılır.
+- Key: kitchenware
+  Value: |
+    Bulaşıklar. Mutfakta olmaları şüpheci gelmiyor. Bu aletlerle öldürmek zordur.
+- Key: counter
+  Value: |
+    Tezgah, üzerinde garip olan bir şey yok.
+- Key: lights_off_vomit_glows
+  Value: |
+    Parlayan mide suyu? Olağanüstü bir durum! Acaba nereden kaynaklıyor?
+- Key: lets_walk
+  Value: |
+    Garsonun sabah programını gözden geçirelim, belki küçücük bir ipucu buluruz.
+- Key: boarding_the_sub_1
+  Value: |
+    Garson, Şehir Parkı'nın yanında oturdu ve şehrin en önemli yerleri altında hareket eden metroyla, Kıta Avrupası'nın ilk metrosuyla işe gidiyordu. Ne yazık ki yer altından o güzel binaları görmüyordu.
+- Key: boarding_the_sub_2
+  Value: |
+    Görülecek yerlerin altında geçen seyahatı boyunca komik kafiyeler bulmaya çalışıyordu.
+- Key: szechenyi_station_name
+  Value: |
+    Széchenyi Termal Kaplıcası
+- Key: szechenyi_info
+  Value: |
+    Dünyanın en çok (118) termal kaplıca ve çeşmeye sahip başkenti Budapeşte'dir. İlk kaplıcaları 201 yılında Roma İmparatoru Septimius Severus inşa ettirdi. Hun hükümdarı Attila ve Büyük Macar Prens Árpád da Tuna'nın kaplıcalarının yanında konaklandı. Osmanlı döneminden hala çalışan dört tane kaplıca günümüze ulaştı. <b>Széchenyi Termal Kaplıcaları<b> inşasına 1909 yılında başlandı.
+- Key: hosok_station_name
+  Value: |
+    Kahramanlar Meydanı
+- Key: hosok_info
+  Value: |
+    <b>Kahramanlar Meydanı</b> Macaristan'ın bin yıllık tarihini anmak üzere 1896'da inşa edilir. Meydanda Macaristan'ın tarihine iz bırakan on dört kişinin heykeli, ortada ise bir dikilitaş üzerinde duran, elinde taç ve haç tutan Cebrail heykeli bulunur: efsaneye göre Macaristan'ın ilk kralı Aziz István, rüyasında Cebrail tarafınfan Aziz Taç'ı almış.
+- Key: bajza_station_name
+  Value: |
+    Bajza Sokağı
+- Key: bajza_info
+  Value: |
+    Başkent, <b>Bajza Sokağı'nda</b> bulunan Epreskert (Çilek Bahçesi) içinde 1882 yılında bir sanat okulu açtı. Mekanın şekillendirilmesinde önemli heykeltraş Alajos Stróbl'un büyük payı vardır: sabahları borazan sesine atla çıkıyordu, kıyafet baloları, tarih anlatan oyunlar organize ediyordu. Bahçede maymunlar, tavuşkuşları, geyikler, leylekler dolaşıyordu.
+- Key: kodaly_station_name
+  Value: |
+    Kodály Meydanı
+- Key: kodaly_info
+  Value: |
+    <b>Zoltán Kodály</b> besteci ve müzikolog, Béla Bartók'un yanı sıra halk şarkısı araştırmaları ve derleme öncüsüdür. Kodály'ın müzik pedagoji çalışmaları bütün Macar müzik eğitimini değiştirir. «Müzik herkesin olmalı!» der. Müzik eğitimine kreşte başlamak lazım, bunun en önemli aleti ise şarkı söylemek, maddesi ise hepimizin müzikal anadili; halk müziği.
+- Key: voromartyutca_station_name
+  Value: |
+    Vörösmarty Sokağı
+- Key: vorosmarty_utca_info
+  Value: |
+    Macaristan Kraliyeti Müzik Akademisi, 1879 yılında <b>Vörösmarty utca</b> ve Andrássy Bulvarı'nın köşesindeki binaya taşınır. Franz Liszt (1811-1886), talebelere kurslarını ücretsiz verir. Kendisinin yaşadığı ev bugünlerde Franz Liszt Anma Müzesi olarak faaliyet gösteriyor: Müzik Akademisi'ne miras bıraktığı müzik aletleri, kitapları ve notaları saklanmıştır.
+- Key: oktogon_station_name
+  Value: |
+    Oktogon
+- Key: oktogon_info
+  Value: |
+    Sekizgen şekilli <b>Oktogon</b>, Andrássy Bulvarı ve 4000 metrelik Büyük Bulvar'ın, yani 19. yüzyılın iki en büyük şehir inşa eserinin kesişme noktasıdır. Büyük Bulvar Buda, Peşte ve Eski Buda'nın birleşmesinden (1873) sonra hızla gelişen başkentin caddelerini bağlar, şehrin ilk tramvayı (1887) da bunun üzerinden geçer.
+- Key: opera_station_name
+  Value: |
+    Opera
+- Key: opera_info
+  Value: |
+    Macaristan Devlet <b>Opera</b> binası Miklós Ybl'ın tasarımına göre 1875 ile 1884 arasında Neorönesans tarzında inşa edilir. Açılış törenine İmparator Franz Joseph de katılır, Macaristan Milli Marşı'nın bestecisi Ferenc Erkel orkestra şefi görevini üstlenir. Opera Binası'nın ilk altın çağı 1888 ile 1891 arasında, Gustav Mahler'ın direktör olduğu zamandır.
+- Key: bajcsy_station_name
+  Value: |
+    Bajcsy-Zsilinszky Caddesi
+- Key: bajcsy_info
+  Value: |
+    Andrássy Bulvarı yani "Budapeşte'nın Champs-Élysées'si", <b>Bajcsy-Zsilinszky Caddesi</b>'nden ayrılıp Şehir Parkı'na kadar uzanır. Bulvarın açılış töreni 1876'da yapılmıştır. İlk başta Sugár-út (Bulvar Caddesi) diye adlanan cadde, 1885'de Kont Gyula Andrássy'nin adını taşımaya başlar. Eklektik-Neorönesans bina ve köşklerle dolu bulvarın zemini ilk başta ahşap parkelerden yapılır.
+- Key: deak_station_name
+  Value: |
+    Ferenc Deák Meydanı
+- Key: deak_info
+  Value: |
+    19. yüzyılın en büyük Macar şairi Sándor Petőfi, <b>Ferenc Deák Meydanı</b>nda bulunan Lüteryan lisede okumuştu. 15 Mart 1848'de reformcu gençlerin kafesi Pilvax'ta Milliyetçi Şarkı şiirini sunar. 1848-49-es İhtilali'nin bu önemli kahramanı, Avusturya İmparatoru'nun yardımına gelen Rus ordu karşısında savaş meydanında hayatını kaybeder.
+- Key: vorosmartyter_station_name
+  Value: |
+    Vörösmarty Meydanı
+- Key: vorosmarty_ter_info
+  Value: |
+    <b>Vörösmarty Meydanı</b>nda bulunan pastanenin yönetimini Emil Gerbeaud 1884'te Henrik Kugler'den devralır. Menüyü kremalarla, çöreklerle, dondurmalarla genişletip kendi icat ettiği pastaları da ilave eder. Bin yıllık kutlamalar sırasında Şehir Parkı'nda Gerbeaud Köşkü'nü açar, Franz Joseph ve Kraliçe Elizabet'in balosu burada gerçekleşir.
+- Key: missed_stop_0
+  Value: |
+    Garsonumuz şiir yazmaya dalarak çoktan Oktogon'da inmeyi unuttuğunu ancak Vörösmarty Meydanı'nda fark etti. Böyle zamanlarda işe geç kaldığı için başgarson Jean ona kızardı.
+- Key: missed_stop_1
+  Value: |
+    Metroda düşündüğü şiirleri kağıda dökerek kafede oturan meşhur yazarlara göstermekten hiç bir zaman vazgeçmedi.
+- Key: line1
+  Value: |
+    Aç şair küçük aşkının yatağından
+- Key: line2
+  Value: |
+    Gürleyen midesiyle tıkırdar metroda
+- Key: line3
+  Value: |
+    Yazarlar kahvaltısı hayal eder, eline dövene
+- Key: line4
+  Value: |
+    kadar meşhur yazarların, hesapa ödemeyen
+- Key: line5
+  Value: |
+    Uğursuz düşünceler uçuşur etrafında
+- Key: line6
+  Value: |
+    Kahvaltısını evde unutmuşçasına
+- Key: sign_it
+  Value: |
+    İmzalarım!
+- Key: poem_done_1
+  Value: |
+    Zavallıcık böylesi salak karalama şiirleri genç yetenekleri bir araya getiren Batı Dergisi'nde yayınlanabilir diye düşündü. Derginin ilk sayısı garsonun öldüğü günden önceki gün çıktı.
+- Key: waiters_task
+  Value: |
+    Bir garsonun en büyük başarısı, sipariş verilmeden önce ne isteneceğini bilmektir. Baş garson Jean zaten iyice eğitmiş arkadaşımızı. Bakalım doğru mu hatırlıyor?
+- Key: szini_fav
+  Value: |
+    Bir bardakta iki tane dört dakikalık yumurta
+- Key: szini_refuses
+  Value: |
+    Bir bardakta iki tane dört dakikalık yumurta. Her sabah bunu yerim, hatırlayamaz mısınız? - diye homurdanıyor Szini.
+- Key: szini_arrives
+  Value: |
+    Gyula Szini, Osvát'ın bulduğu yetenek. Çok basit. Bardakta yumurta ister. Yada Ernő Szép miydi o?
+- Key: szini_accepts
+  Value: |
+    Şampiyonların kahvaltısı! - diye bağırır Szini.
+- Key: brody_fav
+  Value: |
+    Sütlü kahve, ekmek, Parád pınar suyu
+- Key: brody_refuses
+  Value: |
+    Sütlü kahve, ekmek, Parád pınar suyu. Bunun nesi zor ki? - diye vuruyor masayı Bródy.
+- Key: brody_arrives
+  Value: |
+    Sándor Bródy. Dikkat, o şık biri, normal çeşme suyu içmez. Sırf onun için getirtiyoruz.
+- Key: brody_accepts
+  Value: |
+    Size her zaman güvenilir. - diye gülümser Bródy.
+- Key: krudy_fav
+  Value: |
+    50'lik ılık bira
+- Key: krudy_refuses
+  Value: |
+    Ne bira ne de ılık. Ne yapacağım bunu? - diye soruyor Krúdy.
+- Key: krudy_arrives
+  Value: |
+    Gyula Krúdy, Macar düzyazısının büyük ustası geldi. Hep üşüyor, soğuk içecekleri sevmez, ama birayı reddetmez.
+- Key: krudy_accepts
+  Value: |
+    Ilık bira! Favorim! - diye sevinir Krúdy.
+- Key: szep_fav
+  Value: |
+    Yumuşak omlet
+- Key: szep_refuses
+  Value: |
+    Yumşak omlet. OMLET. YUMUŞAK. - diye kızar Szép.
+- Key: szep_arrives
+  Value: |
+    Az önce Ernő Szép'i gördüm! Kendisi kabare edebiyatının öncüsü. Yumuşak omlet ister. Yada o Gyula Szini miydi?
+- Key: szep_accepts
+  Value: |
+    Şahane bir hizmet! - diyor Szép.
+- Key: karinthy_fav
+  Value: |
+    Bol köpüklü ılık kahve
+- Key: karinthy_refuses
+  Value: |
+    Fena değil, ama ılık kahve de değil. - diye yerine tekrar oturur Karinthy.
+- Key: karinthy_arrives
+  Value: |
+    Frigyes Karinthy yeni geldi! Ondan daha fazla yazan kişi azdır. Hassas ruhlu, ama söz de zaten öyle der: ruh, duman ve kahveyle geçinir!
+- Key: karinthy_accepts
+  Value: |
+    Bunun daha iyisi var mı? - diye sevinir Karinthy.
+- Key: osvat_fav
+  Value: |
+    Atıştırmalık Edebiyat
+- Key: osvat_refuses
+  Value: |
+    Ama lütfen. Ben bunu istemedim. Atıştırmalık Edebiyatım nerede? - diye ifade eder memnun olmadığını Osvát.
+- Key: osvat_arrives
+  Value: |
+    Batı Dergisi'nin editörlerinden Ernő Osvát geldi! Hata yapmamalıyız. Kesin Atıştırmalık Edebiyat istiyordur.
+- Key: osvat_accepts
+  Value: |
+    Hatırlamışsınız, ne güzel. Çok teşekkürler! - diye sevinir Osvát.
+- Key: osvat_refusal_1
+  Value: |
+    Teşekkürler, ama bugün istemem. Lütfen geri gönderin. - diye sızlanır Osvát.
+- Key: osvat_refusal_2
+  Value: |
+    İlginç. Osvát kahvaltısını geri göndertti. Böyle bir şeyi hiç yaşamadık. Bakalım kahvaltısı sonra ne oldu.
+- Key: kis_irodalmi
+  Value: |
+    Bir tane Atıştırmalık Edebiyat. Ernő Osvát'ın geri gönderttiği yemek. Birçok yazarın en sevdiği yemekti, çünkü samimi garsonlardan çoğu zaman ücretsiz yada sadece bir şiir karşılığına aldılar. İçindekiler:...
+- Key: ham
+  Value: |
+    Jambon.
+- Key: salami
+  Value: |
+    Salam.
+- Key: cheese
+  Value: |
+    Peynir.
+- Key: deadly_message
+  Value: |
+    Ernő Osvát'a, <color=red>öldürücü</color> dürüstlüğü için
+- Key: discovering_note
+  Value: |
+    Osvát'a intikam dolu bir mesaj! Acaba garson mu koydu bunu? Kahvaltı zehirlenmiş olabilir miydi? Daha fazla ize ihtiyacımız var.
+- Key: nyugat_prints_0
+  Value: |
+    Garsonun öldüğünden bir önceki gün, Batı Dergisi'nin ilk sayısı çıktı.
+- Key: critique1
+  Value: |
+    Nedir bu salak, zayıf karalama şiir ???
+- Key: critique2
+  Value: |
+    Utandırıcı!
+- Key: nyugat_prints_1
+  Value: |
+    Garsonun eserini iyice aşağıladılar!
+- Key: nyugat_prints_2
+  Value: |
+    Yine de Osvát'a bu öldürücü mesajı garson bırakamazdı. Kendi zehirlediği yemeği yemezdi!
+- Key: nyugat_prints_3
+  Value: |
+    Yoksa Osvát başkaları da utandırmış olabilir mi? Veya başka biri mi garsonun şiirinin yayınlanmadığına üzülmüş?
+- Key: heirloom
+  Value: |
+    Garsonun en değerli eşyası cep saatiydi. İyi ki bu da korundu.
+- Key: mystery_woman
+  Value: |
+    Garson, bir kadınla birlikte. Bunun bir önemi var mıdır? Bakalım resmin arkasında bir şey yazıyor mu?
+- Key: present_message
+  Value: |
+    Sevgili Erkek Kardeşime, şairlikte başarılı bir kariyer dilerim!
+    Malvin
+- Key: writing_on_back
+  Value: |
+    Garson bu saati çok sevdiği ablası Malvin'den hediye aldı, büyük şair olacak diye. Bilseydi ki...
+- Key: secondary_headline
+  Value: |
+    Tuna Nehri'nden Histerik Kadın Çıkarıldı
+- Key: secondary_article
+  Value: |
+    Dün akşam saatlerinde sahilde dolaşanlar kederli bir kadını fark etti. Kadın uzunca önüne baktıktan sonra rıhtımdan Tuna'ya girip daldı. Şansına etrafta görev yapan bir polis atlayıp çıkarttı. Malvin Fabula adlı kadının meşhur bir kibrit fabrikası sahibinin mürebbiyesi olduğu ortaya çıktı. Kendisini hemen Lipótmező Ruh Hastalıkları Hastanesi'ne götürdüler, orada şok terapisi uygulandı.
+- Key: woman_in_the_water_0
+  Value: |
+    Yine bir trajedi hakkındaki yazı. Acaba bu kadın, garsonun ablası olabilir mi? Belki kardeşinin ölüm haberini alınca rahatsızlanmışdır.
+- Key: woman_in_the_water_1
+  Value: |
+    Ama ölüm haberini gazeteden okuyamazdı çünkü bu olay aynı sayıda yayınlandı! Gidelim hastaneye!
+- Key: windows_of_lipot
+  Value: |
+    Burası Lipótmező, Buda'daki Macar Kraliyet Devlet Ruh Hastalıkları Hastanesi'nin şapelinin Miksa Róth tarafından yapılan muhteşem penceresi.
+- Key: bad_writer
+  Value: |
+    Erkek kardeşim kötü bir şair
+- Key: love_him
+  Value: |
+    Erkek kardeşimi seviyorum
+- Key: good_writer
+  Value: |
+    Erkek kardeşim iyi bir şair
+- Key: osvat_is_wrong
+  Value: |
+    Osvát yanılıyor
+- Key: osvat_must_die
+  Value: |
+    Osvát'ın cezasını çekmesi lazım
+- Key: ending_1
+  Value: |
+    Nasıl bir trajedi! Garsonun rahatsız ablası erkek kardeşinin eleştirildiğini öğrenerek intikam almak için Ernő Osvát'ı kibritten aldığı fosfor ile zehirlenmek istedi.
+- Key: ending_2
+  Value: |
+    Ancak Osvát'ın kahvaltısını geri gönderteceğini ve onu aç erkek kardeşinin yiyeceğini hesaplayamamıştı. Zavallı abla bundan sonra tamamen delirdi.
+- Key: ending_3
+  Value: |
+    Kibritten alınan beyaz fosfor, çağın sık kullanılan öldürme ve intihar aletiydi. Bunun bir tespiti ise karanlıkta parlayan kusma idi. Kibrit üzerindeki beyaz fosforu zararsız kırmızı fosfora değiştirene kadar birçok kişi bu sebepten öldü.
+- Key: epilogue_1
+  Value: |
+    Hikayemizin kurmaca olmasına ve polisiyelerde olduğu gibi abartmalar da içermesine rağmen Budapeşte'de 20. yüzyılın başlarında yaşananlarla ilgili çok önemli şeyler anlatmakta: edebiyat, o zamanlarda öylesine ciddiye alınırdı ki... Batı Dergisi, doğmakta olan modern Macar Edebiyatı'nın 33 sene boyunca atölyesi ve merkezi olmayı sürdürmeyi Osvát gibi titiz ve kalite odaklı editörler ve New York gibi kafelerin ilham verici atmosferi sayesinde başarır. Márai'nin "Szindbád Eve Döner" romanında baş garson Ede'nin sözleriyle: "kafe, özel ve beden eğitimi anlamında hiç sağlıklı olmayan, ancak edebi anlamda yararlı atmosfer taşıyan, yazarların dünyanın cazibesinden, memurların rahatsız edişleri ve paranın zulümünden kaçabildiği tek yerdir; akciğerleri ve kalpleri nikotin ve kahveden mahvolsa da zihinleri çiçekler gibi açılıyor, çünkü bu daha önemlidir”.
+- Key: epilogue_2
+  Value: |
+    New York Kafesi II. Dünya Savaşı'nda zarar görür ve 1947'de kapanır. Sonrasında spor malzemeler mağazası ve seyahat acentası olarak faaliyet gösterir. Hungária adıyla tekrar kafe olarak açılmasına 1954'e kadar beklemek gerekir. 2006'dan beri eski adı ve görkemiyle müşterilerini bekler.
+    Budapeşte'deyseniz mutlaka uğrayın. Merak etmeyin: Atıştırmalık Edebiyat çoktandır menüden çıkarıldı.
+- Key: credits
+  Value: |
+    Fikir: Gábor Orbán
+
+    Paris Macar Kültür Merkezi'nin isteği üzerine hazırlayanlar:
+
+    Ágnes Bakk 
+    László András Halák 
+    Dorottya Kovács
+
+
+    Paris Macar Kültür Merkezi tarafından katkıda bulunanlar: 
+
+    Zita Bodnár 
+    Emma Bornai 
+    Orsolya Karinthi-Rébay
+    Gábor Orbán
+
+
+    Ortak:
+
+    Moholy-Nagy Güzel Sanatlar Üniversitesi
+
+
+    Alıntı: 
+
+    Sándor Márai: "Szinbád Eve Döner" (Akadémiai kiadó, Helikon kiadó, 1992)
+
+
+    Müzik:
+
+    Esther Abrami - No.2 Remembering Her
+    Emmit Fenn - Allégro
+
+
+    Ses efektleri:
+
+    freesound.org
+
+
+    Resimler:
+
+    fortepan
+    arcanum
+    Budapest Főváros Levéltára
+    Magyar Földrajzi Múzeum
+    Gyula Somlai 
+    György Klösz 
+    Anantara New York Palace Budapest Hotel
+
+    Çeviri:
+    Balázs Szőllőssy
+    Can Koç

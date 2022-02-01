@@ -1,0 +1,386 @@
+collection:
+- Key: next
+  Value: |
+    Ďalej
+- Key: intro_button_next
+  Value: |
+    Ďalej
+- Key: first
+  Value: |
+    Nie je prehnané tvrdiť, že Budapešť nadobudla svoju súčasnú podobu v poslednej štvrtine 19. storočia. V rokoch 1869–1894 sa počet budov v hlavnom meste prakticky zdvojnásobil. V tomto období bol postavený Parlament, Veľká okružná trieda (Nagykörút), Andrássyho trieda (Andrássy út), Alžbetin a Margitin most, železničná stanica Nyugati (výsledok práce projekčnej kancelárie Gustava Eiffela), Opera...
+- Key: second
+  Value: |
+    Pri príležitosti milenárnych osláv v Uhorsku (1896) uviedli do prevádzky prvú budapeštiansku linku metra. Išlo zároveň o prvú podzemnú železnicu v kontinentálnej Európe. Výsledkom tejto „staviteľskej horúčky“ je aj Palác New York (1894). Navrhol ho Alajos Hauszmann, ktorý viedol aj prestavbu Budínskeho hradu. Objednávateľ stavby – istá americká poisťovacia spoločnosť – dala architektovi voľnú ruku a počas stavebných prác ho finančne nijako neobmedzovala. Pri realizácii kaviarne, ktorú možno považovať za najpompéznejšiu časť eklektického paláca, boli použité takmer výlučne trváce materiály, mramor  a bronz; strop ozdobili freskami.
+- Key: third
+  Value: |
+    Od 90-tych rokov 19. storočia získala kaviareň literárny charakter, na čom mali nemalý podiel aj hlavní čašníci-milovníci literatúry, ktorí poskytovali chudobným spisovateľom písadlá aj úver. Jednotlivé čísla časopisu Nyugat, ktorý vychádzal od roku 1908 a patril medzi najvýznamnejšie periodiká 20. storočia, vznikali v podstate pri mramorových stoloch New Yorku. Kaviareň navštevovali aj predstavitelia iných umeleckých smerov: herci, hudobní skladatelia, výtvarníci, no možno ju považovať aj za kolísku maďarského filmu. Tu sa zrodili prvé odborné filmové časopisy, tu podpísala svoju prvú zmluvu hviezda nemých filmov Vilma Bánky, tu oznámil Mihály Kertész (neskorší  Michael Curtiz, režisér filmu Casablanca), že sa sťahuje do zahraničia...
+- Key: fourth
+  Value: |
+    Táto „inštitúcia“ s nepretržitou prevádzkou (od ktorej kľúče hodili podľa legendy do Dunaja), kde sa dalo nielen pokojne tvoriť, ale v prípade potreby si aj pospať  s hlavou položenou na stole, zostala prvýkrát zatvorená v roku 1916, aby ju následne pod meniacim sa vedením a názvom vždy nanovo otvorili.
+- Key: baggage_opening_0
+  Value: |
+    Tento kufor pochádza z pozostalosti maďarského súkromného detektíva, ktorý v tridsiatych rokoch emigroval do Paríža.
+- Key: baggage_opening_1
+  Value: |
+    Pracovníci Maďarského kultúrneho inštitútu v Bratislave prosia svojich návštevníkov o pomoc pri rozlúštení obsahu kufra.
+- Key: baggage_opening_3
+  Value: |
+    Začnime novinovým článkom z roku 1908, ktorý nám možno napovie, ako ďalej.
+- Key: pesti_hirlap
+  Value: |
+    PESTI HÍRLAP
+- Key: main_headline
+  Value: |
+    Tragédia v kaviarni NEW YORK
+- Key: main_article
+  Value: |
+    Včera ráno našli mŕtveho Jánosa Fabulu, čašníka z kaviarne New York. 
+    Mladý muž, ktorého mnohí považovali za pravú ruku hlavného čašníka Jeana, netrpel žiadnou chronickou chorobou. Polícia <b>má podozrenie na otravu</b>, jediným svedkom čašníkovej smrti <b>sú jeho nedojedené raňajky</b>. 
+    Jánosa Fabulu oplakáva jeho sestra Malvin. Krajinské odborové združenie hlavných a účtujúcich čašníkov smúti spolu s ňou.
+- Key: before_entering_crime_scene
+  Value: |
+    Zvláštny prípad úmrtia. Porozhliadnime sa priamo na mieste, možno niečo nájdeme.
+- Key: body
+  Value: |
+    Čašník János Fabula, náš mŕtvy smoliar. Na tele nie sú viditeľné stopy po vonkajšom zranení, ale obeť pred smrťou vyvrátila raňajky. Preto tá hypotéza o otrave.
+- Key: oven
+  Value: |
+    Plynový sporák. Určite nespôsobil otravu plynom. Aká skvelá káva sa dá na ňom uvariť.
+- Key: kitchenware
+  Value: |
+    Riady. Ich prítomnosť v kuchyni nie je ani prinajmenšom prekvapujúca. Nie sú to práve najideálnejšie vražedné nástroje.
+- Key: counter
+  Value: |
+    Kuchynský pult, nenachádza sa na ňom nič, čo tam nepatrí.
+- Key: lights_off_vomit_glows
+  Value: |
+    Svietiace žalúdočné šťavy? To sa veru len tak nevidí! Čo ich spôsobilo?
+- Key: lets_walk
+  Value: |
+    Prejdime si čašníkov ranný program, možno nám udrie do očí nejaká maličkosť.
+- Key: boarding_the_sub_1
+  Value: |
+    Čašník býval pri mestskom parku Városliget a do práce cestoval prvou kontinentálnou linkou metra, ktorá lomozí pod pamätihodnosťami mesta. Škoda, že ich z podzemia nemohol vidieť.
+- Key: boarding_the_sub_2
+  Value: |
+    A kým sa hore, na povrchu, striedali zaujímavé objekty, on dolu zaháňal nudu vymýšľaním dôvtipných rýmov.
+- Key: szechenyi_station_name
+  Value: |
+    Kúpele Széchenyi fürdő
+- Key: szechenyi_info
+  Value: |
+    Budapešť je jediné hlavné mesto, kde sa nachádza 118 termálnych prameňov. Prvé termálne kúpele vybudoval rímsky cisár Septimius Severus v roku 201. Aj kráľ Hunov Attila a vojvodca Arpád táborili pri horúcich prameňoch v povodí Dunaja. Z čias tureckej nadvlády sa nám zachovali 4 funkčné kúpele. <b>Széchenyiho kúpele</b> začali stavať v roku 1909 na spôsob renesančnej katedrály.
+- Key: hosok_station_name
+  Value: |
+    Námestie Hősök tere
+- Key: hosok_info
+  Value: |
+    <b>Námestie Hősök tere</b> postavili pri príležitosti milenárnych osláv v roku 1896 a pripomína tisícročné dejiny maďarského národa. Nachádzajú sa tu sochy štrnástich popredných historických osobností; uprostred stojí vysoký stĺp, na vrchole ktorého archanjel Gabriel drží korunu a kríž. Podľa legendy sa archanjel Gabriel zjavil v  sne prvému uhorskému kráľovi sv. Štefanovi a ponúkol mu svätú korunu.
+- Key: bajza_station_name
+  Value: |
+    Bajzova ulica
+- Key: bajza_info
+  Value: |
+    V parku Epreskert, ktorý z jednej strany lemuje <b>Bajzova ulica</b>, začalo hlavné mesto od roku 1882 otvárať umelecké školy. Pri budovaní tohto priestoru zohral významnú úlohu sochár Alojz Stróbl, ktorý každé ráno, za zvukov lesného rohu, opúšťa na koni Epreskert, organizuje maškarné plesy, so študentmi uvádza historické scénky a po sade sa prechádzajú opice, pávy, srny, bociany.
+- Key: kodaly_station_name
+  Value: |
+    Námestie Kodály körönd
+- Key: kodaly_info
+  Value: |
+    Hudobný skladateľ a muzikológ <b>Zoltán Kodály</b> patrí popri Bartókovi k priekopníkom v oblasti výskumu a zberu ľudovej hudby. Kodály bol reformátorom hudobnej výchovy na maďarských školách. Hlásal: „Hudba patrí všetkým.“ Najdôležitejším nástrojom hudobnej výchovy, s ktorou treba začať už v predškolskom veku, je spev a materiálom naša spoločná hudobná materčina, ľudová hudba.
+- Key: voromartyutca_station_name
+  Value: |
+    Vörösmartyho ulica
+- Key: vorosmarty_utca_info
+  Value: |
+    Do budovy na rohu <b>Vörösmartyho ulice</b> a Andrássyho triedy sa v roku 1879 presťahovala Maďarská kráľovská hudobná akadémia. Franz Liszt (1811–1886) učil svojich študentov bezplatne, v duchu dnešných majstrovských kurzov. Na umelcovej poslednej budapeštianskej adrese v súčasnosti sídli Pamätné múzeum Franza Liszta s hudobnými nástrojmi, knihami a notami, ktoré skladateľ venoval Hudobnej akadémii.
+- Key: oktogon_station_name
+  Value: |
+    Oktogon
+- Key: oktogon_info
+  Value: |
+    Osemuholníkové námestie <b>Oktogon</b> sa nachádza na križovatke Andrássyho triedy a vyše 4000 metrov dlhej Veľkej okružnej triedy (Nagykörút), ktoré sú dva najväčšie architektonické projekty 19. storočia. Druhý z nich spája bulváre hlavného mesta, ktoré po zjednotení (1873) Budína, Pešti a Starého Budína zaznamenalo prudký rozvoj. Tu začína v roku 1887 premávať prvý električkový spoj.
+- Key: opera_station_name
+  Value: |
+    Opera
+- Key: opera_info
+  Value: |
+    Maďarská štátna <b>opera</b> bola postavená v rokoch 1875–1884 v neorenesančnom slohu, podľa architektonického návrhu Miklósa Ybla. Na jej slávnostnom otvorení sa zúčastnil aj cisár František Jozef I. a orchester dirigoval hudobný skladateľ Ferenc Erkel, autor hudby k maďarskej štátnej hymne. Prvá zlatá éra Opery sa spája s Gustavom Mahlerom, ktorý inštitúciu viedol v rokoch 1888–1891.
+- Key: bajcsy_station_name
+  Value: |
+    Trieda Bajcsy-Zsilinszky
+- Key: bajcsy_info
+  Value: |
+    <b>Trieda Bajcsy-Zsilinszky</b> sa vetví na Andrássyho triedu, ktorá je považovaná za budapeštianske „Champs-Élysées“ a spája centrum mesta s parkom Városliget. Slávnostne ju sprístupnili v roku 1876. Najprv niesla názov „Sugár út“; v roku 1885 ju pomenovali po grófovi Gyulovi Andrássym. Lemujú ju domy a kúrie v eklekticko-neorenesančnom štýle a spočiatku ju pokrývali drevené dlažobné kocky.
+- Key: deak_station_name
+  Value: |
+    Námestie Ferenca Deáka
+- Key: deak_info
+  Value: |
+    Evanjelickú škola na <b>Námestí Ferenca Deáka</b> navštevoval jeden z najväčších maďarských básnikov 19. storočia Sándor Petőfi. V Pilvaxe, obľúbenej kaviarni reformnej mládeže, recitoval 15. marca 1848 svoju slávnu Národnú pieseň. Patril medzi hlavné postavy revolúcie a boja za slobodu 1848/49. Zomrel v boji s ruskými vojskami, ktoré prišli na pomoc rakúskemu cisárovi.
+- Key: vorosmartyter_station_name
+  Value: |
+    Vörösmartyho námestie
+- Key: vorosmarty_ter_info
+  Value: |
+    Vedenie cukrárne na <b>Vörösmartyho námestí</b> prevzal Emil Gerbeaud od Henrika Kuglera v roku 1884. Ponuku rozšíril o maslové krémy, čajové pečivo, zmrzlinu a začal vyrábať mačacie jazýčky a višne v čokoláde. Pri príležitosti milenárnych osláv a návštevy Františka Jozefa I. a kráľovnej Alžbety (Sissi) otvoril  v mestskom parku Városliget Pavilón Gerbeaud.
+- Key: missed_stop_0
+  Value: |
+    Náš čašník sa obvykle tak pohrúžil do tvorivého ošiaľu, že prešiel stanicu Oktogon a spamätal sa až pri Vörösmartyho námestí. Potom prichádzal do práce neskoro a musel čeliť hnevu hlavného čašníka Jeana.
+- Key: missed_stop_1
+  Value: |
+    Básne, ktoré mu napadali počas cesty metrom, si zakaždým narýchlo poznačil a odovzdal na zhodnotenie literátom v kaviarni.
+- Key: line1
+  Value: |
+    Z postele od milej básnik sa poberá
+- Key: line2
+  Value: |
+    Metrom sa trmáca, v bruchu mu zaihrá
+- Key: line3
+  Value: |
+    O raňajkách sníva, no po ruke ho plesnú
+- Key: line4
+  Value: |
+    Literáti slávni, čo platiť účty nechcú
+- Key: line5
+  Value: |
+    Predtucha neblahá: čaká ho prázdny stôl
+- Key: line6
+  Value: |
+    Keďže si raňajky z domu vziať zabudol.
+- Key: sign_it
+  Value: |
+    Potvrdzujem!
+- Key: poem_done_1
+  Value: |
+    Chudáčisko, myslel si, že sa s takýmito prvotinami dostane do literárneho časopisu Nyugat, združujúceho mladé talenty. Jeho prvé číslo odoslali do tlače deň pred čašníkovou smrťou.
+- Key: waiters_task
+  Value: |
+    Pre čašníka niet väčšej výzvy, ako uhádnuť objednávku skôr, než zaznie z úst hosťa. Hlavný čašník Jean nášho čašníka poriadne vyškolil. Pozrime sa, či si to dobre pamätá!
+- Key: szini_fav
+  Value: |
+    Dve štvorminútové vajcia do skla
+- Key: szini_refuses
+  Value: |
+    Dve štvorminútové vajcia do skla. Raňajkujem ich každé ráno. Ako sa to nedá zapamätať? – šomre Szini.
+- Key: szini_arrives
+  Value: |
+    Gyula Szini je Osvátov objav. Chce vajce namäkko, do skla. Nič viac. Alebo žeby to bol Ernő Szép?
+- Key: szini_accepts
+  Value: |
+    Raňajky víťazov! – zvolá Szini.
+- Key: brody_fav
+  Value: |
+    Presso s mliekom, žemľa, pramenitá voda z Parádu
+- Key: brody_refuses
+  Value: |
+    Presso, žemľa, pramenitá voda z Parádu. Čo je na tom také ťažké? – buchne do stola Bródy.
+- Key: brody_arrives
+  Value: |
+    Sándor Bródy. Opatrne s ním. Je to fajnovka, obyčajnú vodu z vodovodu nevypije. Nechávame mu ju dovážať.
+- Key: brody_accepts
+  Value: |
+    Na vás sa dá vždy spoľahnúť – usmeje sa Bródy.
+- Key: krudy_fav
+  Value: |
+    Krčah vlažného piva
+- Key: krudy_refuses
+  Value: |
+    To nie je pivo a nie je ani vlažné. Čo s tým mám robiť? – pýta sa Krúdy.
+- Key: krudy_arrives
+  Value: |
+    Tu máme Gyulu Krúdyho, vynikajúceho majstra maďarskej prózy. Je zimomravý, nemá rád chladené nápoje, ale zato neodmietne ani pivo.
+- Key: krudy_accepts
+  Value: |
+    Vlažné pivo! To je moje obľúbené! – zvolá Krúdy.
+- Key: szep_fav
+  Value: |
+    Praženica najemno
+- Key: szep_refuses
+  Value: |
+    Praženicu najemno. PRAŽENICU. NAJEMNO – zlostí sa Szép.
+- Key: szep_arrives
+  Value: |
+    Teraz som videl Ernőa Szépa! Je priekopníkom kabaretnej literatúry. Chce praženicu najemno. Alebo žeby to bol Gyula Szini?
+- Key: szep_accepts
+  Value: |
+    Čo vám poviem, obsluha na svetovej úrovni! – vykríkne Szép.
+- Key: karinthy_fav
+  Value: |
+    Vlažná káva s množstvom peny
+- Key: karinthy_refuses
+  Value: |
+    Chutí dobre, ale nie je vlažná, to je isté – zvezie sa na miesto smutne Karinthy.
+- Key: karinthy_arrives
+  Value: |
+    Práve vošiel Frigyes Karinthy! Je len málo plodnejších autorov, než je on. Citlivá duša, ale ako sa hovorí: dušu živí dym a káva!
+- Key: karinthy_accepts
+  Value: |
+    Nie je nič lepšie! – zvolá Karinthy.
+- Key: osvat_fav
+  Value: |
+    Malé literárne
+- Key: osvat_refuses
+  Value: |
+    Ale prosím vás. Ja som si neobjednal toto. Kde sú moje malé literárne? – prejavuje nespokojnosť Osvát.
+- Key: osvat_arrives
+  Value: |
+    Dorazil Ernő Osvát! Jeden z budúcich redaktorov Nyugatu. Teraz nesmieme pochybiť! On chce malé literárne, to je isté.
+- Key: osvat_accepts
+  Value: |
+    Aký ste poriadny, že si to pamätáte. Ďakujem! – rozjasní sa Osvátova tvár.
+- Key: osvat_refusal_1
+  Value: |
+    Ďakujem, ale dnes nemám chuť. Odneste to, prosím – zastoná Osvát.
+- Key: osvat_refusal_2
+  Value: |
+    Zvláštne. Osvát odmietol raňajky. To sa ešte doteraz nestalo. Pozrime sa, aký osud tie raňajky postihol.
+- Key: kis_irodalmi
+  Value: |
+    Malé literárne. Tie teraz Ernő Osvát odmietol. Mali ich v obľube mnohí spisovatelia, lebo ich často dostávali od veľkodušného čašníka zadarmo alebo výmenou za báseň. Tvorili ich:
+- Key: ham
+  Value: |
+    Šunka.
+- Key: salami
+  Value: |
+    Saláma.
+- Key: cheese
+  Value: |
+    Syr.
+- Key: deadly_message
+  Value: |
+    Ernőovi Osvátovi za <color=red>vražednú</color> úprimnosť.
+- Key: discovering_note
+  Value: |
+    Pomstychtivý odkaz Osvátovi! Pridal ho tam čašník? Je možné, že boli raňajky otrávené? Musíme nájsť viac stôp.
+- Key: nyugat_prints_0
+  Value: |
+    V deň pred čašníkovou smrťou vyšiel kefový obťah aj tlačená verzia prvého čísla Nyugatu.
+- Key: critique1
+  Value: |
+    Kde sa tu berie táto detinská rýmovačka?
+- Key: critique2
+  Value: |
+    To je nedôstojné!
+- Key: nyugat_prints_1
+  Value: |
+    Čašníkov výtvor zvozili pod čiernu zem!
+- Key: nyugat_prints_2
+  Value: |
+    Ale čašník nemohol nechať Osvátovi vražedný odkaz. Veď prečo by jedol pokrm, ktorý sám otrávil?
+- Key: nyugat_prints_3
+  Value: |
+    Brúsil si Osvát zuby aj na iných? Alebo sa niekoho dotklo, že čašníkova báseň nebola publikovaná?
+- Key: heirloom
+  Value: |
+    Čašníkovým najcennejším majetkom boli tieto vreckové hodinky – ešte šťastie, že aj tie sa podarilo zachrániť.
+- Key: mystery_woman
+  Value: |
+    Náš čašník v spoločnosti dámy. Má to nejaký význam? Pozrime sa, či je niečo napísané na zadnej strane fotografie.
+- Key: present_message
+  Value: |
+    Milovanému bratovi k jeho žiarivej básnickej budúcnosti!
+    Malvin
+- Key: writing_on_back
+  Value: |
+    Čašníkovi darovala hodinky jeho milovaná sestra Malvin – s nádejou, že dobyje básnické vavríny. Keby len tušila...
+- Key: secondary_headline
+  Value: |
+    Z Dunaja vytiahli hysterickú ženu
+- Key: secondary_article
+  Value: |
+    Včera vo večerných hodinách si chodci na promenáde všimli zmätenú dámu. Žena meravo hľadela pred seba, potom z nábrežia vošla do Dunaja   a zmizla pod hladinou. Našťastie   v blízkosti hliadkoval žandár, ktorý sa za ňou rozbehol a vytiahol ju na breh. Ukázalo sa, že tou dámou bola Malvin Fabula, vychovávateľka   v rodine slávneho výrobcu zápaliek, ktorú okamžite previezli do ústavu pre choromyseľných v Lipótmező, kde ju podrobia šokovej terapii.
+- Key: woman_in_the_water_0
+  Value: |
+    Článok informujúci o ďalšej tragédii. Vari je tou ženou čašníkova sestra? Možno sa pomiatla od žiaľu z bratovej smrti.
+- Key: woman_in_the_water_1
+  Value: |
+    Z novín sa o jeho smrti dozvedieť nemohla, veď obe správy vyšli v tom istom čísle! Vydajme sa za ňou do ústavu pre choromyseľných!
+- Key: windows_of_lipot
+  Value: |
+    Toto je nádherné okno kaplnky Budínskeho uhorského kráľovského krajinského ústavu pre choromyseľných v Lipótmező, ktoré zhotovil Miksa Róth.
+- Key: bad_writer
+  Value: |
+    Môj brat je zlý básnik.
+- Key: love_him
+  Value: |
+    Brata ľúbim.
+- Key: good_writer
+  Value: |
+    Brat je dobrý básnik.
+- Key: osvat_is_wrong
+  Value: |
+    Osvát sa mýli.
+- Key: osvat_must_die
+  Value: |
+    Osvát musí pykať.
+- Key: ending_1
+  Value: |
+    Toľká tragédia! Čašníkova labilná sestra – vidiac kritiku, ktorá sa zniesla na jej brata – chcela otráviť Ernőa Osváta fosforom zo zápaliek.
+- Key: ending_2
+  Value: |
+    Nerátala však s tým, že Osvát pošle raňajky späť a namiesto neho ich zje jej hladný brat, ktorý tým spečatí svoj osud. Chúďa sestra sa z toho načisto pomiatla.
+- Key: ending_3
+  Value: |
+    Biely fosfor, získavaný zo zápaliek, bol v tej dobe častým nástrojom (samo)vrážd. Na otravu fosforom poukazovali svetielkujúce zvratky. Kým biely fosfor na hlavičke zápalky vymenili za červený, muselo zomrieť mnoho ľudí.
+- Key: epilogue_1
+  Value: |
+    A hoci je náš príbeh vymyslený a plný zveličení, ktoré sú pre kriminálne príbehy typické, svojím krivým zrkadlom predsa len odhaľuje niečo pravdivé  a dôležité z Budapešti zo začiatku minulého storočia:  v tom čase brali literatúru smrteľne vážne... Vďaka prísnym kvalitatívnym požiadavkám Osváta a jemu podobných redaktorov, ako aj plodnému intelektuálnemu ovzdušiu, ktoré bolo príznačné pre New York a iné literárne kaviarne, dokázal byť časopis Nyugat tridsaťtri rokov dielňou i fórom rodiacej sa modernej maďarskej literatúry. Ako konštatuje hlavný čašník Ede v Máraiovom románe Sindibád sa vracia: „kaviareň je miesto, ktoré sa vyznačuje jedinečnou, z medicínskeho a telovýchovného hľadiska vôbec nie zdravou, ale z literárneho hľadiska absolútne blahodarnou klímou, kde sú literáti tak trochu chránení pred pokušeniami sveta, úradnými šimľami a surovosťou peňazí; ich pľúca   a srdcia sa síce opotrebujú pod vplyvom nikotínu   a čiernej kávy, ale čo je dôležitejšie – ich duch rozkvitá.“
+- Key: epilogue_2
+  Value: |
+    Počas druhej svetovej vojny bola kaviareň New York poškodená, v roku 1947 ju zatvorili. Chvíľu v jej priestoroch fungovali obchod so športovými potrebami, potom cestovná kancelária. Bolo treba čakať až do roku 1954, kým ju pod názvom Hungária opäť otvorili. Od roku 2006 očakáva svojich hostí pod pôvodným názvom a v pôvodnej kráse.
+    Ak budete v Budapešti, určite ju navštívte. Na obavy nie je dôvod. „Malé literárne“ už istý čas v jedálnom lístku nefigurujú.
+- Key: credits
+  Value: |
+    Autor námetu: Gábor Orbán
+
+    Z poverenia Maďarského kultúrneho inštitútu v Paríži pripravili:
+
+    Ágnes Bakk
+    András Halák László 
+    Dorottya Kovács
+
+
+    Z Maďarského kultúrneho inštitútu v Paríži spolupracovali:  
+
+    Zita Bodnár
+    Emma Bornai 
+    Orsolya Karinthi-Rébay 
+    Gábor Orbán 
+
+
+    Spolupracujúci partner: 
+
+    Univerzita umenia a designu Moholy-Nagy Művészeti Egyetem (MOME, Budapešť)
+
+
+    Literárny citát: 
+
+    Sándor Márai: Szinbád hazamegy – Sindibád sa vracia (Akadémiai kiadó, Helikon kiadó, 1992)
+
+
+    Hudba:
+
+    Esther Abrami - No.2 Remembering Her
+    Emmit Fenn - Allégro
+
+
+    Sound effects:
+
+    freesound.org
+
+
+    Obrazový materiál:
+
+    fortepan
+    arcanum
+    Archív mesta Budapešti 
+    Maďarské geografické múzeum 
+    Gyula Somlai 
+    György Klösz 
+    Anantara New York Palace Budapest Hotel
+
+
+    Preklad:
+
+    Jitka Rožňová

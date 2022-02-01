@@ -1,0 +1,391 @@
+collection:
+- Key: next
+  Value: |
+    Next
+- Key: intro_button_next
+  Value: |
+    Next
+- Key: first
+  Value: |
+    It is no exaggeration to say that Budapest’s present-day cityscape took shape in the last quarter of the nineteenth century. The number of buildings in the Hungarian capital practically doubled between 1869 and 1894. The Parliament Building, the Grand Boulevard, Andrássy Avenue, the Opera House, the Elisabeth and Margaret Bridges, and the Nyugati (Western) railway station (designed by the office of Gustave Eiffel) were among the monuments that arose during this period.
+- Key: second
+  Value: |
+    Continental Europe’s first underground railway line was inaugurated in 1896, within the framework of the millennium celebrations of the Magyars’ settlement of the Carpathian Basin. Likewise a result of this building fever was the New York Palace (1894), designed by architect Alajos Hauszmann, who had directed the expansion of the Buda Castle. He was given free budgetary rein for the palace project by the principal sponsor, an American insurance company. Indeed, the café, the most sumptuous part of this eclectic building, was constructed almost solely of enduring materials, not least marble and bronze, with frescoes ornamenting the ceiling.
+- Key: third
+  Value: |
+    At the start of the twentieth century the New York Café assumed a literary ambiance, thanks in no small part to the literature-loving head waiters, who provided poor writers with stationery, writing utensils, and modest sums of credit. The first issues of Nyugat (West), which launched in 1908 and became the era’s most seminal literary journal, were practically born on its marble tables. The café was also popular with others in the arts, including actors, composers, and painters, and may be considered the cradle of Hungarian cinema. It was here that Hungary’s first cinema journals saw the light of day; here, that silent film star Vilma Bánky signed her first contract; and here, that Mihály Kertész—later known as Michael Curtiz, director of Casablanca—announced that he was moving abroad.
+- Key: fourth
+  Value: |
+    Open day and night, this institution—whose front-door key, so legend has it, was once thrown into the Danube—was a place where one could not only write in peace but also, when need be, catch a bit of shut-eye on a table. The World Wars put a temporary end to the flourishing café, which closed its doors in 1916 for the first time, reviving for a while in the 1930s. From 1954 on it reopened again and again under different names and different management.
+- Key: baggage_opening_0
+  Value: |
+    This suitcase came from the estate of a Hungarian private detective who emigrated to London in the 1930s.
+- Key: baggage_opening_1
+  Value: |
+    The staff at the Liszt Institute needs your help to solve the mystery of its contents.
+- Key: baggage_opening_3
+  Value: |
+    Let us start with a Pesti hírlap (Pest News) article from 1908, which might provide a clue.
+- Key: pesti_hirlap
+  Value: |
+    PESTI HÍRLAP
+- Key: main_headline
+  Value: |
+    TRAGEDY AT THE NEW YORK CAFÉ
+- Key: main_article
+  Value: |
+    János Fabula, a waiter at the New York Café, was found dead yesterday morning.
+    The young man, considered by many to have been the right-hand man to Jean, the head waiter, suffered from no chronic illness. Police <b>suspect poisoning</b>. The only witness to the tragic event is his <b>half-eaten breakfast</b>. János Fabula is survived by his older sister, Malvin. 
+    The National Union of Waiters announced that it has lost one of their own.
+- Key: before_entering_crime_scene
+  Value: |
+    An unusual death. Let us check out the scene—perhaps we’ll find something interesting.
+- Key: body
+  Value: |
+    János Fabula, the hapless waiter. There are no external signs of injury, but the victim threw up his breakfast before his death, hence the poisoning hypothesis.
+- Key: oven
+  Value: |
+    Stovetop with gas burners. Carbon monoxide poisoning can definitely be ruled out, but great coffee can be brewed here.
+- Key: kitchenware
+  Value: |
+    Dishes. Not surprising in a kitchen at all, but not exactly ideal tools for murder.
+- Key: counter
+  Value: |
+    Kitchen counter. Nothing fishy here.
+- Key: lights_off_vomit_glows
+  Value: |
+    A puddle of glowing vomit? Not an everyday sight. What could be the cause?
+- Key: lets_walk
+  Value: |
+    Let’s reconstruct the waiter’s morning shift. Does anything at all catch your eye?
+- Key: boarding_the_sub_1
+  Value: |
+    The waiter lived near City Park and used to go to work on the Continent’s oldest underground railway, whose yellow train carriages rumble along right under some of Budapest's historical sites. It’s a shame he couldn’t see them from underground.
+- Key: boarding_the_sub_2
+  Value: |
+    He staved off boredom by conjuring up witty rhymes, as one intriguing site after another passed by overhead.
+- Key: szechenyi_station_name
+  Value: |
+    Széchenyi Bath
+- Key: szechenyi_info
+  Value: |
+    Budapest has a record 118 hot springs. Its first thermal baths were built by the Romans in 201, under Emperor Septimius Severus. Attila the Hun and, later, the Magyar prince, Árpád, encamped by the springs. Of the baths built during the Ottoman occupation (1541–1686), four remain. The Széchenyi Baths, in City Park (built 1909–1913) are reminiscent of a Renaissance cathedral with Baroque elements.
+- Key: hosok_station_name
+  Value: |
+    Heroes’ Square, the Millennium Monument
+- Key: hosok_info
+  Value: |
+    The monument was built for Hungary’s 1896 millennium. Every part pays tribute to a key aspect of national history. The central column dominates the square, Archangel Gabriel holding Saint Stephen’s crown (aka the Holy Crown) in one hand and a cross in the other hand. Legend has it that Gabriel appeared to Stephen, Hungary’s first Christian king, in a dream and offered him the crown.
+- Key: bajza_station_name
+  Value: |
+    Bajza Street
+- Key: bajza_info
+  Value: |
+    Flanked by <b>Bajza Street</b>, Mulberry Garden, once an orchard, become an art epicenter by the 1880s. It was designed by sculptor Alajos Stróbl, who rode forth on horseback each morning blaring a French horn. He organised balls. performed skits with students, and watched over monkeys, peacocks, deer, storks, and goldfish, Today the garden is a learning facility of the University of Fine Arts.
+- Key: kodaly_station_name
+  Value: |
+    Kodály Körönd (Kodály Circus)
+- Key: kodaly_info
+  Value: |
+    This noted intersection along Andrássy Avenue is named for composer and educator <b>Zoltán Kodály</b>, who once lived here. Kodály, along with Béla Bartók, was a pioneer in collecting his nation’s folk songs. He believed that music belonged to everyone, and that music education should be stressed from preschool on, drawing on the human voice and focusing on the common language of folk music.
+- Key: voromartyutca_station_name
+  Value: |
+    Vörösmarty Street
+- Key: vorosmarty_utca_info
+  Value: |
+    The Royal National Hungarian Academy of Music moved into the four-story palace at the corner of <b>Vörösmarty Street</b>  and Andrássy Avenue in 1879. Its founding president and professor, Franz Liszt (1811–1886), declined a salary for teaching there but was provided an apartment. His last home in Budapest, this apartment is today a museum featuring his instruments, books, and scores.
+- Key: oktogon_station_name
+  Value: |
+    Oktogon
+- Key: oktogon_info
+  Value: |
+    Named for its shape, the <b>Oktogon</b>, one of Budapest's key intersections, is at the juncture of Andrássy Avenue and the Grand Boulevard, the capital’s two biggest urban projects of the nineteenth century. The latter connected all main boulevards in the capital after the 1873 unification of Buda, Óbuda, and Pest. In 1887, the Oktogon became the first stop of the new underground railway.
+- Key: opera_station_name
+  Value: |
+    Opera House
+- Key: opera_info
+  Value: |
+    The Neo-Renaissance Hungarian State <b>Opera</b> House was built 1875–1884 with Miklos Ybl’s design. The opening concert, attended by Austro-Hungarian Emperor Franz Joseph I, was conducted by Ferenc Erkel, composer of Hungary’s national anthem and the Opera’s musical director, a role soon filled (1888–1891) by a young Gustav Mahler, whose direction marked the institution’s first “golden age.”
+- Key: bajcsy_station_name
+  Value: |
+    Bajcsy-Zsilinszky Road
+- Key: bajcsy_info
+  Value: |
+    Andrássy Avenue, Budapest’s Champs-Élysées, starts at <b>Bajcsy-Zsilinszky Road</b>, leading from the loud downtown to the hushed City Park. Formerly called Sugár (Ray) Road, it was inaugurated in 1876. Its final stretch opened in 1885, when the road was renamed Andrássy Avenue. Lined with Neo-Renaissance mansions with fine facades and interiors, the avenue’s first cobblestones were of wood.
+- Key: deak_station_name
+  Value: |
+    Deák Square
+- Key: deak_info
+  Value: |
+    At <b>Deák Square</b> is the Lutheran School attended by the great 19th-century poet Sándor Petőfi, who was later also a leader of the 1848–49 Hungarian revolution against the domination of Austria (under the Habsburg dynasty). On March 15, at Café Pilvax, he recited his “Nemzeti Dal” (National Song). He died in 1849, probably in battle against Russian forces allied with the Austrians.
+- Key: vorosmartyter_station_name
+  Value: |
+    Vörösmarty Square
+- Key: vorosmarty_ter_info
+  Value: |
+    The Gerbeaud Café, on <b>Vörösmarty Square</b>, has a long history. In 1884, Henrik Kugler sold his café there to Emil Gerbeaud, from a family of Swiss confectioners. Adding butter creams, tea biscuits, ice creams, and new cakes and chocolates—not least, langues de chat (cat tongue–shaped cookies) and cognac cherry bonbons—Gerbeaud turned the café into one of Europe’s finest.
+- Key: missed_stop_0
+  Value: |
+    Our waiter was usually so absorbed in conjuring up poems in his head that he missed his underground stop at Oktogon, realizing his mistake only at Vörösmarty Square. On this day, as at other such times, he would arrive late at work, risking the wrath of Jean, the headwaiter.
+- Key: missed_stop_1
+  Value: |
+    The first thing he did on arriving at work was to jot down phrases and rhymes he’d invented in the metro, on the way to work. He would never miss an opportunity to show them to the writers at the café to get their opinions.
+- Key: line1
+  Value: |
+    A hungry poet leaves his young love’s bed
+- Key: line2
+  Value: |
+    belly growling as the metro races ahead
+- Key: line3
+  Value: |
+    dreaming of writers’ breakfasts, until his hand is slapped
+- Key: line4
+  Value: |
+    by famous, hungry writers who don’t pay their tabs
+- Key: line5
+  Value: |
+    ominous thoughts above him stir and roam
+- Key: line6
+  Value: |
+    well now, had he not left his own breakfast at home?
+- Key: sign_it
+  Value: |
+    I’ll sign it!
+- Key: poem_done_1
+  Value: |
+    Poor János was hoping that such first literary fruits of his callow mind would allow him to join the young talents at Nyugat, whose first issue had gone to press the day before he died.
+- Key: waiters_task
+  Value: |
+    There is no greater challenge for a waiter than guessing in advance what patrons will order. Jean the headwaiter carefully taught our waiter each detail. Let’s see whether he recalls what he's learned.
+- Key: szini_fav
+  Value: |
+    Two soft-boiled eggs served in a glass
+- Key: szini_refuses
+  Value: |
+    “Two soft-boiled eggs served in a glass,” says Szini. “That’s what I ask for every day,“ he grumbles. “Too hard to remember?”
+- Key: szini_arrives
+  Value: |
+    Enter writer Gyula Szini, young protege of Ernő Osvát. He wants only a “four-minute” (i.e., soft-boiled) egg in a glass, nothing else. Or is that poet Ernő Szép?
+- Key: szini_accepts
+  Value: |
+    “Breakfast of champions!” cries out Szini.
+- Key: brody_fav
+  Value: |
+    “Coffee with a drop of milk, rolls, and mountain spring water from Parád.”
+- Key: brody_refuses
+  Value: |
+    “Coffee with a drop of milk, rolls, and mountain spring water from Parád. What’s so hard about that?” calls out author-journalist Sándor  Bródy while pounding a fist on the table.
+- Key: brody_arrives
+  Value: |
+    “Sándor Bródy. Be careful with him! A snobbish guy, he is—wouldn’t drink simple tap water, no, we order spring water from Parád just for him.”
+- Key: brody_accepts
+  Value: |
+    “One can always count on you,” says Bródy with a smile.
+- Key: krudy_fav
+  Value: |
+    “A pint of lukewarm beer.”
+- Key: krudy_refuses
+  Value: |
+    “This is neither beer nor is it lukewarm,” asks writer Gyula Krudy. “ What am I supposed to do with this?”
+- Key: krudy_arrives
+  Value: |
+    Here he is, Gyula Krúdy, master of Hungarian prose. Quick to get cold, he doesn’t like cold drinks but he would never refuse a pint.
+- Key: krudy_accepts
+  Value: |
+    “Lukewarm beer! My favourite!” exclaimes Krúdy.
+- Key: szep_fav
+  Value: |
+    “Soft scrambled eggs.”
+- Key: szep_refuses
+  Value: |
+    “Soft scrambled eggs,” huffs Szép. “SCRAMBLED. SOFT.”
+- Key: szep_arrives
+  Value: |
+    I’ve just seen Ernő Szép, pioneer of cabaret literature! He wants soft scrambled eggs. Or is that Gyula Szini?
+- Key: szep_accepts
+  Value: |
+    “World-class service, I’ll say!” cries out Szép.
+- Key: karinthy_fav
+  Value: |
+    “Lukewarm coffee with lots of whipped cream.”
+- Key: karinthy_refuses
+  Value: |
+    “It’s tasty, to be sure, but it sure isn’t lukewarm,” says yet another writer, Frigyes Karinthy, with a woeful sigh as he plops back into his chair..
+- Key: karinthy_arrives
+  Value: |
+    Frigyes Karinthy has just stepped in! One of the most prolific writers of his time. A sensitive soul, but how do they say it? Great minds live on coffee and smoke.
+- Key: karinthy_accepts
+  Value: |
+    “There is nothing better!” exclaims Karinthy
+- Key: osvat_fav
+  Value: |
+    Little Literary
+- Key: osvat_refuses
+  Value: |
+    “But please,” grumbles Osvát, “That’s not what I’ve asked for. Where is the Little Literary?”
+- Key: osvat_arrives
+  Value: |
+    There he is, Ernő Osvát, at last! One of the future editors of Nyugat. We can’t afford to get it wrong now! He’ll ask for the Little Literary, no doubt.
+- Key: osvat_accepts
+  Value: |
+    “How nice of you to remember,” says Osvát, in a cheerier mood. “Thank you.”
+- Key: osvat_refusal_1
+  Value: |
+    “Thanks a lot, but not today,” Osvát moans nonetheless, “You can take it back.”.
+- Key: osvat_refusal_2
+  Value: |
+    Unusual. Osvát has refused his breakfast. First time ever. Let’s look into what became of that breakfast.
+- Key: kis_irodalmi
+  Value: |
+    Little Literary. This is what Ernő Osváth refused this morning. It was the favourite bite of many writers, as one could get it free, or in exchange for a poem, from the generous waiter. The ingredients:
+- Key: ham
+  Value: |
+    Ham
+- Key: salami
+  Value: |
+    Salami
+- Key: cheese
+  Value: |
+    Cheese.
+- Key: deadly_message
+  Value: |
+    To Ernő Osvát, for his brutal, <color=red>murderous</color=red>  honesty
+- Key: discovering_note
+  Value: |
+    A message of revenge to Osvát! Who might have put it there? Was it the waiter? Is it possible that the breakfast was poisoned? We must continue the search for clues.
+- Key: nyugat_prints_0
+  Value: |
+    Page proofs and final version of the first issue of Nyugat, published the day before the waiter died.
+- Key: critique1
+  Value: |
+    What is this insufferable, infantile little poem?
+- Key: critique2
+  Value: |
+    Unworthy!
+- Key: nyugat_prints_1
+  Value: |
+    The waiter’s poem got an ugly rejection.
+- Key: nyugat_prints_2
+  Value: |
+    But the waiter could not have left the murderous message. Why would he eat a dish in which he put poison himself?
+- Key: nyugat_prints_3
+  Value: |
+    Did Osvát bestow such scornful remarks upon another aspiring poet-writer, too? Or was someone else devastated by the fact that the waiter’s poem wasn’t published?
+- Key: heirloom
+  Value: |
+    This pocket watch was the waiter’s most prized possession, an heirloom that, thank goodness, he’d managed to hold onto..
+- Key: mystery_woman
+  Value: |
+    Our waiter in the company of a woman. What does she possibly have to do with him? Let’s find out what is written on the back of the photo.
+- Key: present_message
+  Value: |
+    To my dear little brother, wishing you a brilliant career in poetry,
+    Malvin
+- Key: writing_on_back
+  Value: |
+    The pocket watch was a gift from a loving big sister, Malvin, to her little brother, a rising star poet. If she had only known …
+- Key: secondary_headline
+  Value: |
+    Hysterical woman pulled from the Danube River
+- Key: secondary_article
+  Value: |
+    Those taking their evening walk along the Danube promenade noticed the presence of a dazed woman. She stood motionless, staring straight ahead, before walking into the Danube and submerging. Fortunately for her, a police officer patrolling nearby ran up and pulled her to the riverbank. The lady, Malvin Fabula—who, it turned out, is the governess of a family famed for its match factory—was taken straight to the asylum in Buda’s Lipótmező neighborhood, where she was subjected to shock therapy.
+- Key: woman_in_the_water_0
+  Value: |
+    An article about another tragedy. Could this woman be the waiter’s sister? Slowly sinking into madness after the death of her beloved brother?.
+- Key: woman_in_the_water_1
+  Value: |
+    She could not have learned about his death from the press, as it was mentioned in the same newspaper. Let us follow her to the asylum.
+- Key: windows_of_lipot
+  Value: |
+    Made by Miksa Róth, this is the beautiful stained-glass window of the chapel at the Hungarian Royal Asylum of Buda, also known by the name of the neighborhood it’s in, Lipótmező..
+- Key: bad_writer
+  Value: |
+    My brother is a bad poet.
+- Key: love_him
+  Value: |
+    I love my brother.
+- Key: good_writer
+  Value: |
+    My brother is a good poet.
+- Key: osvat_is_wrong
+  Value: |
+    Osvát is wrong.
+- Key: osvat_must_die
+  Value: |
+    Osvát must pay for this.
+- Key: ending_1
+  Value: |
+    What a tragedy! The waiter’s unstable sister, on seeing her little brother criticized so, wanted to take revenge on Osvát by poisoning him with yellow phosphorus from matchsticks.
+- Key: ending_2
+  Value: |
+    However, Malvin had not anticipated that Osvát would refuse his breakfast, which was finally consumed by her hungry brother, thus condemning him to death. His poor big sister went irrevocably mad over this.
+- Key: ending_3
+  Value: |
+    In the nineteenth century, white phosphorus, used in match manufacturing, was a popular means of murder and, indeed, suicide. Among other things, a victim’s vomit, with its eerie greenish glow, suggested phosphorus poisoning. Many people had to die before white phosphorus was replaced on match heads by the harmless red phosphorus.
+- Key: epilogue_1
+  Value: |
+    Even though our story is fiction, punctuated with exaggerations characteristic of crime stories, it expresses, like a distorting mirror, an essential truth about Budapest at the beginning of the twentieth century: at the time, literature was a deadly serious affair. Nyugat managed to become both the workshop and the forum of modern Hungarian literature for thirty-three years, thanks to the high standards of editors such as Osvát and to the intellectually fertile atmosphere of literary cafés, especially the New York Café. As Ede the butler puts it in Hungarian writer Sándor Márai's novel Sinbad Comes Home, “A coffeehouse is that singular environment that is not at all good for health in a medical or athletic sense, but that is uniquely useful in a literary sense, where writers are somewhat protected from the temptations of the world, from the red tape of bureaucracy, and from the brutality of money. Nicotine and coffee wear out their lungs and hearts, but their minds flourish, and that is more important."
+- Key: epilogue_2
+  Value: |
+    Damaged in World War II, the New York Café closed its doors in 1947. It became a sporting goods store for a while, and then a travel agency before returning to its vocation as a café in 1954, under the name Hungária. Its original name was restored in 2006, with the New York Café open in all its former glory ever since. If you happen to be in Budapest, by all means stop in. You have nothing to fear: the Little Literary is long gone from the menu.
+- Key: credits
+  Value: |
+    Story idea by Gábor Orbán
+
+    Made, at the request of the Liszt Insitute Paris, by:
+
+    Ágnes Bakk
+
+    László András Halák
+
+    Dorottya Kovács
+
+    Contributors at the Liszt Institute Paris:
+
+    Zita Bodnár
+
+    Emma Bornai
+
+    Orsolya Karinthi-Rébay
+
+    Gábor Orbán
+
+    In partnership with:
+
+    Tű Fokán Art Foundation
+
+    Moholy-Nagy University of Art and Design (MOME)
+
+    Literary quote from:
+
+    Szinbád hazamegy (Sinbad Comes Home), by Sándor Márai
+
+    Translation:
+
+    Judit Fontanarosa
+
+    Proofreading:
+
+    Paul Olchváry
+
+    Music:
+
+    Esther Abrami - No.2 Remembering Her
+    Emmit Fenn - Allégro
+
+
+    Sound effects:
+
+    freesound.org
+
+    Pictures:
+
+    Fortepan
+    Arcanum
+    Budapest City Archives
+    Hungarian Geographical Museum
+
+    Gyula Somlai
+    György Klösz
+    Anantara New York Palace Budapest Hotel

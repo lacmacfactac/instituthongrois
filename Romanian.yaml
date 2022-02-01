@@ -1,0 +1,437 @@
+collection:
+- Key: next
+  Value: |
+    Mai departe
+- Key: intro_button_next
+  Value: |
+    Mai departe
+- Key: first
+  Value: |
+    Nu exagerăm când spunem că Budapesta şi-a câştigat imaginea de astăzi în ultimele două-trei decenii ale secolului al XIX-lea. Între anii 1869 şi 1894 practic s-a dublat numărul clădirilor din capitală. În această perioadă s-au construit Parlamentul, Marele Bulevard, Calea Andrássy, Podul Elisabeta şi Podul Margareta, Gara de Vest (proiectată de atelierul lui Gustave Eiffel), Opera…
+- Key: second
+  Value: |
+    La aniversarea milenară a Ungariei (1896) s-a inaugurat prima linie de metrou din Budapesta, fiind prima linie ferată subterană din Europa continentală. Tot atunci s-a construit Palatul New York (1894) proiectat de Alajos Hauszmann. Cafeneaua, cel mai luxos spaţiu din palatul construit în stil eclectic, s-a executat aproape exclusiv din marmură şi bronz, cu tavanul ornamentat cu fresce.
+- Key: third
+  Value: |
+    În anii 90 cafeneaua capătă caracter literar datorită ospătarilor care îi sprijină pe scriitori. Revista Nyugat (1908), care a definit literatura sec. XX, s-a născut la mesele de marmură ale cafenelei. Localul vizitat şi de alţi artişti este leagănul cinematografiei maghiare. Aici s-au născut primele reviste de cinema, aici anunţă regizorul Mihály Kertész (Michael Curtiz) că pleacă în străinătate…
+- Key: fourth
+  Value: |
+    Cafeneaua era deschisă zi şi noapte, căci potrivit legendei cheia i s-a aruncat în Dunăre, şi era un mediu propice pentru creaţie, dar şi pentru a picoti, la nevoie, cu capul pe masă. În 1916 şi-a închis porţile pentru prima dată, ca pe urmă să se redeschidă mereu, cu noi conduceri şi cu noi denumiri.
+- Key: baggage_opening_0
+  Value: |
+    Această valiză face parte din moştenirea unui detectiv privat maghiar emigrat la Paris în anii treizeci.
+- Key: baggage_opening_1
+  Value: |
+    Echipa Institutului Cultural Maghiar din Bucureşti apelează la ajutorul vizitatorilor pentru a descoperi conţinutul valizei.
+- Key: baggage_opening_3
+  Value: |
+    Să începem cu un articol de ziar din 1908, poate ne oferă vreun indiciu.
+- Key: pesti_hirlap
+  Value: |
+    ZIARUL DE PESTA
+- Key: main_headline
+  Value: |
+    Tragedia de la Cafeneaua New York
+- Key: main_article
+  Value: |
+    Ieri dimineaţă l-au găsit mort pe János Fabula, chelnerul Cafenelei New York. 
+
+
+
+    Tânărul, pe care multă lume îl considera mâna dreaptă a ospătarului şef Jean, nu suferise de nici o boală cronică. Poliţia <b>suspectează otrăvire</b>, singurul martor al decesului fiind <b>micul dejun pe care victima îl consumase pe jumătate</b>.
+
+
+
+    János Fabula este jelit de sora sa, Malvina. Sindicatul Naţional al Ospătarilor şi Chelnerilor Şefi este profund îndoliat.
+- Key: before_entering_crime_scene
+  Value: |
+    Este un caz dubios. Să inspectăm locul faptei, poate descoperim ceva.
+- Key: body
+  Value: |
+    János Fabula, chelnerul păţit. Pe trupul lui nu se văd urme de violenţă, însă victima şi-a vomitat micul dejun înainte de a-şi da sufletul. De aici ipoteza otrăvirii.
+- Key: oven
+  Value: |
+    Aragaz. Otrăvire cu gaze nu poate provoca. Dar ce cafea fenomenală se poate prepara pe el!
+- Key: kitchenware
+  Value: |
+    Vase. Prezenţa lor într-o bucătărie nu este surprinzătoare. Nu sunt arme mortale ideale.
+- Key: counter
+  Value: |
+    Blat de bucătărie, nimic ce nu şi-ar avea rostul acolo.
+- Key: lights_off_vomit_glows
+  Value: |
+    Sucuri gastrice fluorescente? Nu-i un fenomen obişnuit! Oare care este cauza?
+- Key: lets_walk
+  Value: |
+    Să reconstituim programul de dimineaţă al chelnerului, poate ne sare în ochi vreun amănunt.
+- Key: boarding_the_sub_1
+  Value: |
+    Chelnerul locuia lângă Parcul Central şi circula spre locul de muncă pe prima linie de metrou de pe continent, care trecea pe sub cele mai importante puncte de atracţie ale oraşului. Păcat că de sub pământ nu le putea vedea.
+- Key: boarding_the_sub_2
+  Value: |
+    În timp ce la suprafaţă se înşirau cele mai interesante monumente, el îşi alunga plictiseala compunând rime frapante.
+- Key: szechenyi_station_name
+  Value: |
+    Baia Széchenyi
+- Key: szechenyi_info
+  Value: |
+    Budapesta este singura capitală cu 118 izvoare şi puţuri de apă termală, primele băi romane datând din anul 201. Hunul Attila şi regele întemeietor de țară Árpád şi-au aşezat taberele lângă izvoarele de apă termală de pe lângă Dunăre. Din perioada dominaţiei turceşti se păstrează astăzi 4 băi. Construirea <b>Băii Széchenyi</b> a început în anul 1909, stilul ei aducând a catedrală renascentistă.
+- Key: hosok_station_name
+  Value: |
+    Piaţa Eroilor
+- Key: hosok_info
+  Value: |
+    <b>Piaţa Eroilor</b> a fost construită în 1896, cu ocazia festivităţilor milenare, şi aduce un omagiu istoriei de o mie de ani a maghiarilor. Aici se află statuile a unsprezece personalităţi istorice emblematice, iar în mijlocul pieței un obelisc în vârful căruia stă Arhanghelul Gabriel ţinând coroana şi crucea, pe care – potrivit legendei - i le oferise primului rege maghiar, Sfântul Ştefan.
+- Key: bajza_station_name
+  Value: |
+    Strada Bajza
+- Key: bajza_info
+  Value: |
+    În Grădina Protopopilor delimitat de <b>strada Bajza</b>, capitala a deschis în anul 1882 o şcoală de artă. În consfinţirea locului a avut un rol important sculptorul Alajos Stróbl care în fiecare dimineaţă ieşea călare din grădină, pe sunet de goarnă, organiza baluri mascate, prezenta cu discipolii săi scenete istorice, în grădină plimbându-se maimuţe, păuni, căprioare şi berze.
+- Key: kodaly_station_name
+  Value: |
+    Piaţa Kodály
+- Key: kodaly_info
+  Value: |
+    Compozitorul şi muzicologul <b>Zoltán Kodály</b> a fost, alături de Béla Bartók, pionierul cercetării şi culegerii folclorului muzical.  Kodály a revoluţionat educaţia muzicală maghiară. «Să fie muzica a tuturor», proclamă el. Educaţia muzicală trebuie începută încă din grădiniţă, instrumentul central fiind vocea umană, iar materia primă limbă maternă muzicală a tuturor: muzica populară.
+- Key: voromartyutca_station_name
+  Value: |
+    Strada Vörösmarty
+- Key: vorosmarty_utca_info
+  Value: |
+    În clădirea aflată la colţul <b>străzii Vörösmarty</b> cu Calea Andrássy s-a mutat în anul 1879 Academia Regală de Muzică. Franz Liszt (1811-1886) își îndrumă studenții gratuit, în sistemul cursurilor de măiestrie de astăzi. Ultima sa locuință din Budapesta astăzi este Muzeul Memorial Franz Liszt; aici se păstrează instrumentele muzicale, cărțile și partiturile sale donate Academiei de Muzică.
+- Key: oktogon_station_name
+  Value: |
+    Octogon
+- Key: oktogon_info
+  Value: |
+    În <b>Piața Octogon</b>, cu forma unui poligon cu opt laturi, se intersectează Calea Andrássy cu Marele Bulevard lung de peste 4000 m, cele mai importante creații urbanistice ale sec. XIX.  Marele Bulevard leagă celelalte bulevarde ale capitalei ce a cunoscut o dezvoltare rapidă după unificarea Pestei cu Buda și Óbuda (1873). Pe Marele Bulevard s-a construit şi prima linie de tramvai în anul 1887.
+- Key: opera_station_name
+  Value: |
+    Opera
+- Key: opera_info
+  Value: |
+    <b>Opera</b> Maghiară de Stat s-a construit între anii 1875 și 1884 în stil neorenascentist,fiind proiectat de Miklós Ybl. La festivitățile de inaugurare a fost prezent și împăratul Franz Iosif, dirijor fiind compozitorul Ferenc Erkel, compozitorul imnului Ungariei. Prima perioadă de aur a Operei a fost marcată de prezența lui Gustav Mahler la conducerea instituției, între anii 1888-1891.
+- Key: bajcsy_station_name
+  Value: |
+    Calea Bajcsy-Zsilinszky
+- Key: bajcsy_info
+  Value: |
+    Din <b>Calea Bajcsy-Zsilinszky</b> pornește Calea Andrássy, „Champs-Élysées-ul Budapestei”, legând Parcul Central de centrul orașului. Artera a fost inaugurată în cadru festiv în anul 1876. La început se numea Bulevard, apoi, în 1885 este denumit după contele Gyula Andrássy. Pe marginea lui se înșiră case și curii construite în stil eclectic neorenascentist. Inițial era podită cu cuburi din lemn.
+- Key: deak_station_name
+  Value: |
+    Piaţa Ferenc Deák
+- Key: deak_info
+  Value: |
+    În <b>Piața Ferenc Deák</b> se află școala evanghelică unde a învățat Sándor Petőfi, unul dintre cei mai mari poeți ai secolului XIX. El a recitat la 15 martie 1848, la Cafeneaua Pilvax, unde se întâlneau tinerii reformiști, poezia „Cântec Național”. Personaj important al revoluției din 1848-49, moare pe câmpul de bătălie luptând împotriva trupelor rusești venite în ajutorul împăratului austriac.
+- Key: vorosmartyter_station_name
+  Value: |
+    Piaţa Vörösmarty
+- Key: vorosmarty_ter_info
+  Value: |
+    În 1884 Emil Gerbeaud preia de la Henrik Kugler conducerea cofetăriei din <b>Piața Vörösmarty</b>. Oferta este îmbogățită cu creme cu unt, fursecuri, înghețate, și introduce în meniu limba de pisică și bomboanele de ciocolată cu vișine în coniac. Cu ocazia festivităților milenare cofetarul deschide în Parcul Central Pavilionul Gerbeaud, pentru a-i primi pe Franz Iosif I și Regina Elisabeta (Sissi).
+- Key: missed_stop_0
+  Value: |
+    Ospătarul nostru în general era atât de scufundat în creație încât trecea de Octogon și de-abia la Piața Vörösmarty se dezmeticea. În astfel de cazuri întârzia de la locul de muncă, expunându-se supărării chelnerului șef Jean.
+- Key: missed_stop_1
+  Value: |
+    Niciodată nu omitea să noteze în grabă poezia compusă în minte în metrou și să o dea scriitorilor cafenelei pentru a le cere opinia.
+- Key: line1
+  Value: |
+    Poetul flămând din patul iubitei o zbughi
+- Key: line2
+  Value: |
+    în metroul zgomotos stomacul îi chiorăi
+- Key: line3
+  Value: |
+    visează mic-dejunul poeților pân` ce nu-l opresc
+- Key: line4
+  Value: |
+    vestiții scriitori fomiști ce nota n-o plătesc
+- Key: line5
+  Value: |
+    gânduri sinistre îl bântuie:
+- Key: line6
+  Value: |
+    micul dejun acasă să-l uite?
+- Key: sign_it
+  Value: |
+    Semnez!
+- Key: poem_done_1
+  Value: |
+    Sărmanul credea că o astfel de poezioară poate fi publicată în Revista Nyugat în jurul căreia s-au adunat cei mai talentați tineri. Primul număr a fost trimis la tipar în preziua decesului chelnerului.
+- Key: waiters_task
+  Value: |
+    Cea mai mare provocare pentru un ospătar este să ghicească comanda înainte să fi fost rostită. Chelnerul șef Jean l-a școlit temeinic pe chelnerul nostru. Să vedem dacă își aduce bine aminte de toate!
+- Key: szini_fav
+  Value: |
+    Două ouă fierte patru minute, la pahar
+- Key: szini_refuses
+  Value: |
+    Două ouă fierte patru minute, la pahar. Asta mănânc în fiecare dimineață. Cum se poate să nu ții minte atât?, bombăne Szini.
+- Key: szini_arrives
+  Value: |
+    Gyula Szini, descoperirea lui Osvát. Fără garnitură. Numai ouă moi la pahar. Sau acela e Ernő Szép?
+- Key: szini_accepts
+  Value: |
+    Micul dejun al campionilor! exclamă Szini.
+- Key: brody_fav
+  Value: |
+    Cafea cu lapte fără zahăr, chiflă, apă de izvor de la Băile Parád
+- Key: brody_refuses
+  Value: |
+    Cafea, chiflă, apă de izvor de la Băile Parád. Ce-i atât de greu? Bate cu pumnul în masă Bródy.
+- Key: brody_arrives
+  Value: |
+    Sándor Bródy. Trebuie să fim circumspecţi cu el. Este simandicos, nu bea apă simplă de la robinet. Aducem apă de izvor special pentru el.
+- Key: brody_accepts
+  Value: |
+    În dumneata pot avea încredere mereu, spune zâmbind Bródy.
+- Key: krudy_fav
+  Value: |
+    Bere călâie la halbă
+- Key: krudy_refuses
+  Value: |
+    Nu-i nici bere și nici călâie. Ce să fac cu ea? întrebă Krúdy.
+- Key: krudy_arrives
+  Value: |
+    Iată-l pe Gyula Krúdy, excepțional maestru al prozei maghiare. E friguros, nu-i plac băuturile reci, dar o bere nu poate refuza.
+- Key: krudy_accepts
+  Value: |
+    Bere călâie! Preferata mea!, strigă Krúdy.
+- Key: szep_fav
+  Value: |
+    Omletă moale.
+- Key: szep_refuses
+  Value: |
+    Omletă moale. OMLETĂ. MOALE. se enervează Szép.
+- Key: szep_arrives
+  Value: |
+    Tocmai l-am văzut pe Ernő Szép! Este pionierul literaturii de cabaret. A cerut omletă moale. Sau acela e Gyula Szini?
+- Key: szep_accepts
+  Value: |
+    Servire de calitate internațională, vă spun eu! strigă Szép.
+- Key: karinthy_fav
+  Value: |
+    Cafea călduță cu multă spumă
+- Key: karinthy_refuses
+  Value: |
+    De gustoasă e gustoasă, dar călduță nu e, asta-i sigur! se așază trist pe locul său Karinthy.
+- Key: karinthy_arrives
+  Value: |
+    Acum a intrat Frigyes Karinthy! Sunt puțini scriitori mai prolifici. Suflet sensibil, dar cum se spune: spiritul se hrănește cu fum și cafea!
+- Key: karinthy_accepts
+  Value: |
+    Nu există nimic mai bun! exclamă Karinthy.
+- Key: osvat_fav
+  Value: |
+    Un mic dejun literar
+- Key: osvat_refuses
+  Value: |
+    Pardon, eu nu asta am comandat. Unde este mic-dejunul meu literar? își exprimă indignarea Osvát.
+- Key: osvat_arrives
+  Value: |
+    A sosit Ernő Osvát! Unul dintre viitorii redactori ai revistei Nyugat. Nu putem da greș! Cu siguranță va comanda un mic-dejun literar.
+- Key: osvat_accepts
+  Value: |
+    Ce amabil că v-ați adus aminte. Mulțumesc! se înveseli Osvát.
+- Key: osvat_refusal_1
+  Value: |
+    Mulțumesc, dar astăzi nu mi-e poftă. Duceți-l înapoi, vă rog, scâncește  Osvát.
+- Key: osvat_refusal_2
+  Value: |
+    Ciudat. Osvát și-a refuzat micul dejun. Este fără precedent. Să vedem ce s-a întâmplat cu farfuria lui.
+- Key: kis_irodalmi
+  Value: |
+    Un mic dejun literar. Era preferat de mulți scriitori pentru că ospătarul generos le servea adesea gratis sau pentru doar o poezie. Iată ce a refuzat Ernő Osvát:
+- Key: ham
+  Value: |
+    Şuncă.
+- Key: salami
+  Value: |
+    Salam.
+- Key: cheese
+  Value: |
+    Caşcaval.
+- Key: deadly_message
+  Value: |
+    Lui Ernő Osvát pentru sinceritatea lui <color=red>ucigătoare</color>
+- Key: discovering_note
+  Value: |
+    Un mesaj plin de ranchiună adresat lui Osvát. Să-l fi pus acolo ospătarul? Să fi fost otrăvit micul dejun? Trebuie să găsim mai multe indicii.
+- Key: nyugat_prints_0
+  Value: |
+    Șpaltul și varianta tipărită a primului număr din revista Nyugat, apărut în preziua decesului ospătarului.
+- Key: critique1
+  Value: |
+    Ce-i cu poezioara asta nepublicabilă, infantilă???
+- Key: critique2
+  Value: |
+    Nedeamnă!
+- Key: nyugat_prints_1
+  Value: |
+    Creația ospătarului a fost crunt descalificată!
+- Key: nyugat_prints_2
+  Value: |
+    Însă mesajul ucigător pentru Osvát nu putea fi din partea ospătarului. De ce să fi consumat mâncarea otrăvită de el însuşi?
+- Key: nyugat_prints_3
+  Value: |
+    O mai fi ocărât şi pe altcineva Osvát? Sau cineva a pus la suflet faptul că poezia ospătarului nu a văzut lumina tiparului?
+- Key: heirloom
+  Value: |
+    Acest ceas de buzunar era cel mai de preț obiect al ospătarului. Noroc că am reușit să-l păstrăm măcar pe acesta.
+- Key: mystery_woman
+  Value: |
+    Acesta este ospătarul în compania unei doamne. Oare ce importanță are acest lucru? Să vedem, poate scrie ceva pe spatele fotografiei.
+- Key: present_message
+  Value: |
+    Dragului meu frate, pentru cariera ta literară strălucită!
+
+    Malvina
+- Key: writing_on_back
+  Value: |
+    Ospătarul a primit cadou acest ceas de la draga lui soră, Malvina, în speranța unor lauri de poet. Dacă ar fi știut...
+- Key: secondary_headline
+  Value: |
+    S-a scos din Dunăre o femeie isterică
+- Key: secondary_article
+  Value: |
+    Ieri seara, trecătorii au observat pe malul Dunării o femeie năucă. Ea a privit îndelung în fața ei, apoi a intrat în Dunăre și s-a scufundat. Noroc că un polițist care patrula în apropiere a alergat după ea și a tras-o la mal. Malvina Fabula, guvernantă la o renumită familie de producători de chibrituri, a fost dusă imediat la ospiciul Lipótmező, unde este supusă terapiei de șoc.
+- Key: woman_in_the_water_0
+  Value: |
+    Un articol despre o altă tragedie. Femeia să fi fost sora ospătarului? O fi înnebunit auzind vestea morții fratelui său.
+- Key: woman_in_the_water_1
+  Value: |
+    Însă este imposibil să fi aflat vestea din ziar, căci cele două informații au apărut în același număr al cotidianului! Să mergem la ea la ospiciu!
+- Key: windows_of_lipot
+  Value: |
+    Acest superb vitraliu al capelei Ospiciului Regal Maghiar din Buda, denumit Lipótmező, este creația lui Miksa Róth.
+- Key: bad_writer
+  Value: |
+    Fratele meu este un poet prost.
+- Key: love_him
+  Value: |
+    Îmi iubesc fratele.
+- Key: good_writer
+  Value: |
+    Fratele meu este un poet bun.
+- Key: osvat_is_wrong
+  Value: |
+    Osvát greşeşte.
+- Key: osvat_must_die
+  Value: |
+    Osvát trebuie să plătească
+- Key: ending_1
+  Value: |
+    Ce tragedie! Văzând critica la adresa fratelui său, de mânie, sora poetului a vrut să-l otrăvească pe Ernő Osvát, cu fosfor obținut din chibrituri.
+- Key: ending_2
+  Value: |
+    Nici o clipă nu s-a gândit că Osvát va refuza micul dejun pe care apoi îl va consuma fratele său lihnit de foame, întrerupându-și firul vieții. Sărmana femeie și-a pierdut mințile pentru totdeauna.
+- Key: ending_3
+  Value: |
+    Un instrument frecvent de (sin)ucidere în acea epocă era fosforul alb obținut din chibrituri. Printre altele, vărsătura care lumina în întuneric indica intoxicarea cu fosfor. Mulți au murit până ce fosforul alb de pe bățul de chibrit s-a înlocuit cu fosforul roșu inofensiv.
+- Key: epilogue_1
+  Value: |
+    Deși povestea noastră este o ficțiune, cu exagerări specifice unei povești polițiste, prin oglindirea ei distorsionată oferă totuși un adevăr important despre Budapesta începutului de secol XIX: în acea perioadă literatura era a chestiune mortal de serioasă... Revista Nyugat şi-a păstrat statutul de atelier și forum al literaturii maghiare moderne în formare timp de treizeci și trei de ani, datorită strictelor criterii calitative ale unor redactori precum Osvát, dar și mediului spiritual prolific oferit de Cafeneaua New York și de alte cafenele literare. După cum spune ospătarul șef Ede în romanul lui Sándor Márai intitulat „Szindbád pleacă acasă”: „cafeneaua este mediul specific singular, complet nesănătos din punct de vedere medical sau al profesorului de sport, dar util din punct de vedere literar, căci aici scriitorii sunt nițel protejați de ispitele lumii, de atitudinea sfidătoare a funcționarilor și de rugozitatea financiarului; li se tocesc plămânii și inima din cauza nicotinei și a cafelei, dar le înflorește spiritul, ceea ce este mai important”.
+- Key: epilogue_2
+  Value: |
+    Cafeneaua New York a suferit daune în cel de-Al Doilea Război Mondial, fiind închisă în anul 1947. Ulterior a funcționat o perioadă ca magazin de articole sportive, apoi ca agenție de turism. De-abia în anul 1954 a redevenit cafenea, numindu-se Hungaria. În anul 2006 și-a recăpătat vechea denumire și își așteaptă clienții şi astăzi cu fastul său de odinioară.
+
+
+
+    Dacă vizitați Budapesta, vizitaţi neapărat și Cafeneaua New York. Fără teamă, căci micul dejun literar s-a scos de mult din meniu.
+- Key: credits
+  Value: |
+    Bazat pe ideea lui Orbán Gábor,
+
+
+
+    realizat la cererea Institutului Cultural Maghiar din Paris, de către:
+
+
+
+    Ágnes Bakk 
+
+    László András Halák
+
+    Dorottya Kovács 
+
+
+
+    Din partea Institutului Cultural Maghiar din Paris au colaborat:
+
+
+
+    Zita Bodnár 
+
+    Emma Bornai 
+
+    Orsolya Karinthi-Rébay 
+
+    Gábor Orbán
+
+
+
+
+
+    Parteneri:
+
+
+
+    Tű Fokán Művészeti Alapítvány
+
+    Moholy-Nagy Művészeti Egyetem
+
+
+
+
+
+    Citat literar: 
+
+
+
+    Márai Sándor: "Szinbád hazamegy" (Akadémiai kiadó, Helikon kiadó, 1992)
+
+
+
+
+
+    Muzica:
+
+
+
+    Esther Abrami - No.2 Remembering Her
+
+    Emmit Fenn - Allegro
+
+
+
+
+
+    Sound effects:
+
+
+
+    freesound.org
+
+
+
+
+
+    Imagini:
+
+
+
+    fortepan
+
+    arcanum
+
+    Budapest Főváros Levéltára
+
+    Magyar Földrajzi Múzeum
+
+    Somlai Gyula
+
+    Klösz György
+
+    Anantara New York Palace Budapest Hotel

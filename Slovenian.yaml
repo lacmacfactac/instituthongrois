@@ -1,0 +1,385 @@
+collection:
+- Key: next
+  Value: |
+    Naprej
+- Key: intro_button_next
+  Value: |
+    Naprej
+- Key: first
+  Value: |
+    Brez pretiravanja lahko rečemo, da je Budimpešta svojo današnjo podobo zadobila v zadnji četrtini 19. stoletja. Med letoma 1869 in 1894 se je število stavb v glavnem mestu praktično podvojilo. Iz tega obdobja izvirajo Madžarski parlament, Veliki bulvar (Nagykörút), Andrássyjeva avenija (Andrássy út), Elizabetin in Margaretin most, Zahodna železniška postaja (delo arhitekturnega biroja Gustava Eiffla), zgradba Opere …
+- Key: second
+  Value: |
+    Ob obeležbi tisočletnice obstoja madžarske države (1896) je bila otvorjena prva linija budimpeške podzemne železnice, ki je bila hkrati prva podzemna železnica celinske Evrope. Sad te »gradbene mrzlice« je tudi Palača New York (1894), ki jo je načrtoval Alajos Hauszmann, ki je sicer vodil tudi prenovo Budimskega gradu. Naročnik, neka ameriška zavarovalniška družbe, je arhitektu (v okviru sredstev) pustila povsem proste roke. Za realizacijo kavarne, ki je umeščena v bližino najrazkošnejših predelov eklektične palače, so bili uporabljeni brezčasni materiali, kot sta marmor in bron, strop pa krasijo freske.
+- Key: third
+  Value: |
+    Tekom 90. let 19. stoletja je ta kavarna pridobila poseben pomen znotraj literarnih krogov, za kar so zagotovo zaslužni njeni glavni natakarji, veliki ljubitelji književnosti, ki so revne pisatelje oskrbovali s pisalnimi potrebščinami in posojili. Literarne revija Nyugat, ena ključnih literarnih revij 20. stoletja, prvič izdana leta 1908, je nastajala praktično ob marmornatih mizah kavarne New York. Ob tem so kavarno radi obiskovali tudi predstavniki drugih umetnosti, med drugimi gledališčniki, skladatelji in slikarji, velja pa tudi za zibelko madžarske kinematografije: tu so se rodile prve strokovne filmske revije, tu je pogodbo za prvo filmsko vlogo podpisala zvezda nemega filma Vilma Bánky, tu je Mihály Kertész (kasnejši Michael Curtiz, režiser filma Casablanca) naznanil, da odhaja v tujino ...
+- Key: fourth
+  Value: |
+    Kavarna, odprta noč in dan (katere ključe naj bi po legendi vrgli v Donavo), ki ni ponujala samo mirnega ustvarjalnega okolja, temveč tudi mesto, kjer je bilo po potrebi ob mizah možno tudi malce odspati, je svoja vrata prvič zaprla leta 1916. Od takrat dalje se je vedno znova odpirala, z različnimi vodstvi in pod različnimi imeni.
+- Key: baggage_opening_0
+  Value: |
+    Ta kovček je del zapuščine madžarskega zasebnega detektiva, ki je v 30. letih emigriral v Pariz.
+- Key: baggage_opening_1
+  Value: |
+    Ekipa Madžarskega kulturnega inštituta v Ljubljani potrebuje vašo pomoč pri analizi njegove vsebine.
+- Key: baggage_opening_3
+  Value: |
+    Začnimo s časopisnim člankom iz leta 1908, morda se tu skriva kakšen namig.
+- Key: pesti_hirlap
+  Value: |
+    PESTI HÍRLAP
+- Key: main_headline
+  Value: |
+    Tragedija v kavarni NEW YORK
+- Key: main_article
+  Value: |
+    Včeraj so v jutranjih urah našli mrtvega Jánosa Fabulo, natakarja Kavarne New York.
+    Mladenič, ki je veljal za desno roko glavnega natakarja Jeana, ni trpel za nobeno kronično boleznijo. Policija <b>sumi, da je šlo za zastrupitev</b>, edina priča njegove smrti je <b>preostanek njegovega zajtrka</b>. 
+    Od svojega umrlega člana se poslavlja Državno strokovno društvo glavnih in plačilnih natakarjev, za svojim bratom žaluje sestra Malvin.
+- Key: before_entering_crime_scene
+  Value: |
+    Nenavaden primer. Razglejmo se po kraju zločina, morda naletimo na kakšen indic.
+- Key: body
+  Value: |
+    János Fabula, nesrečni natakar. Zunanjih sledi ni, žrtev je pred smrtjo zaužila zajtrk. Od tu hipoteza o tem, da so ga zastrupili.
+- Key: oven
+  Value: |
+    Plinski štedilnik. Zagotovo ni povzročil zastrupitve s plinom. Lahko pa na njem skuhate odlično kavo.
+- Key: kitchenware
+  Value: |
+    Posoda. Za kuhinjo nič nenavadnega, ni pa ravno idealno kot morilsko orožje.
+- Key: counter
+  Value: |
+    Kuhinjski pult. Nič takšnega ni, kar ne bi sodilo nanj.
+- Key: lights_off_vomit_glows
+  Value: |
+    Svetleči se izbljuvek? To pa ni ravno vsakdanja stvar. Kaj bi ga lahko povzročilo?
+- Key: lets_walk
+  Value: |
+    Rekonstruirajmo natakarjevo jutranjo rutino, morda nam bo kaj padlo v oči.
+- Key: boarding_the_sub_1
+  Value: |
+    Natakar je stanoval poleg Városligeta, na delo pa je hodil s prvo podzemno linijo na celini, ki se ropotaje vije med mestnimi znamenitostmi. Škoda, da jih izpod zemlje ni mogel videti.
+- Key: boarding_the_sub_2
+  Value: |
+    Medtem ko so nad zemljo mimo drvele mestne znametnosti, si je natakar dolgčas na poti preganjal s kovanjem rim.
+- Key: szechenyi_station_name
+  Value: |
+    Terme Széchenyi (Széchenyi fürdő)
+- Key: szechenyi_info
+  Value: |
+    Budimpešta je edina prestolnica, v kateri najdemo 118 termalnih vrelcev in vodnjakov. Prve termne je zgradil rimski cesar Septimij Sever leta 201. Ob termalnih vrelcih vzdolž Donave pa sta taborila tudi hunski kralj Atila in Árpád, vladar iz časa naselitve Madžarov v Panonsko nižino. Iz časa turške nadvlade so se ohranile 4 terme. <b>Terme Széchenyi</b> so začeli graditi leta 1909, v stilu, ki spominja na renesančno katedralo.
+- Key: hosok_station_name
+  Value: |
+    Trg junakov (Hősök tere)
+- Key: hosok_info
+  Value: |
+    <b>Trg junakov</b> je bil zgrajen ob tistočletnici države leta 1896 in predstavlja spomenik tisočletni zgodovini Madžarov. Trg krasijo kipi enajstih emblematičnih zgodovinskih osebnosti, sredi trga pa je postavljen obelisk s kipom nadangela Gabrijela, ki drži križ in krono. Po legendi naj bi se nadangel Gabrijel v snu prikazal sv. Štefanu, prvemu madžarskemu kralju, in mi izročil sveto krono.
+- Key: bajza_station_name
+  Value: |
+    Bajza utca
+- Key: bajza_info
+  Value: |
+    V Jagodnem vrtu (Epreskert), ki ga obdaja <b>Bajza utca</b>, so mestne oblasti od leta 1882 odprle umetniške šole. Pri zasnovi tega prostora je glavno vlogo odigral kipar Alajos Stróbl, ki ob glasu jutranjega roga jaše z vrta, organizira plese v maskah in s svojimi gojenci uprizarja dogodke iz zgodovine, medtem ko se po vrtu se sprehajajo opice, pavi, srne in štorkje.
+- Key: kodaly_station_name
+  Value: |
+    Kodály körönd
+- Key: kodaly_info
+  Value: |
+    Skladatelj in muzikolog <b>Zoltán Kodály</b> je utiral pot raziskovanju in zbiranju ljudske glasbene zapuščine. Kodály je s svojim delom na področju glasbene pedagogike prenovil glasbeno vzgojo na Madžarskem. Njegov moto je bil: »Naj glasba pripada vsakomur!«. Glasbeno vzgojo je treba začeti zgodaj, pri čemer je najpomembnejše petje, gradivo pa naj bo materni jezik vsakogar: ljudska glasba.
+- Key: voromartyutca_station_name
+  Value: |
+    Vörösmartyjeva ulica (Vörösmarty utca)
+- Key: vorosmarty_utca_info
+  Value: |
+    Na vogalu <b>Vörösmartyjeve ulice</b> in Andrássyjeve avenije stoji zgradba, v katero se je leta 1879 preselila Madžarska kraljeva glasbena akademija. Franc Liszt (1811–1886) je tam pro bono poučeval učence po učnem načrtu, ki ustreza ravni današnjih mojstrskih tečajev. Zadnje prebivališče Liszta v prestolnici so preoblikovali v muzej, kjer so na ogled glasbila, ki jih je skladatelj zapustil akademiji.
+- Key: oktogon_station_name
+  Value: |
+    Oktogon
+- Key: oktogon_info
+  Value: |
+    Na <b>Oktogonu</b>, trgu osemkotne zasnove, se križata Andrássyjeva akademija in več kot 4000 metrov dolg Veliki bulvar (Nagykörút), dve največji stvaritvi mestne arhitekture 19. stoletja. Slednji naj bi po združitvi Budima, Pešte in Óbude (1873) povezal avenije hitro razvijajočega se mesta. Tu je leta 1887 svojo vožnjo nastopil prvi tramvaj.
+- Key: opera_station_name
+  Value: |
+    Opera
+- Key: opera_info
+  Value: |
+    <b>Madžarska državna opera</b> je bila zgrajena po načrtih Miklósa Ybla med letoma 1875 in 1884 v neorenesančnem slogu. Na njeni slavnostni otvoritvi sta bila prisotna tudi cesar Franc Jožef in skladatelj Ferenc Erkel, avtor uglasbitve madžarske državne himne. Prva zlata dobra Opere se povezuje z Gustavom Mahlerjem, ki je med letoma 1888 in 1891 vodil to ustanovo.
+- Key: bajcsy_station_name
+  Value: |
+    Avenija Bajcsy-Zsilinszky (Bajcsy-Zsilinszky út)
+- Key: bajcsy_info
+  Value: |
+    Z ulice <b>Bajcsy-Zsilinszky út</b> se odcepi Andrássyjeva avenija, »budimpeške Elizejske poljane«, ki mestno središče povezuje z Városligetom. Avenijo so ob slovesnosti otvorili leta 1876. Sprva je bila poimenovana Sugár-út (»Sončna avenija«), nato pa so jo leta 1885 poimenovali po grofu Gyuli Andrássyju. Na njej najdemo dvorce in hiše v neorenesančnem in eklektičnem slogu, na začetku pa je bila tlakovana z lesenimi tlakovci.
+- Key: deak_station_name
+  Value: |
+    Trg Ferenca Deáka (Deák Ferenc tér)
+- Key: deak_info
+  Value: |
+    Evangeličansko šolo na <b>Trgu Ferenca Deáka</b> je obiskoval Sándor Petőfi, največji madžarski pesnik 19. stoletja. 15. marca 1848 je v kavarni Pilvax, zbirališču mladine reformistične struje, deklamiral »Narodno pesem«. Bil je pomembna osebnost revolucije in osvobodilnega boja let 1848–1849. Padel je na bojišču, v boju proti vojski ruskega carja, ki je hitela na pomoč avstrijskemu cesarju.
+- Key: vorosmartyter_station_name
+  Value: |
+    Vörösmartyjev trg (Vörösmarty tér)
+- Key: vorosmarty_ter_info
+  Value: |
+    Na <b>Vörösmartyjevem trgu</b> najdemo slavno slaščičarno, ki jo je leta 1884 od Henrika Kuglerja prevzel Emil Gerbeaud. Ponudbo je razširil z masleno kremo, čajnim pecivom, sladoledom ter vpeljal slavne mačje jezike ter konjakove češnje. Ob praznovanju tisočletnice madžarske države se ob prisotnosti cesarja Franca Jožefa I. in kraljice Elizabete (Sissi) v Városligetu odpre Gerbeaudov paviljon.
+- Key: missed_stop_0
+  Value: |
+    Naš natakar se je kot po navadi tako zagledal v marmorne stvaritve, da je zamudil postajo na Oktogonu in se tega zavedel šele, ko je prispel na Vörösmartyjev trgu. Tisto jutro je zamudil na delo in tako ujezil glavnega natakarja Jeana.
+- Key: missed_stop_1
+  Value: |
+    V svoji naglici ni nikoli uspel zabeležiti pesmi, ki so med vožnjo na podzemni nastajale v njegovi glavi, in jih ponuditi v presojo literatom v kavarni.
+- Key: line1
+  Value: |
+    Lačni pesnik iz svoje postelje ljubezni se poda
+- Key: line2
+  Value: |
+    kruli mu v želodcu, po metroju že drdra
+- Key: line3
+  Value: |
+    pesniki sanjajo o zajtrku, dokler jim ne zasije luna
+- Key: line4
+  Value: |
+    ti slavni, lačni pesniki, ki nikdar ne plačajo računa
+- Key: line5
+  Value: |
+    zlovešče misli prihajajo na dan
+- Key: line6
+  Value: |
+    doma pojesti zajtrk – kaj ni to bil plan?
+- Key: sign_it
+  Value: |
+    Podpišem!
+- Key: poem_done_1
+  Value: |
+    Revež je mislil, da mu bodo ta prvenec objavili v reviji Nyugat, ki združuje mlade talente. Prva številka je šla v tisk le en dan pred natakarjevo smrtjo.
+- Key: waiters_task
+  Value: |
+    Za natakarja ni večjega izziva, kot spomniti se naročila, še preden ga gost pove. Šefe Jean je našega natakarja dobro podučil. Poglejmo, če bo zmogel!
+- Key: szini_fav
+  Value: |
+    Dve štiriminutni jajci v podstavku
+- Key: szini_refuses
+  Value: |
+    Dve štiriminutni jajci v podstavku. To naročam vsako jutro. Si je to res tako težko zapomniti? – godrnja Szini.
+- Key: szini_arrives
+  Value: |
+    Gyula Szini, ki je odkril Osváta. Nič ne ovinkari. Naroča mehko kuhana jajca. V podstavku. Ali pa je bil tisto Ernő Szép?
+- Key: szini_accepts
+  Value: |
+    Zajtrk prvakov! – se zadere Szini.
+- Key: brody_fav
+  Value: |
+    Mlečno kavo, žemljico, kislo vodo!
+- Key: brody_refuses
+  Value: |
+    Kava, žemljica in kisla voda? Pa kaj je to tako težkega? – Bródy živčno trka po mizi.
+- Key: brody_arrives
+  Value: |
+    Sándor Bródy. Previdno z njim. Lik se precej nosi, ne bo pil kar navadne vode iz pipe. Prinesimo mu jo posebej.
+- Key: brody_accepts
+  Value: |
+    Vam lahko človek res vedno zaupa – se nasmehne Bródy.
+- Key: krudy_fav
+  Value: |
+    Vrček mlačnega piva
+- Key: krudy_refuses
+  Value: |
+    To ni niti pivo, niti ni mlačno. Kaj naj s tem? – vpraša Krúdy.
+- Key: krudy_arrives
+  Value: |
+    Evo, tu je Gyula Krúdy, mojster madžarske proze, ki mu ni para. Zmrzljiv tip, ne mara hladnih pijač, a piva ne bo nikoli zavrnil.
+- Key: krudy_accepts
+  Value: |
+    Mlačno pivo! To imam najraje! – vzklikne Krúdy.
+- Key: szep_fav
+  Value: |
+    Umešana jajca
+- Key: szep_refuses
+  Value: |
+    Umešana jajca. UMEŠANA. JAJCA. – sopiha Szép.
+- Key: szep_arrives
+  Value: |
+    Ravno sem videl Ernőja Szépa. Njega, ki je utiral pot kabarejske književnosti. Umešana jajca želi. Ne … ali pa je bil to Gyula Szini?
+- Key: szep_accepts
+  Value: |
+    Postrežba na svetovnem nivoju, vam pravim! – zakliče Szép.
+- Key: karinthy_fav
+  Value: |
+    Mlačna kava z veliko smetane
+- Key: karinthy_refuses
+  Value: |
+    Okusna je, ni pa to mlačna kava, to zagotovo ni – izjavi Karinthy in se žalostno pogrezne nazaj na svoje mesto.
+- Key: karinthy_arrives
+  Value: |
+    Ravno je vstopil Frigyes Karinthy. Malo je piscev, ki so bolj plodoviti od njega. Občutljiva dušica, ampak, kot pravijo: duh živi od dima in kave!
+- Key: karinthy_accepts
+  Value: |
+    Ničesar boljšega od tega ni – zakliče Karinthy.
+- Key: osvat_fav
+  Value: |
+    Mali književniški
+- Key: osvat_refuses
+  Value: |
+    No, prosim. Tega nisem naročil. Kje je moj mali književniški? – nejevoljno godrnja Osvát.
+- Key: osvat_arrives
+  Value: |
+    Prišel je Ernő Osvát. Eden od bodočih urednikov Nyugata. Zdaj morda vse teči kot po maslu. Naročil bo mali književniški zajtrk, tu ni druge.
+- Key: osvat_accepts
+  Value: |
+    Kako lepo, da ste se spomnili. Hvala! – Osvátu se je zvedril obraz.
+- Key: osvat_refusal_1
+  Value: |
+    Hvala lepa, ampak danes ne bi tega. Bodite tako dobri in ga vrnite v kuhinjo – zastoka Osvát.
+- Key: osvat_refusal_2
+  Value: |
+    Nenavadno. Osvát je zavrnil svoj zajtrk. To se še ni zgodilo. Preverimo, morda bomo ugotovili, kaj se je zgodilo z zajtrkom.
+- Key: kis_irodalmi
+  Value: |
+    Mali književniški zajtrk. Tega je Ernő Osvát poslal nazaj v kuhinjo. To je najljubši zajtrk mnogih piscev, ker ga velikokrat dobijo zastonj, ali jim ga velikodušni natakar postreže v zameno za samo en verz. Sestavljen je iz ...
+- Key: ham
+  Value: |
+    šunke.
+- Key: salami
+  Value: |
+    Salame.
+- Key: cheese
+  Value: |
+    In sira.
+- Key: deadly_message
+  Value: |
+    Ernőju Osvátu za <color=red>ubijalsko</color> iskrenost
+- Key: discovering_note
+  Value: |
+    Maščevalno sporočilo za Osváta! Ga je morda tam pustil natakar? Je možno, da je bil zajtrk zastrupljen? Najti bo treba več sledi.
+- Key: nyugat_prints_0
+  Value: |
+    Dan pred natakarjevo smrtjo sta izšla krtačni odtis in tiskana oblika prve številke revije Nyugat.
+- Key: critique1
+  Value: |
+    Čigava je ta grozljiva, otročja pesem???
+- Key: critique2
+  Value: |
+    Čisto za nič!
+- Key: nyugat_prints_1
+  Value: |
+    Natakarjevo delo so precej raztrgali!
+- Key: nyugat_prints_2
+  Value: |
+    Ampak natakar ni mogel biti tisti, ki je Osvátu namenil morilsko sporočilo. Zakaj bi namreč pojedel jed, ki jo je sam zastrupil?
+- Key: nyugat_prints_3
+  Value: |
+    Ali je Osváta pogubilo kaj drugega? Ali je komu strlo srce, da natakarjeve pesmi niso hoteli izdati?
+- Key: heirloom
+  Value: |
+    Tale žepna ura je bila natakarjevo največje imetje – še dobro, da se ni izgubila.
+- Key: mystery_woman
+  Value: |
+    Natakar v družbi dam. Kaj bi to lahko pomenilo? Poglejmo, morda je kaj napisano na hrbtni strani slike.
+- Key: present_message
+  Value: |
+    Mojemu dragemu bratcu, na bleščečo pesniško pot!
+    Malvin
+- Key: writing_on_back
+  Value: |
+    Natakar je dobil to uro v dar od svoje sestre Malvin, v upanju na pesniške lovorike. Ko bi le vedel ...
+- Key: secondary_headline
+  Value: |
+    Histerično žensko rešili iz Donave
+- Key: secondary_article
+  Value: |
+    Sinoči v poznih urah je pozornost mimoidočih pritegnila zmedena gospodična. Ženska je dolgo časa prazno strmela predse, nato pa je z nabrežja zakorakala v Donavo in izginila pod gladino. K sreči je za njo krenil policist, ki se je nahajal v bližini, in jo zvlekel na nabrežje. Izkazalo se je, da gre za Malvin Fabula, guvernanto pri slavni družni tovarnarjev vžigalic. Ponesrečenko so nemudoma odpeljali v psihiatrijo v Liptomezőju, kjer je bila podvržena šok terapiji.
+- Key: woman_in_the_water_0
+  Value: |
+    Ta članek govori o neki drugi tragediji. Je ta ženska morda natakarjeva sestra? Je možno, da je vsled bratove smrti izgubila pamet?
+- Key: woman_in_the_water_1
+  Value: |
+    Ampak o njegovi smrti ni mogla izvedeti iz časopisa, saj so o tem pisali v isti številki. Obiščimo psihiatrijo in raziščimo stvar!
+- Key: windows_of_lipot
+  Value: |
+    To je čudovito zasnovano okno madžarske kraljeve psihiatrične bolnišnice Liptomező v Budimu, ki ga je izdelal Miksa Róth.
+- Key: bad_writer
+  Value: |
+    Moj bratec je slab pesnik
+- Key: love_him
+  Value: |
+    Rada imam svojega brata
+- Key: good_writer
+  Value: |
+    Moj bratec je dober pesnik
+- Key: osvat_is_wrong
+  Value: |
+    Osvát se moti
+- Key: osvat_must_die
+  Value: |
+    Osvát bo plačal
+- Key: ending_1
+  Value: |
+    Kakšna tragedija! Natakarjeva neuravnovešena sestra je, ko je videla, da je bil njen mlajši brat deležen kritike, iz maščevanja hotela zastrupiti Ernőja Osváta z vžigaličnim fosforjem.
+- Key: ending_2
+  Value: |
+    A ni računala s tem, da bo Osvát svoj zajtrk poslal nazaj, namesto njega pa ga bo pojedel njen lačni brat in s tem zapečatil svojo usodo. Ubogi sestri se je po tem dokončno zmešalo.
+- Key: ending_3
+  Value: |
+    Pogosto (samo)morilsko sredstvo te dobe je bil beli fosfor z vžigalic. Na zastrupitev s fosforjem med drugim kaže izbljuvek žrtve, ki se sveti v temi. Mnogo ljudi je moralo umreti, dokler niso belega fosforja na glavici vžigalic zamenjali z neškodljivim rdečim.
+- Key: epilogue_1
+  Value: |
+    Čeprav je naša zgodba izmišljena in vsebuje številna pretiravanja, značilna za kriminalke, skozi čudežno zrcalo vendarle kaže nekaj resničnega in ubeseduje nekaj, kar je zelo značilno za Budimpešto s preloma stoletij: književnost so v tistem obdobju jemali smrtno resno ... Revija Nyugat je v 33 letih uspela postati delovišče in forum za porajajočo se moderno madžarsko književnost, zahvaljujoč strogim zahtevam glede kakovosti, ki so jih postavljali Osvátu podobni uredniki, in plodovitem kreativnem okolju kavarne New York in drugih kavarn, ki so jih obiskovali književniki tistega časa. Z besedami glavnega natakarja Edeja v romanu »Sindbad gre domov« Sándorja Máraija: »kavarne so, če vprašate zdravnika ali učitelja telovadbe, skrajno nezdravo okolje, a s stališča književnika gre za nadvse koristen prostor, kjer so literati vsaj malo bolj zaščiteni pred krutostjo sveta, pred šikaniranjem uradnikov in denarnimi tegobami. Pljuča in srca jim propadajo pod težo nikotina in črne kave, drži, a duše jim cvetijo, in to je tisto, kar je pomembno.«
+- Key: epilogue_2
+  Value: |
+    Zgradba kavarne New York je bila v času druge svetovne vojne poškodovana, leta 1947 pa so jo zaprli.  Zatem je v prostoru nekaj časa delovala trgovina s športnimi artikli, nato pa potovalna agencija. Čakati je bilo treba vse do leta 1954, da se je tam spet odprla kavarna, tokrat pod imenom Hungária. Od leta 2006 spet deluje pod izvirnim imenom in goste pričaka v vsem svojem nekdanjem razkošju. 
+    Kdor obišče Budimpešto, naj se v vsakem primeru ustavi tudi tu. Ničesar se ni treba bati; mali književniški je že nekaj časa nazaj izginil z jedilnega lista.
+- Key: credits
+  Value: |
+    Igro so po ideji Gáborja Orbána
+
+    za Madžarski kulturni inštitut v Parizu pripravili:
+
+    Bakk Ágnes
+    Halák László András
+    Kovács Dorottya
+
+
+    Sodelavci s strani Madžarskega kulturnega inštituta v Parizu: 
+
+    Bodnár Zita
+    Bornai Emma
+    Karinthi-Rébay Orsolya
+    Orbán Gábor
+
+
+    Sodelujoči partnerji:
+
+    Tű Fokán Művészeti Alapítvány
+    Moholy-Nagy Művészeti Egyetem
+
+
+    Odlomek iz književnega dela:  
+
+    Márai Sándor: "Szinbád hazamegy" (Akadémiai kiadó, Helikon kiadó, 1992)
+
+
+    Glasba:
+
+    Esther Abrami - No.2 Remembering Her
+    Emmit Fenn - Allégro
+
+
+    Zvočni učinki:
+
+    freesound.org
+
+
+    Slike:
+
+    fortepan
+    arcanum
+    Budapest Főváros Levéltára
+    Magyar Földrajzi Múzeum
+    Somlai Gyula
+    Klösz György
+    Anantara New York Palace Budapest Hotel
+
+    Prevod v slovenščino:
+    Blaž Božič

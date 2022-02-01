@@ -1,0 +1,392 @@
+collection:
+- Key: next
+  Value: |
+    Avançar
+- Key: intro_button_next
+  Value: |
+    Avançar
+- Key: first
+  Value: |
+    Não é exagero constatar que a estrutura urbana de Budapeste ganhou a sua forma atual no último quartil do século XIX. Entre os anos 1869 e 1894, o número de prédios da capital duplicou-se. Foi nesta época que inauguraram o Parlamento, a Grande Circular, a Avenida Andrássy, a Ponte Elisabeth, a Ponte Margarida, a Estação do Ocidente (trabalho do escritório de Gustave Eiffel), a Ópera…
+- Key: second
+  Value: |
+    O primeiro metrô de Budapeste foi inaugurado no âmbito das celebrações do milenário da Hungria (1896), constituindo a primeira linha ferroviária subterrânea da Europa continental. O Palácio New York (1894), projeto do arquiteto reconstrutor do Palácio de Buda, Alajos Hauszmann, foi também produto desta “febre construtora”. O dono, uma companhia de seguros estadunidense, deu total liberdade orçamentária para o arquiteto. A parte mais pomposa deste eclético palácio é o seu café, onde empregaram só materiais duradouros na construção como mármore e bronze, além de decorar o teto com afrescos.
+- Key: third
+  Value: |
+    O café se converteu num sítio literário a partir do final do século graças aos seus garçons apreciadores do bom verso. Eram eles que davam instrumentos de escrita e empréstimos para os escritores pobres. As edições da revista de destaque no século XX, a Nyugat (Ocidente), fundada em 1908, nasciam nas mesas de mármore do New York. Os representantes das outras artes, como atores, compositores e pintores também frequentavam o lugar, que também é considerado o berço da indústria cinematográfica húngara. Foi aqui que nasceram as primeiras revistas cinematográficas; onde Vilma Bánky, atriz famosa dos filmes mudos da época, assinou seu primeiro contrato; e onde Mihály Kertész (diretor de Casablanca, que mudaria o nome para Michael Curtiz) anunciou que iria emigrar…
+- Key: fourth
+  Value: |
+    O local, permanecia aberto dia e noite e, segundo a lenda, sua chave tinha sido jogada no Danúbio. Ali os artistas podiam não apenas dedicar-se à atividade criativa, mas também tirar um cochilo de vez em quando debruçando-se sobre as mesas. O café fechou as portas pela primeira vez em 1916 e depois voltou a abrir várias vezes com novos nomes e sob novas gerências.
+- Key: baggage_opening_0
+  Value: |
+    Esta mala faz parte do acervo pessoal de um detetive particular húngaro que emigrou para Paris nos anos trinta.
+- Key: baggage_opening_1
+  Value: |
+    O Consulado-Geral da Hungria em São Paulo pede a sua ajuda para resolver o enigma do conteúdo da mala.
+- Key: baggage_opening_3
+  Value: |
+    Comecemos por um artigo de 1908, que talvez nos dê alguma orientação.
+- Key: pesti_hirlap
+  Value: |
+    PESTI HÍRLAP (Noticiário de Pest)
+- Key: main_headline
+  Value: |
+    Tragédia no Café NEW YORK
+- Key: main_article
+  Value: |
+    Foi encontrado morto ontem de manhã o garçom do Café New York, János Fabula. 
+    O jovem, considerado a mão direita do maître Jean, não sofria de nenhuma doença crônica. A polícia suspeita  <b> envenenamento </b>. A única testemunha da sua morte é seu café da manhã <b> meio consumido </b>.
+    A irmã mais velha de János Fabula está em luto. O Sindicato Nacional de Maîtres trata o falecimento como um entre os seus.
+- Key: before_entering_crime_scene
+  Value: |
+    Uma morte peculiar. Investiguemos a cena para ver se encontramos algo.
+- Key: body
+  Value: |
+    János Fabula, o garçom que teve um fim infeliz. Não há indícios de agressão física, porém a vítima devolveu o café da manhã que consumiu. Daí a hipótese do envenenamento.
+- Key: oven
+  Value: |
+    Fogão. Certeza que não foi a causa de uma intoxicação de gás. É ideal para fazer um ótimo café.
+- Key: kitchenware
+  Value: |
+    Utensílios de cozinha. Nada surpreendentes numa cozinha. Não são bem aptos para cometer um homicídio.
+- Key: counter
+  Value: |
+    Balcão de cozinha. Nada que aí não devesse estar.
+- Key: lights_off_vomit_glows
+  Value: |
+    Suco gástrico fluorescente? Não é algo habitual! Qual será a causa da presença dele?
+- Key: lets_walk
+  Value: |
+    Reconstruamos o programa matinal do garçom, talvez notemos algo.
+- Key: boarding_the_sub_1
+  Value: |
+    O garçom morava ao lado do Bosque Municipal, pegava a primeira linha de metrô do continente europeu para ir trabalhar, passando por baixo dos principais monumentos da cidade. Pena não os ter visto do subsolo.
+- Key: boarding_the_sub_2
+  Value: |
+    Afastava o tédio da viagem inventando versos bacanas, enquanto os monumentos desfilavam na superfície.
+- Key: szechenyi_station_name
+  Value: |
+    Banho Termal Széchenyi
+- Key: szechenyi_info
+  Value: |
+    Budapeste é uma capital especial que tem 118 fontes de água termal. Os primeiros banhos foram construídos à época de Septimius Severus, em 201. Átila, o Rei dos Hunos, e Árpád, chefe dos pioneiros húngaros, também acamparam junto às fontes próximas ao Danúbio. Da época turca ainda restam 4 banhos. A construção do <b>Banho Széchenyi</b> começou em 1909 num estilo que alude a uma catedral renascentista.
+- Key: hosok_station_name
+  Value: |
+    Praça dos Heróis
+- Key: hosok_info
+  Value: |
+    A <b>Praça dos Heróis</b> foi inaugurada no ano 1896 nas festas do Milenário da Hungria, homenageando os mil anos de história do povo húngaro. Nela se encontram as estátuas de 14 personagens emblemáticas da história do país, no meio um obelisco em cujo topo o Arcanjo Gabriel segura uma cruz e a coroa. Reza a lenda que o arcanjo apareceu no sonho do primeiro rei húngaro, Santo Estevão, oferecendo-lhe a Santa Coroa.
+- Key: bajza_station_name
+  Value: |
+    Rua Bajza
+- Key: bajza_info
+  Value: |
+    No Jardim dos Morangos delimitado pela <b>Rua Bajza</b> a prefeitura da capital estabeleceu uma Escola de Arte no ano 1882. O escultor Alajos Stróbl teve um papel primordial na instalação da instituição. Ele saía montado a cavalo todas as manhãs ao som de trompas, organizava bailes mascarados, reproduzia cenas históricas com seus alunos. No jardim havia macacos, pavões, veados e cegonhas.
+- Key: kodaly_station_name
+  Value: |
+    Praça Kodály
+- Key: kodaly_info
+  Value: |
+    O compositor e músico <b>Zoltán Kodály</b> foi um dos pioneiros da pesquisa e coleção de canções populares húngaras junto a Béla Bartók. Kodály reformou todo o sistema de ensino da música na Hungria com o seu novo método de pedagogia. «Que a música seja de todos!» - dizia. O ensino musical tem que começar nas creches, sendo o instrumento principal a própria voz, e o material de ensino a linguagem materna musical de todos nós: a música folclórica.
+- Key: voromartyutca_station_name
+  Value: |
+    Rua Vörösmarty
+- Key: vorosmarty_utca_info
+  Value: |
+    A Academia Real de Música da Hungria mudou-se para o prédio na esquina da <b>Rua Vörösmarty</b> e a Avenida Andrássy em 1879. Ferenc Liszt (1811-1886) ensinava seus alunos de graça e de acordo com o método dos cursos avançados de hoje em dia. A última casa dele em Budapeste agora funciona como Memorial Ferenc Liszt, onde hoje guardam os instrumentos, livros e partituras doados por ele para a Academia de Música.
+- Key: oktogon_station_name
+  Value: |
+    Oktogon
+- Key: oktogon_info
+  Value: |
+    As duas maiores obras do séc. XIX na cidade, a Avenida Andrássy e a Grande Circular, com mais de 4000 metros, se cruzam numa praça com oito lados, a <b>Oktogon</b>. A Grande Circular conecta as avenidas radiais principais da nova cidade em constante crescimento e criada através da união de Buda, Peste e Óbuda (1873). É nesta avenida que começa a funcionar a primeira linha de bonde em 1887.
+- Key: opera_station_name
+  Value: |
+    Ópera
+- Key: opera_info
+  Value: |
+    A <b>Ópera</b> Estatal Húngara foi construída entre 1875 e 1884, projetada por Miklós Ybl em estilo neorrenascentista. O Imperador Francisco José participou da inauguração festiva que aconteceu sob a regência de Ferenc Erkel, compositor da melodia do hino nacional húngaro. A primeira época dourada da Ópera de Budapeste foi marcada pela presença de Gustav Mahler, o seu primeiro diretor (1888 a 1891).
+- Key: bajcsy_station_name
+  Value: |
+    Avenida Bajcsy-Zsilinszky
+- Key: bajcsy_info
+  Value: |
+    A Avenida Andrássy, “a Champs-Élysées de Budapeste” é uma continuação da <b>Avenida Bajcsy-Zsilinszky</b> e conecta o centro da cidade ao Bosque Municipal. É inaugurada em 1876 em grande cerimônia. Primeiro recebe o nome de Avenida Radial, e depois, em 1885, o do Conde Gyula Andrássy. Nos dois lados foram erguidos prédios em estilo eclético-neorenascentista, e o seu pavimento coberto com cubos de madeira.
+- Key: deak_station_name
+  Value: |
+    Praça de Ferenc Deák
+- Key: deak_info
+  Value: |
+    O maior poeta húngaro do século XIX, Sándor Petőfi frequentava a escola luterana da <b>Praça Ferenc Deák</b>. No dia 15 de março de 1848 recitou o seu poema intitulado Canção Nacional no local predileto dos jovens reformistas, o Café Pilvax. Ele foi um dos protagonistas da Revolução e Insurreição Húngara de 1848-1849. Veio a falecer no campo de batalha lutando contra as tropas russas que vieram ao auxílio do imperador austríaco.
+- Key: vorosmartyter_station_name
+  Value: |
+    Praça Vörösmarty
+- Key: vorosmarty_ter_info
+  Value: |
+    O Sr Emil Gerbeaud assume a gerência da confeitaria da <b>Praça Vörösmarty</b> depois do Sr Henrik Kugler. Apareceram no cardápio os cremes amanteigados, os doces de chá e os sorvetes, e além disso introduz a língua de gato e o bombom de cereja com conhaque. O Pavilhão Gerbeaud é aberto no Bosque Municipal para receber o casal imperial Francisco José e a Rainha Elizabeth (Sissi).
+- Key: missed_stop_0
+  Value: |
+    Nosso garçom se perdia sempre tanto na criação que passava da estação Oktogon e só acordava na Praça Vörösmarty. Nesses dias ele chegava atrasado no trabalho se expondo assim à fúria do maître Jean.
+- Key: missed_stop_1
+  Value: |
+    Nunca deixou de anotar seus poemas inventados no metrô, os quais passava também para os escritores presentes no café para darem a sua opinião.
+- Key: line1
+  Value: |
+    Da cama do pequeno amor do poeta faminto
+- Key: line2
+  Value: |
+    Viaja de metrô com estômago vazio
+- Key: line3
+  Value: |
+    Sonha com o café dos poetas até receber um tapa
+- Key: line4
+  Value: |
+    Os escritores famosos e famintos que não pagam a conta
+- Key: line5
+  Value: |
+    Pensamentos sinistros pairam sobre ele
+- Key: line6
+  Value: |
+    Seu café de manhã ele sempre esquece
+- Key: sign_it
+  Value: |
+    Assino!
+- Key: poem_done_1
+  Value: |
+    O coitado pensava que com estas tentativas podia aparecer na revista Nyugat (Ocidente). Só que a primeira edição foi enviada para imprensa na véspera da sua morte.
+- Key: waiters_task
+  Value: |
+    Não existe desafio maior para um garçom do que adivinhar a encomenda antes de ouvi-la. O maître Jean ensinou bem o nosso garçom. Vamos ver então de que é que ele se lembra!
+- Key: szini_fav
+  Value: |
+    Dois ovos de quatro minutos servidos em copo
+- Key: szini_refuses
+  Value: |
+    Dois ovos de quarto minutos servidos em copo. Como isto todas as manhãs. Como é possível não lembrar? – resmungou Szini.
+- Key: szini_arrives
+  Value: |
+    Gyula Szini foi descoberto por Osvát. Nada de rodeos. Ele vai querer ovos moles no copo. Ou esse é o pedido de Ernő Szép?
+- Key: szini_accepts
+  Value: |
+    O café dos campeões – grita Szini.
+- Key: brody_fav
+  Value: |
+    Café com leite escuro com pão e água mineral de Parád
+- Key: brody_refuses
+  Value: |
+    Café, pão e água mineral de Parád. Por que isso é tão difícil de lembrar? – pergunta batendo na mesa Bródy.
+- Key: brody_arrives
+  Value: |
+    Sándor Bródy. Muito cuidado com ele. Um cara fresco, não bebe a simples água da torneira. Mandamos vir esta só para ele.
+- Key: brody_accepts
+  Value: |
+    Sempre posso confiar em você. – diz Bródy sorrindo
+- Key: krudy_fav
+  Value: |
+    Caneca de cerveja morna
+- Key: krudy_refuses
+  Value: |
+    Nem é cerveja, nem é morna. O que é que eu faço com isto? – pergunta Krúdy.
+- Key: krudy_arrives
+  Value: |
+    Vejamos Gyula Krúdy, mestre da prosa húngara. Friorento, não gosta de bebidas geladas, porém não nega uma cerveja.
+- Key: krudy_accepts
+  Value: |
+    Cerveja morna! Minha favorita! – exclama Krúdy.
+- Key: szep_fav
+  Value: |
+    Omelete macio
+- Key: szep_refuses
+  Value: |
+    Omelete macio. OMELETE. MACIO. – grita Szép enfurecido.
+- Key: szep_arrives
+  Value: |
+    Só agora que vi Ernő Szép! Pioneiro da literatura de cabaré. Costuma pedir omelete macio. Ou esse é o Gyula Szini?
+- Key: szep_accepts
+  Value: |
+    Serviço de primeira, juro! – exclama Szép.
+- Key: karinthy_fav
+  Value: |
+    Café morno com muita espuma
+- Key: karinthy_refuses
+  Value: |
+    Bom é, mas não é morno, isso eu garanto. – senta-se de novo na sua poltrona Karinthy entristecido.
+- Key: karinthy_arrives
+  Value: |
+    Agora entrou Karinthy! Tem poucos escritores mais produtivos que ele. Tem uma alma delicada, mas como diz o ditado: o fantasma vive de fumaça e café!
+- Key: karinthy_accepts
+  Value: |
+    Não tem nada melhor! – exclama Karinthy.
+- Key: osvat_fav
+  Value: |
+    Pequeno literário
+- Key: osvat_refuses
+  Value: |
+    Mas, pelo amor de Deus. Não foi isso que eu pedi. Cadê meu pequeno literário? – pergunta Osvát insatisfeito.
+- Key: osvat_arrives
+  Value: |
+    Chegou Ernő Osvát! Um dos futuros editores da revista Nyugat. Agora não podemos errar! Ele pedirá um pequeno literário, de certeza.
+- Key: osvat_accepts
+  Value: |
+    Que gentil ter lembrado disso. Obrigado! – diz Osvát com um sorriso no rosto.
+- Key: osvat_refusal_1
+  Value: |
+    Obrigado, mas hoje não me apetece. Leve-o de volta por gentileza. – murmura Osvát.
+- Key: osvat_refusal_2
+  Value: |
+    Estranho. Osvát recusou seu café da manhã. Não houve ainda exemplo para tal coisa. Vamos ver o que aconteceu com esse café.
+- Key: kis_irodalmi
+  Value: |
+    Um pequeno literário. Foi isto que Ernő Osvát recusou. Foi o favorito de muitos escritores, já que eles ganhavam de graça em troca de um poema de algum garçom generoso. Os ingredientes são…
+- Key: ham
+  Value: |
+    Presunto.
+- Key: salami
+  Value: |
+    Salame.
+- Key: cheese
+  Value: |
+    Queijo.
+- Key: deadly_message
+  Value: |
+    Para Ernő Osvát por sua sinceridade <color=red>assassina</color>
+- Key: discovering_note
+  Value: |
+    Uma mensagem motivada pela vingança para Osvát! Será que foi o garçom que colocou? Será que o café estava envenenado? Vamos ter que achar mais traços.
+- Key: nyugat_prints_0
+  Value: |
+    Um dia antes do falecimento do garçom saiu o primeiro exemplar impresso da revista Nyugat.
+- Key: critique1
+  Value: |
+    O que é este poema infantil inaceitável???
+- Key: critique2
+  Value: |
+    Indigno!
+- Key: nyugat_prints_1
+  Value: |
+    O verso do garçom foi bruscamente reprovado!
+- Key: nyugat_prints_2
+  Value: |
+    Mas não pode ter sido o garçom a deixar essa mensagem assassina para o Osvát. Por que teria consumido a comida por ele próprio envenenada?
+- Key: nyugat_prints_3
+  Value: |
+    Será que o Osvát criticava outras pessoas também? Ou alguém achou injusto o poema do garçom não ter sido publicado?
+- Key: heirloom
+  Value: |
+    Este relógio de bolso era o pertence mais valioso do garçom – que bom que se preservou.
+- Key: mystery_woman
+  Value: |
+    Este é o garçom na companhia de uma mulher. Será que tem algum significado? Vamos ver se tem algo escrito no verso.
+- Key: present_message
+  Value: |
+    Para meu amado irmão, à sua brilhante carreira de poeta!
+    Malvin
+- Key: writing_on_back
+  Value: |
+    O garçom havia ganhado o relógio de sua amada irmã, Malvin, na esperança ainda de se tornar um poeta reconhecido. Se tivesse sabido…
+- Key: secondary_headline
+  Value: |
+    Mulher histérica é retirada do Danúbio
+- Key: secondary_article
+  Value: |
+    Ontem à noite os transeuntes notaram uma mulher confusa à beira do rio. A mulher olhou na frente durante longos minutos e depois entrou no Danúbio e afundou. Por sorte, um policial que patrulhava perto foi atrás dela e a salvou. Se soube depois que ela era babá numa família de fabricantes de fósforo, Malvin Fabula. Foi transportada imediatamente para o manicômio de Lipótmező, onde foi submetida a uma terapia de choque.
+- Key: woman_in_the_water_0
+  Value: |
+    Um artigo sobre outra tragédia. Será que a  mulher é a irmã do garçom? Pode ter enlouquecido ao saber da morte do irmão.
+- Key: woman_in_the_water_1
+  Value: |
+    Mas ela não pode ter sabido do jornal, pois a notícia só apareceu nesta mesma edição! Vamos atrás dela no manicômio!
+- Key: windows_of_lipot
+  Value: |
+    Este é o Lipótmező. A bela janela da capela do Manicômio Real Húngaro de Buda, pintado por Miksa Róth.
+- Key: bad_writer
+  Value: |
+    Meu irmão é um péssimo poeta
+- Key: love_him
+  Value: |
+    Amo meu irmão
+- Key: good_writer
+  Value: |
+    Meu irmão é um ótimo poeta
+- Key: osvat_is_wrong
+  Value: |
+    Osvát está enganado
+- Key: osvat_must_die
+  Value: |
+    Osvát deverá sofrer por isto
+- Key: ending_1
+  Value: |
+    Que tragédia! A instável irmã do garçom, ao ver a crítica, quis envenenar o Ernő Osvát com fósforo.
+- Key: ending_2
+  Value: |
+    Só não calculou com a rejeição do café pelo Osvát, que viria a ser consumido pelo seu irmão, marcando assim o destino dele. A coitada da irmã enlouqueceu com a situação.
+- Key: ending_3
+  Value: |
+    O fósforo branco era um material frequentemente usado por suicidas e assassinos na época. O maior indício do envenenamento por fósforo foi o vômito fluorescente. Muitos tiveram que morrer para finalmente o fósforo branco ser substituído pelo vermelho.
+- Key: epilogue_1
+  Value: |
+    Embora nossa história seja fictícia, de uma forma peculiar ela projeta algo verdadeiro e importante sobre o início do século XX em Budapeste: a literatura era uma questão de vida ou morte na época… A revista Nyugat conseguiu se afirmar como o foro da emergente literatura moderna húngara graças ao rigor e exigências de editores como Osvát e o ambiente dos cafés literários com o New York que incentivava a produção intelectual. Como o maître relata no romance “Szindbád volta para casa”, de Márai: “Os cafés, lugares nada saudáveis de acordo com os médicos e professores de educação física, mas no que diz respeito à literatura são os únicos que são úteis, onde os literários estão minimamente protegidos contra as tentações mundanas, dos burocratas desagradáveis e a da dureza de um mundo regido pelo dinheiro. Seus pulmões e corações se desgastam por conta da nicotina e da cafeína, mas suas almas se abrilhantam, e é isso que importa”.
+- Key: epilogue_2
+  Value: |
+    O Café New York sofre ataques na Segunda Guerra Mundial, e fecha em 1947. Depois passa a funcionar como loja de artigos desportivos e agência de viagens. Tem que se esperar até 1954 para a reabertura, desta vez com o nome Hungária. Desde 2006 o café recebe seus clientes com o seu nome e esplendor antigos. 
+    Se for a Budapeste, não deixe de conhecer. Não há de que temer. O café da manhã pequeno literário já não está no cardápio.
+- Key: credits
+  Value: |
+    Basedo na idéia de Gábor Orbán,
+
+    Produzido sob encomenda do Instituto Cultural Húngaro de Paris por:
+
+    Ágnes Bakk 
+    László András Halák 
+    Dorottya Kovács 
+
+
+    Participaram do projeto no Instituto Cultural Húngaro de Paris:
+
+    Zita Bodnár 
+    Emma Bornai 
+    Orsolya Karinthi-Rébay 
+    Gábor Orbán 
+
+
+    Parceiros:
+
+    Fundação Artística Tű Fokán
+    Universidade de Artes Moholy-Nagy
+
+
+    Citação literária: 
+
+    Sándor Márai: “Szindbád volta para casa” (Editora Akadémiai, Editora Helikon, 1992)
+
+
+    Música:
+
+    Esther Abrami - No.2 Remembering Her
+    Emmit Fenn - Allégro
+
+
+    Efeitos de som: 
+
+    freesound.org
+
+
+    Imagens:
+
+    fortepan
+    arcanum
+    Arquivo da cidade de Budapeste 
+    Museu Geográfico Húngaro 
+    Gyula Somlai 
+    György Klösz 
+    Anantara New York Palace Budapest Hotel
+
+
+    Tradução para português: 
+
+    Balázs József 
+
+
+    Revisão: 
+
+    Gustavo Voeroes-Dénes
